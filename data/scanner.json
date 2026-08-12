@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-08-12T20:57:37.215891+00:00",
+  "generated_at": "2026-08-12T20:59:41.765289+00:00",
   "stats": {
     "universe": 409,
-    "known_assets": 400,
+    "known_assets": 409,
     "active_trades": 0,
     "signals_this_batch": 0,
     "exits_this_batch": 0,
-    "batch_processed": 4,
-    "batch_errors": 76,
-    "next_index": 400
+    "batch_processed": 5,
+    "batch_errors": 75,
+    "next_index": 71
   },
   "signals": [],
   "exits": [],
@@ -17,62 +17,26 @@
     {
       "symbol": "1INCH",
       "name": "1INCH",
-      "status": "ok",
-      "regime": "SQUEEZE",
-      "price_usd": 0.083071313085591,
-      "adx14": 27.32271187737131,
-      "relative_volume": 1.0734870266409267,
-      "zscore20": -0.08583271964496013,
-      "flow_score": 49.0,
-      "active": false,
-      "candidate": null,
-      "data_source": "CoinGecko fallback",
-      "updated_at": "2026-08-12T20:45:18.884228+00:00"
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
     },
     {
       "symbol": "A",
       "name": "Vaulta",
-      "status": "ok",
-      "regime": "SQUEEZE",
-      "price_usd": 0.06287618576055179,
-      "adx14": 22.17814976377765,
-      "relative_volume": 0.6932247867846626,
-      "zscore20": -0.4285966754500644,
-      "flow_score": 29.9,
-      "active": false,
-      "candidate": null,
-      "data_source": "CoinGecko fallback",
-      "updated_at": "2026-08-12T20:45:20.074590+00:00"
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
     },
     {
       "symbol": "AAVE",
       "name": "Aave",
-      "status": "ok",
-      "regime": "RANGE",
-      "price_usd": 88.77414280927552,
-      "adx14": 14.316144329290006,
-      "relative_volume": 0.6479972496374623,
-      "zscore20": -1.121773273072989,
-      "flow_score": 28.0,
-      "active": false,
-      "candidate": null,
-      "data_source": "CoinGecko fallback",
-      "updated_at": "2026-08-12T20:45:21.215101+00:00"
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
     },
     {
       "symbol": "ACE",
       "name": "Fusionist",
-      "status": "ok",
-      "regime": "UNCLEAR",
-      "price_usd": 0.10943117109209213,
-      "adx14": 34.45835524495468,
-      "relative_volume": 0.807516517889586,
-      "zscore20": 0.8720960345899799,
-      "flow_score": 37.3,
-      "active": false,
-      "candidate": null,
-      "data_source": "CoinGecko fallback",
-      "updated_at": "2026-08-12T20:45:22.401518+00:00"
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
     },
     {
       "symbol": "ACM",
@@ -2635,6 +2599,105 @@
     {
       "symbol": "ZCX",
       "name": "Unizen",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "ZEC",
+      "name": "Zcash",
+      "status": "ok",
+      "regime": "SQUEEZE",
+      "price_usd": 491.8551077924189,
+      "adx14": 11.836801710226204,
+      "relative_volume": 1.1040577694381615,
+      "zscore20": 0.11294426806287532,
+      "flow_score": 43.4,
+      "active": false,
+      "candidate": null,
+      "data_source": "CoinGecko fallback",
+      "updated_at": "2026-08-12T20:59:30.263316+00:00"
+    },
+    {
+      "symbol": "ZEN",
+      "name": "Horizen",
+      "status": "ok",
+      "regime": "RANGE",
+      "price_usd": 4.050639563344317,
+      "adx14": 14.873799166056038,
+      "relative_volume": 0.7510035731355614,
+      "zscore20": 0.04590772537823145,
+      "flow_score": 34.5,
+      "active": false,
+      "candidate": null,
+      "data_source": "CoinGecko fallback",
+      "updated_at": "2026-08-12T20:59:31.523281+00:00"
+    },
+    {
+      "symbol": "ZETA",
+      "name": "ZetaChain",
+      "status": "ok",
+      "regime": "UNCLEAR",
+      "price_usd": 0.02765050615669446,
+      "adx14": 42.31378664717265,
+      "relative_volume": 1.040235712721212,
+      "zscore20": -1.2720150969748392,
+      "flow_score": 53.3,
+      "active": false,
+      "candidate": null,
+      "data_source": "CoinGecko fallback",
+      "updated_at": "2026-08-12T20:59:32.844020+00:00"
+    },
+    {
+      "symbol": "ZEUS",
+      "name": "Zeus Network",
+      "status": "ok",
+      "regime": "SQUEEZE",
+      "price_usd": 0.00236720394428819,
+      "adx14": 20.315854384359096,
+      "relative_volume": 0.8309258661161414,
+      "zscore20": -0.6857031690653734,
+      "flow_score": 45.9,
+      "active": false,
+      "candidate": null,
+      "data_source": "CoinGecko fallback",
+      "updated_at": "2026-08-12T20:59:34.110681+00:00"
+    },
+    {
+      "symbol": "ZIL",
+      "name": "Zilliqa",
+      "status": "ok",
+      "regime": "UNCLEAR",
+      "price_usd": 0.0023397033085877854,
+      "adx14": 23.975424424109264,
+      "relative_volume": 0.33938345620439747,
+      "zscore20": -1.3467857089311654,
+      "flow_score": 30.5,
+      "active": false,
+      "candidate": null,
+      "data_source": "CoinGecko fallback",
+      "updated_at": "2026-08-12T20:59:35.366117+00:00"
+    },
+    {
+      "symbol": "ZK",
+      "name": "ZKsync",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "ZORA",
+      "name": "Zora",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "ZRO",
+      "name": "LayerZero",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "ZRX",
+      "name": "0x Protocol",
       "status": "error",
       "reason": "CoinGecko HTTP 429"
     }
