@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-08-12T20:56:11.217785+00:00",
+  "generated_at": "2026-08-12T20:57:37.215891+00:00",
   "stats": {
     "universe": 409,
-    "known_assets": 320,
+    "known_assets": 400,
     "active_trades": 0,
     "signals_this_batch": 0,
     "exits_this_batch": 0,
-    "batch_processed": 5,
-    "batch_errors": 75,
-    "next_index": 320
+    "batch_processed": 4,
+    "batch_errors": 76,
+    "next_index": 400
   },
   "signals": [],
   "exits": [],
@@ -2119,6 +2119,522 @@
     {
       "symbol": "SLF",
       "name": "Self Chain",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "SLP",
+      "name": "Smooth Love Potion",
+      "status": "ok",
+      "regime": "SQUEEZE",
+      "price_usd": 0.0005172331683887669,
+      "adx14": 21.03517712049111,
+      "relative_volume": 0.658942578973216,
+      "zscore20": -0.8791563073087093,
+      "flow_score": 37.0,
+      "active": false,
+      "candidate": null,
+      "data_source": "CoinGecko fallback",
+      "updated_at": "2026-08-12T20:57:29.790194+00:00"
+    },
+    {
+      "symbol": "SNEK",
+      "name": "Snek",
+      "status": "ok",
+      "regime": "RANGE",
+      "price_usd": 0.0003232843127928328,
+      "adx14": 19.928866318800736,
+      "relative_volume": 0.7002309939377508,
+      "zscore20": 0.4216170573468329,
+      "flow_score": 36.3,
+      "active": false,
+      "candidate": null,
+      "data_source": "CoinGecko fallback",
+      "updated_at": "2026-08-12T20:57:31.025169+00:00"
+    },
+    {
+      "symbol": "SNT",
+      "name": "Status",
+      "status": "ok",
+      "regime": "UNCLEAR",
+      "price_usd": 0.005044516396007408,
+      "adx14": 49.829877827016965,
+      "relative_volume": 0.3599790584014948,
+      "zscore20": -1.6569847566293807,
+      "flow_score": 15.0,
+      "active": false,
+      "candidate": null,
+      "data_source": "CoinGecko fallback",
+      "updated_at": "2026-08-12T20:57:32.260266+00:00"
+    },
+    {
+      "symbol": "SOL",
+      "name": "Solana",
+      "status": "ok",
+      "regime": "SQUEEZE",
+      "price_usd": 75.86703514684507,
+      "adx14": 11.352821051053828,
+      "relative_volume": 0.9109384099609108,
+      "zscore20": 1.2001499950919696,
+      "flow_score": 44.0,
+      "active": false,
+      "candidate": null,
+      "data_source": "CoinGecko fallback",
+      "updated_at": "2026-08-12T20:57:33.461459+00:00"
+    },
+    {
+      "symbol": "SPELL",
+      "name": "Spell",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "SPX",
+      "name": "SPX6900",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "SSV",
+      "name": "SSV Network",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "STARGATE",
+      "name": "Stargate",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "STEEM",
+      "name": "Steem",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "STMX",
+      "name": "StormX",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "STORJ",
+      "name": "Storj",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "STRAX",
+      "name": "Xertra",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "STRK",
+      "name": "Starknet",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "SUI",
+      "name": "Sui",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "SUNDOG",
+      "name": "Sundog",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "SUPER",
+      "name": "SuperVerse",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "SWELL",
+      "name": "Swell",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "SXP",
+      "name": "Solar",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "SYN",
+      "name": "Synapse",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "SYRUP",
+      "name": "Maple Finance",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "SYS",
+      "name": "Syscoin",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "TAIKO",
+      "name": "Taiko",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "TAO",
+      "name": "Bittensor",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "TFUEL",
+      "name": "Theta Fuel",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "TIA",
+      "name": "Celestia",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "TKO",
+      "name": "Tokocrypto",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "TLM",
+      "name": "Alien Worlds",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "TNSR",
+      "name": "Tensor",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "TOSHI",
+      "name": "Toshi",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "TRAC",
+      "name": "OriginTrail",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "TRB",
+      "name": "Tellor Tributes",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "TROY",
+      "name": "TROY",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "TRU",
+      "name": "TrueFi",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "TRX",
+      "name": "TRON",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "TURBO",
+      "name": "Turbo",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "TWT",
+      "name": "Trust Wallet",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "UMA",
+      "name": "UMA",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "UNI",
+      "name": "Uniswap",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "USELESS",
+      "name": "USELESS COIN",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "USTC",
+      "name": "TerraClassicUSD",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "UTK",
+      "name": "Utrust",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "VANRY",
+      "name": "Vanar",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "VET",
+      "name": "VeChain",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "VIC",
+      "name": "Viction",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "VIRTUAL",
+      "name": "Virtuals Protocol",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "VRA",
+      "name": "Verasity",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "VTHO",
+      "name": "VeThor",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "VVV",
+      "name": "Venice Token",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "W",
+      "name": "Wormhole",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "WAN",
+      "name": "Wanchain",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "WAVES",
+      "name": "Waves",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "WBTC",
+      "name": "Wrapped Bitcoin",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "WEMIX",
+      "name": "WEMIX",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "WIN",
+      "name": "WINkLink",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "WING",
+      "name": "Wing Finance",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "WLD",
+      "name": "Worldcoin",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "WLFI",
+      "name": "World Liberty Financial",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "WNXM",
+      "name": "Wrapped NXM",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "WOO",
+      "name": "WOO",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "WRX",
+      "name": "WazirX",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "XAI",
+      "name": "Xai",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "XAUT",
+      "name": "Tether Gold",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "XCH",
+      "name": "Chia",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "XCN",
+      "name": "Onyxcoin",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "XDC",
+      "name": "XDC Network",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "XEC",
+      "name": "eCash",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "XEM",
+      "name": "NEM",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "XNO",
+      "name": "Nano",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "XPL",
+      "name": "Plasma",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "XRD",
+      "name": "Radix",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "XRP",
+      "name": "XRP",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "XTZ",
+      "name": "Tezos",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "XVG",
+      "name": "Verge",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "XVS",
+      "name": "Venus",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "YFI",
+      "name": "yearn.finance",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "YFII",
+      "name": "DFI.money",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "YGG",
+      "name": "Yield Guild Games",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "ZBCN",
+      "name": "Zebec Network",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "ZBU",
+      "name": "Zeebu",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "ZCX",
+      "name": "Unizen",
       "status": "error",
       "reason": "CoinGecko HTTP 429"
     }
