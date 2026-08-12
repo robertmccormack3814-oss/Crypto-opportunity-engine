@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-08-12T20:45:28.529995+00:00",
+  "generated_at": "2026-08-12T20:48:43.463806+00:00",
   "stats": {
     "universe": 409,
-    "known_assets": 80,
+    "known_assets": 160,
     "active_trades": 0,
     "signals_this_batch": 0,
     "exits_this_batch": 0,
     "batch_processed": 4,
     "batch_errors": 76,
-    "next_index": 80
+    "next_index": 160
   },
   "signals": [],
   "exits": [],
@@ -527,6 +527,557 @@
     {
       "symbol": "CELO",
       "name": "Celo",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "CETUS",
+      "name": "Cetus Protocol",
+      "status": "ok",
+      "regime": "SQUEEZE",
+      "price_usd": 0.019408347779137247,
+      "adx14": 20.151890268625632,
+      "relative_volume": 1.1316350576338194,
+      "zscore20": 2.44400282907634,
+      "flow_score": 77.6,
+      "active": false,
+      "candidate": {
+        "symbol": "CETUS",
+        "name": "Cetus Protocol",
+        "strategy": "SQUEEZE_EXPANSION",
+        "direction": "LONG",
+        "regime": "SQUEEZE",
+        "signal_score": 80.5,
+        "flow_score": 77.6,
+        "reasons": [
+          "BB width pct 14",
+          "compression breakout",
+          "strong close"
+        ],
+        "regime_details": {
+          "bb_width_percentile": 14.166666666666666
+        },
+        "execution_risk": {
+          "pass": false,
+          "reasons": [
+            "20d dollar volume $36,360"
+          ],
+          "average_dollar_volume_20d": 36360.346533754026,
+          "atr_pct": 2.01695635284279,
+          "gap_pct": 0.0
+        },
+        "entry_price": 0.019408347779137247,
+        "atr14": 0.0003914579035131313,
+        "stop_loss": 0.01870372355281361,
+        "profit_target": 0.021522220458108157,
+        "risk_per_unit": 0.0007046242263236363,
+        "target_r": 3.0,
+        "data_source": "CoinGecko fallback",
+        "signal_date": "2026-08-12",
+        "timestamp": "2026-08-12T20:48:36.248278+00:00",
+        "rejected": true
+      },
+      "data_source": "CoinGecko fallback",
+      "updated_at": "2026-08-12T20:48:36.248326+00:00"
+    },
+    {
+      "symbol": "CHEEL",
+      "name": "Cheelee",
+      "status": "ok",
+      "regime": "SQUEEZE",
+      "price_usd": 0.3499725329133178,
+      "adx14": 41.64620057092199,
+      "relative_volume": 1.008112454760617,
+      "zscore20": -0.4750129581219839,
+      "flow_score": 54.1,
+      "active": false,
+      "candidate": null,
+      "data_source": "CoinGecko fallback",
+      "updated_at": "2026-08-12T20:48:37.433889+00:00"
+    },
+    {
+      "symbol": "CHEQ",
+      "name": "CHEQD Network",
+      "status": "ok",
+      "regime": "UNCLEAR",
+      "price_usd": 0.001431725422531423,
+      "adx14": 36.458695930546114,
+      "relative_volume": 1.0129077597232448,
+      "zscore20": -1.347354735636303,
+      "flow_score": 27.4,
+      "active": false,
+      "candidate": null,
+      "data_source": "CoinGecko fallback",
+      "updated_at": "2026-08-12T20:48:38.624551+00:00"
+    },
+    {
+      "symbol": "CHILLGUY",
+      "name": "CHILL GUY\u00ae (ETHEREUM)",
+      "status": "ok",
+      "regime": "SQUEEZE",
+      "price_usd": 5.943931777966738e-05,
+      "adx14": 35.33780762720303,
+      "relative_volume": 0.015236791001764529,
+      "zscore20": -2.1348650344868108,
+      "flow_score": 15.0,
+      "active": false,
+      "candidate": null,
+      "data_source": "CoinGecko fallback",
+      "updated_at": "2026-08-12T20:48:39.809842+00:00"
+    },
+    {
+      "symbol": "CHR",
+      "name": "Chromia",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "CHZ",
+      "name": "Chiliz",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "CKB",
+      "name": "Nervos Network",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "CLV",
+      "name": "Clover Finance",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "CMCX",
+      "name": "CORE MultiChain",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "COMP",
+      "name": "Compound",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "COQ",
+      "name": "Coq Inu",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "COS",
+      "name": "Contentos",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "COTI",
+      "name": "COTI",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "CRV",
+      "name": "Curve DAO",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "CSPR",
+      "name": "Casper Network",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "CTK",
+      "name": "Shentu",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "CTSI",
+      "name": "Cartesi",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "CTXC",
+      "name": "Cortex",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "CVC",
+      "name": "Civic",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "CVX",
+      "name": "Convex Finance",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "CYBER",
+      "name": "CYBER",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "DCR",
+      "name": "Decred",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "DEGO",
+      "name": "Dego Finance",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "DENT",
+      "name": "Dent",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "DEXE",
+      "name": "DeXe",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "DGB",
+      "name": "DigiByte",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "DIA",
+      "name": "DIA",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "DODO",
+      "name": "DODO",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "DOG",
+      "name": "DOG",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "DOGE",
+      "name": "Dogecoin",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "DOGS",
+      "name": "Dogs",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "DOT",
+      "name": "Polkadot",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "DRIFT",
+      "name": "Drift Protocol",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "DUSK",
+      "name": "DUSK",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "DYM",
+      "name": "Dymension",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "EDGE",
+      "name": "edgeX",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "EIGEN",
+      "name": "EigenCloud (prev. EigenLayer)",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "ELIZAOS",
+      "name": "ElizaOS",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "ENA",
+      "name": "Ethena",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "ENS",
+      "name": "Ethereum Name Service",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "EPIC",
+      "name": "Epic Chain",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "EQTY",
+      "name": "EQTY",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "ETH",
+      "name": "Ethereum",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "ETHDYDX",
+      "name": "dYdX",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "ETHFI",
+      "name": "Ether.fi",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "FARM",
+      "name": "Harvest Finance",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "FARTCOIN",
+      "name": "Fartcoin",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "FET",
+      "name": "Artificial Superintelligence Alliance",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "FIL",
+      "name": "Filecoin",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "FIO",
+      "name": "FIO Protocol",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "FIS",
+      "name": "Stafi",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "FLAMINGO",
+      "name": "Flamingo",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "FLOKI",
+      "name": "FLOKI",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "FLOW",
+      "name": "Flow",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "FLUX",
+      "name": "Datamine FLUX",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "FOR",
+      "name": "ForTube",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "FORM",
+      "name": "Four",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "FORTH",
+      "name": "Ampleforth Governance",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "FRAX",
+      "name": "Frax (prev. FXS)",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "FTT",
+      "name": "FTX",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "FUN",
+      "name": "FUNToken",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "FWOG",
+      "name": "Fwog",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "GALA",
+      "name": "GALA",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "GENI",
+      "name": "Genius",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "GFI",
+      "name": "Goldfinch",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "GHST",
+      "name": "Aavegotchi",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "GLM",
+      "name": "Golem",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "GLMR",
+      "name": "Moonbeam",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "GMT",
+      "name": "GMT",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "GMX",
+      "name": "GMX",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "GNO",
+      "name": "Gnosis",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "GNS",
+      "name": "Gains Network",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "GRASS",
+      "name": "Grass",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "GTC",
+      "name": "Gitcoin",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "HBAR",
+      "name": "Hedera",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "HEI",
+      "name": "Heima",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "HFT",
+      "name": "Hashflow",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "HIFI",
+      "name": "Hifi Finance",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "HIGH",
+      "name": "Highstreet",
       "status": "error",
       "reason": "CoinGecko HTTP 429"
     }
