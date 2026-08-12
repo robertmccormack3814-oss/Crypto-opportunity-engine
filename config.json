@@ -1,42 +1,49 @@
 {
-  "universe_batch_size": 250,
-  "history_period": "2y",
-  "required_history_days": 220,
-  "allow_short": false,
-  "account_equity_aud": null,
-  "risk_per_trade_pct": 0.5,
-  "minimum_average_dollar_volume_20d": 1000000,
-  "maximum_atr_pct": 12.0,
-  "maximum_gap_pct": 8.0,
-  "maximum_estimated_spread_pct": 0.8,
+  "batch_size": 80,
+  "minimum_history_days": 220,
+  "minimum_average_dollar_volume_20d": 5000000,
+  "maximum_atr_pct": 18.0,
+  "maximum_gap_pct": 12.0,
   "minimum_signal_score": 72,
+  "risk_per_trade_pct": 0.5,
+  "account_equity_aud": null,
   "trend": {
-    "adx_min": 22,
-    "relative_volume_min": 1.25,
-    "breakout_lookback": 20,
-    "stop_atr": 1.8,
+    "adx_min": 24,
+    "relative_volume_min": 1.35,
+    "stop_atr": 2.0,
     "target_r": 2.5
   },
   "mean_reversion": {
     "adx_max": 20,
-    "zscore_entry": -2.0,
-    "rsi5_max": 28,
-    "stop_atr": 1.3,
-    "target_r": 1.6
+    "zscore_entry": -2.2,
+    "rsi5_max": 24,
+    "stop_atr": 1.5,
+    "target_r": 1.7
   },
   "squeeze": {
-    "bb_width_percentile_max": 20,
-    "relative_volume_breakout_min": 1.4,
-    "stop_atr": 1.6,
+    "bb_width_percentile_max": 18,
+    "relative_volume_breakout_min": 1.5,
+    "stop_atr": 1.8,
     "target_r": 3.0
   },
   "exit": {
-    "trend_trailing_atr": 2.2,
-    "max_holding_days": 30
+    "trend_trailing_atr": 2.5,
+    "max_holding_days": 20
   },
   "alerts": {
     "email_to": "cooperfarleymusic@gmail.com",
     "enable_email": true,
     "enable_webhook": true
-  }
+  },
+  "exclude_symbols": [
+    "USDT",
+    "USDC",
+    "DAI",
+    "FDUSD",
+    "TUSD",
+    "PYUSD",
+    "USDE",
+    "USDS"
+  ],
+  "coingecko_delay_seconds": 1.0
 }
