@@ -1,1 +1,534 @@
-{"generated_at":null,"stats":{},"signals":[],"exits":[],"active_trades":[],"assets":[]}
+{
+  "generated_at": "2026-08-12T20:45:28.529995+00:00",
+  "stats": {
+    "universe": 409,
+    "known_assets": 80,
+    "active_trades": 0,
+    "signals_this_batch": 0,
+    "exits_this_batch": 0,
+    "batch_processed": 4,
+    "batch_errors": 76,
+    "next_index": 80
+  },
+  "signals": [],
+  "exits": [],
+  "active_trades": [],
+  "assets": [
+    {
+      "symbol": "1INCH",
+      "name": "1INCH",
+      "status": "ok",
+      "regime": "SQUEEZE",
+      "price_usd": 0.083071313085591,
+      "adx14": 27.32271187737131,
+      "relative_volume": 1.0734870266409267,
+      "zscore20": -0.08583271964496013,
+      "flow_score": 49.0,
+      "active": false,
+      "candidate": null,
+      "data_source": "CoinGecko fallback",
+      "updated_at": "2026-08-12T20:45:18.884228+00:00"
+    },
+    {
+      "symbol": "A",
+      "name": "Vaulta",
+      "status": "ok",
+      "regime": "SQUEEZE",
+      "price_usd": 0.06287618576055179,
+      "adx14": 22.17814976377765,
+      "relative_volume": 0.6932247867846626,
+      "zscore20": -0.4285966754500644,
+      "flow_score": 29.9,
+      "active": false,
+      "candidate": null,
+      "data_source": "CoinGecko fallback",
+      "updated_at": "2026-08-12T20:45:20.074590+00:00"
+    },
+    {
+      "symbol": "AAVE",
+      "name": "Aave",
+      "status": "ok",
+      "regime": "RANGE",
+      "price_usd": 88.77414280927552,
+      "adx14": 14.316144329290006,
+      "relative_volume": 0.6479972496374623,
+      "zscore20": -1.121773273072989,
+      "flow_score": 28.0,
+      "active": false,
+      "candidate": null,
+      "data_source": "CoinGecko fallback",
+      "updated_at": "2026-08-12T20:45:21.215101+00:00"
+    },
+    {
+      "symbol": "ACE",
+      "name": "Fusionist",
+      "status": "ok",
+      "regime": "UNCLEAR",
+      "price_usd": 0.10943117109209213,
+      "adx14": 34.45835524495468,
+      "relative_volume": 0.807516517889586,
+      "zscore20": 0.8720960345899799,
+      "flow_score": 37.3,
+      "active": false,
+      "candidate": null,
+      "data_source": "CoinGecko fallback",
+      "updated_at": "2026-08-12T20:45:22.401518+00:00"
+    },
+    {
+      "symbol": "ACM",
+      "name": "AC Milan Fan Token",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "ACT",
+      "name": "Act I The AI Prophecy",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "ADA",
+      "name": "Cardano",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "ADX",
+      "name": "heyAura",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "AERGO",
+      "name": "Aergo [OLD]",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "AERO",
+      "name": "Aerodrome Finance",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "AEVO",
+      "name": "Aevo",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "AGLD",
+      "name": "Adventure Gold",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "AI",
+      "name": "Sleepless AI",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "AIOZ",
+      "name": "AIOZ Network",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "AKT",
+      "name": "Akash Network",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "ALCX",
+      "name": "Alchemix",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "ALGO",
+      "name": "Algorand",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "ALICE",
+      "name": "My Neighbor Alice",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "ALLO",
+      "name": "Allora",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "ALPACA",
+      "name": "Alpaca Finance",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "ALT",
+      "name": "AltLayer",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "AMP",
+      "name": "Amp",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "ANKR",
+      "name": "Ankr Network",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "APE",
+      "name": "ApeCoin",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "API3",
+      "name": "Api3",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "APT",
+      "name": "Aptos",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "AR",
+      "name": "Arweave",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "ARB",
+      "name": "Arbitrum",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "ARDR",
+      "name": "Ardor",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "ARK",
+      "name": "ARK",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "ARKM",
+      "name": "Arkham",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "ARPA",
+      "name": "ARPA",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "ASR",
+      "name": "AS Roma Fan Token",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "ASTER",
+      "name": "Aster",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "ATH",
+      "name": "Aethir",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "ATM",
+      "name": "Atletico Madrid Fan Token",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "ATOM",
+      "name": "Cosmos Hub",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "AUDD",
+      "name": "Australian Digital Dollar",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "AUDF",
+      "name": "Forte AUD",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "AUDIO",
+      "name": "Audius",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "AUDX",
+      "name": "Aussie Dollar Token",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "AVA",
+      "name": "Ava AI",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "AVNT",
+      "name": "Avantis",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "AWE",
+      "name": "AWE Network",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "AXL",
+      "name": "Axelar",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "AXS",
+      "name": "Axie Infinity",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "BADGER",
+      "name": "Badger",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "BAKE",
+      "name": "BakerySwap",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "BAL",
+      "name": "Balancer",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "BANANA",
+      "name": "Banana Gun",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "BAND",
+      "name": "Band",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "BAR",
+      "name": "FC Barcelona Fan Token",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "BARD",
+      "name": "Lombard",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "BAT",
+      "name": "Basic Attention",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "BB",
+      "name": "BounceBit",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "BCH",
+      "name": "Bitcoin Cash",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "BEAM",
+      "name": "BEAM",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "BEL",
+      "name": "Bella Protocol",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "BERA",
+      "name": "Berachain",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "BICO",
+      "name": "Biconomy",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "BIGTIME",
+      "name": "Big Time",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "BILLY",
+      "name": "Billy",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "BLAST",
+      "name": "Blast",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "BLUR",
+      "name": "Blur",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "BLZ",
+      "name": "Bluzelle",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "BOME",
+      "name": "BOOK OF MEME",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "BOND",
+      "name": "BarnBridge",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "BONE",
+      "name": "Bone",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "BONK",
+      "name": "Bonk",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "BRETT",
+      "name": "Brett",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "BSV",
+      "name": "Bitcoin SV",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "BSW",
+      "name": "Biswap",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "BTC",
+      "name": "Bitcoin",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "BTT",
+      "name": "BitTorrent",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "C98",
+      "name": "Coin98",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "CAKE",
+      "name": "PancakeSwap",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "CAT",
+      "name": "Simon's Cat",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "CATI",
+      "name": "Catizen",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "CC",
+      "name": "Canton",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "CELO",
+      "name": "Celo",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    }
+  ]
+}
