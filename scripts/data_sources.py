@@ -1,4 +1,4 @@
-import os, time, random
+import os,time,random
 import requests
 import pandas as pd
 import yfinance as yf
@@ -6,45 +6,105 @@ from common import CONFIG
 
 H={"User-Agent":"Mozilla/5.0 Chrome/151 Safari/537.36"}
 BINANCE="https://api.binance.com"
-COINGECKO="https://api.coingecko.com/api/v3"
+CG="https://api.coingecko.com/api/v3"
 
-def supported():
+def binance_supported():
     try:
-        r=requests.get(
-            BINANCE+"/api/v3/exchangeInfo",
-            headers=H,
-            timeout=20
-        )
-        if r.status_code!=200:
-            print("Binance exchangeInfo HTTP",r.status_code)
-            return set()
-        return {
-            s["symbol"]
-            for s in r.json().get("symbols",[])
-            if s.get("status")=="TRADING"
-        }
+        r=requests.get(BINANCE+"/api/v3/exchangeInfo",headers=H,timeout=25)
+        r.raise_for_status()
+        return {s["symbol"] for s in r.json().get("symbols",[]) if s.get("status")=="TRADING"}
     except Exception as e:
-        print("Binance exchangeInfo error:",e)
+        print("Binance exchangeInfo failed:",e)
         return set()
 
-def binance(sym):
+def clean_yahoo_frame(df):
+    needed=["Open","High","Low","Close","Volume"]
+    if df is None or df.empty:
+        return None
+    if any(c not in df.columns for c in needed):
+        return None
+    x=df[needed].copy()
+    for c in needed:
+        x[c]=pd.to_numeric(x[c],errors="coerce")
+    x=x.dropna(subset=["Open","High","Low","Close"])
+    if len(x)<CONFIG["minimum_history_days"]:
+        return None
+    x.index=pd.to_datetime(x.index,utc=True)
+    return x.tail(450)
+
+def yahoo_batch(assets):
+    """
+    Fetch the whole slice in one yfinance call instead of one HTTP history
+    request per coin. Returns dict symbol -> DataFrame.
+    """
+    pairs=[]
+    by_pair={}
+    for a in assets:
+        pair=f"{a['symbol']}-USD"
+        if pair not in by_pair:
+            pairs.append(pair)
+            by_pair[pair]=a["symbol"]
+
+    out={}
+    if not pairs:
+        return out
+
+    try:
+        print("Yahoo batch request:",len(pairs),"tickers")
+        raw=yf.download(
+            pairs,
+            period="2y",
+            interval="1d",
+            group_by="ticker",
+            auto_adjust=False,
+            threads=True,
+            progress=False
+        )
+    except Exception as e:
+        print("Yahoo batch download failed:",e)
+        return out
+
+    multi=isinstance(raw.columns,pd.MultiIndex)
+
+    for pair in pairs:
+        try:
+            if multi:
+                # group_by=ticker normally places ticker in level 0.
+                if pair in raw.columns.get_level_values(0):
+                    frame=raw[pair]
+                elif pair in raw.columns.get_level_values(-1):
+                    frame=raw.xs(pair,axis=1,level=-1)
+                else:
+                    continue
+            else:
+                if len(pairs)!=1:
+                    continue
+                frame=raw
+
+            frame=clean_yahoo_frame(frame)
+            if frame is not None:
+                out[by_pair[pair]]=frame
+        except Exception:
+            continue
+
+    print("Yahoo usable histories:",len(out),"/",len(assets))
+    return out
+
+def binance_history(pair):
     try:
         r=requests.get(
             BINANCE+"/api/v3/klines",
-            params={"symbol":sym,"interval":"1d","limit":300},
-            headers=H,
-            timeout=20
+            params={"symbol":pair,"interval":"1d","limit":300},
+            headers=H,timeout=20
         )
         if r.status_code!=200:
-            return None,f"Binance HTTP {r.status_code}"
+            return None
 
         j=r.json()
-        if not isinstance(j,list):
-            return None,"Unexpected Binance response"
-        if len(j)<CONFIG["minimum_history_days"]:
-            return None,f"Binance only {len(j)} bars"
+        if not isinstance(j,list) or len(j)<CONFIG["minimum_history_days"]:
+            return None
 
-        df=pd.DataFrame({
+        return pd.DataFrame({
             "Date":[pd.to_datetime(x[0],unit="ms",utc=True) for x in j],
             "Open":[float(x[1]) for x in j],
             "High":[float(x[2]) for x in j],
@@ -52,55 +112,8 @@ def binance(sym):
             "Close":[float(x[4]) for x in j],
             "Volume":[float(x[5]) for x in j]
         }).set_index("Date")
-
-        return df,None
-    except Exception as e:
-        return None,f"Binance error: {e}"
-
-def yahoo(sym):
-    """
-    Yahoo often exposes crypto as SYMBOL-USD. This is an independent
-    OHLCV fallback, useful when Binance is unavailable to the runner
-    or the asset does not have a Binance USDT market.
-    """
-    ticker=f"{sym}-USD"
-    try:
-        df=yf.download(
-            ticker,
-            period="2y",
-            interval="1d",
-            auto_adjust=False,
-            progress=False,
-            threads=False
-        )
-        if df is None or df.empty:
-            return None,"Yahoo no data"
-
-        # yfinance can return one-level or MultiIndex columns.
-        if isinstance(df.columns,pd.MultiIndex):
-            try:
-                df=df.xs(ticker,axis=1,level=1)
-            except Exception:
-                df.columns=df.columns.get_level_values(0)
-
-        needed=["Open","High","Low","Close","Volume"]
-        if any(c not in df.columns for c in needed):
-            return None,"Yahoo missing OHLCV columns"
-
-        out=df[needed].copy()
-        for c in needed:
-            out[c]=pd.to_numeric(out[c],errors="coerce")
-        out=out.dropna(subset=["Open","High","Low","Close"])
-
-        if len(out)<CONFIG["minimum_history_days"]:
-            return None,f"Yahoo only {len(out)} bars"
-
-        # Keep UTC-compatible index.
-        out.index=pd.to_datetime(out.index,utc=True)
-        return out.tail(400),None
-
-    except Exception as e:
-        return None,f"Yahoo error: {e}"
+    except Exception:
+        return None
 
 def cg_headers():
     h=dict(H)
@@ -109,106 +122,109 @@ def cg_headers():
         h["x-cg-demo-api-key"]=key
     return h
 
-def cg(cid):
+def has_demo_key():
+    return bool(os.getenv("COINGECKO_DEMO_API_KEY","").strip())
+
+def coingecko_history(cid):
     if not cid:
         return None,"No CoinGecko ID"
 
-    # Do NOT force interval=daily. For >90 days CoinGecko automatically
-    # supplies daily granularity, which is compatible with more API tiers.
-    params={
-        "vs_currency":"usd",
-        "days":"300",
-        "precision":"full"
-    }
+    # >90 days uses daily auto-granularity per CoinGecko documentation.
+    params={"vs_currency":"usd","days":"300","precision":"full"}
 
     for attempt in range(5):
         try:
             r=requests.get(
-                f"{COINGECKO}/coins/{cid}/market_chart",
+                f"{CG}/coins/{cid}/market_chart",
                 params=params,
                 headers=cg_headers(),
-                timeout=30
+                timeout=35
             )
 
             if r.status_code==200:
                 js=r.json()
-                prices={}
-                vols={}
-
-                for ts,x in js.get("prices",[]):
+                p={}
+                v={}
+                for ts,val in js.get("prices",[]):
                     d=pd.to_datetime(ts,unit="ms",utc=True).normalize()
-                    prices[d]=float(x)
-
-                for ts,x in js.get("total_volumes",[]):
+                    p[d]=float(val)
+                for ts,val in js.get("total_volumes",[]):
                     d=pd.to_datetime(ts,unit="ms",utc=True).normalize()
-                    vols[d]=float(x)
+                    v[d]=float(val)
 
-                idx=sorted(prices)
+                idx=sorted(p)
                 if len(idx)<CONFIG["minimum_history_days"]:
                     return None,f"CoinGecko only {len(idx)} bars"
 
-                close=pd.Series([prices[d] for d in idx],index=idx,dtype=float)
-                volume=pd.Series([vols.get(d,0.0) for d in idx],index=idx,dtype=float)
-
-                # Market-chart provides daily price/volume, not full candles.
-                # Create conservative proxy OHLC from adjacent daily closes.
+                close=pd.Series([p[d] for d in idx],index=idx,dtype=float)
+                vol=pd.Series([v.get(d,0.0) for d in idx],index=idx,dtype=float)
                 prev=close.shift(1).fillna(close)
+
+                # CoinGecko market_chart is price/volume history, not true daily
+                # OHLC. This proxy is explicitly tagged as lower-quality data.
                 df=pd.DataFrame({
                     "Open":prev,
                     "High":pd.concat([close,prev],axis=1).max(axis=1),
                     "Low":pd.concat([close,prev],axis=1).min(axis=1),
                     "Close":close,
-                    "Volume":volume
+                    "Volume":vol
                 })
                 return df,None
 
             if r.status_code==429:
-                wait=min(50,7*(attempt+1))+random.uniform(.5,1.5)
-                print(f"CoinGecko 429 {cid}: wait {wait:.1f}s")
+                wait=max(12,12*(attempt+1))+random.uniform(0.5,2.0)
+                print(f"CoinGecko 429 {cid}; backing off {wait:.1f}s")
                 time.sleep(wait)
                 continue
 
             if 500<=r.status_code<600:
-                wait=3*(attempt+1)+random.uniform(.2,.8)
+                wait=5*(attempt+1)
                 time.sleep(wait)
                 continue
 
             return None,f"CoinGecko HTTP {r.status_code}"
 
         except requests.RequestException as e:
-            wait=3*(attempt+1)
+            wait=5*(attempt+1)
             print("CoinGecko request error:",cid,e)
             time.sleep(wait)
 
     return None,"CoinGecko retries exhausted"
 
-def get_history(asset, binance_symbols):
+def prepare_batch(assets):
     """
-    Robust hierarchy:
-      1. Binance OHLCV when the pair exists.
-      2. Yahoo SYMBOL-USD OHLCV.
-      3. CoinGecko daily price/volume proxy.
+    Resolve as much of a scan slice as possible without CoinGecko:
+      1) one batched Yahoo call;
+      2) Binance for unresolved supported pairs.
     """
-    errors=[]
+    histories={}
+    sources={}
+    reasons={}
 
-    bpair=asset.get("binance_symbol")
-    if bpair and bpair in binance_symbols:
-        df,err=binance(bpair)
-        if df is not None:
-            return df,"Binance",None
-        if err:
-            errors.append(err)
+    y=yahoo_batch(assets)
+    for a in assets:
+        sym=a["symbol"]
+        if sym in y:
+            histories[sym]=y[sym]
+            sources[sym]="Yahoo"
+            continue
 
-    df,err=yahoo(asset["symbol"])
-    if df is not None:
-        return df,"Yahoo",None
-    if err:
-        errors.append(err)
+    supp=binance_supported()
+    print("Binance supported pairs:",len(supp))
 
-    df,err=cg(asset.get("coingecko_id"))
-    if df is not None:
-        return df,"CoinGecko fallback",None
-    if err:
-        errors.append(err)
+    for a in assets:
+        sym=a["symbol"]
+        if sym in histories:
+            continue
+        pair=a.get("binance_symbol") or (sym+"USDT")
+        if pair in supp:
+            df=binance_history(pair)
+            if df is not None:
+                histories[sym]=df
+                sources[sym]="Binance"
+            else:
+                reasons[sym]="Binance history unavailable"
+        else:
+            reasons[sym]="No Yahoo history and no Binance USDT pair"
 
-    return None,None," | ".join(errors[-3:]) or "No usable market data"
+    return histories,sources,reasons
