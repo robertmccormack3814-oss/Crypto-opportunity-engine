@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-08-12T20:48:43.463806+00:00",
+  "generated_at": "2026-08-12T20:53:28.078030+00:00",
   "stats": {
     "universe": 409,
-    "known_assets": 160,
+    "known_assets": 240,
     "active_trades": 0,
     "signals_this_batch": 0,
     "exits_this_batch": 0,
     "batch_processed": 4,
     "batch_errors": 76,
-    "next_index": 160
+    "next_index": 240
   },
   "signals": [],
   "exits": [],
@@ -1078,6 +1078,522 @@
     {
       "symbol": "HIGH",
       "name": "Highstreet",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "HIVE",
+      "name": "Hive",
+      "status": "ok",
+      "regime": "UNCLEAR",
+      "price_usd": 0.03977119055949989,
+      "adx14": 50.55774425146751,
+      "relative_volume": 1.1091139373482866,
+      "zscore20": -1.4550657197603292,
+      "flow_score": 27.2,
+      "active": false,
+      "candidate": null,
+      "data_source": "CoinGecko fallback",
+      "updated_at": "2026-08-12T20:53:20.586211+00:00"
+    },
+    {
+      "symbol": "HMSTR",
+      "name": "Hamster Kombat",
+      "status": "ok",
+      "regime": "RANGE",
+      "price_usd": 0.0001794858693146194,
+      "adx14": 16.275818322808632,
+      "relative_volume": 0.7655050150358453,
+      "zscore20": -0.06552793425669831,
+      "flow_score": 36.7,
+      "active": false,
+      "candidate": null,
+      "data_source": "CoinGecko fallback",
+      "updated_at": "2026-08-12T20:53:21.770451+00:00"
+    },
+    {
+      "symbol": "HNT",
+      "name": "Helium",
+      "status": "ok",
+      "regime": "SQUEEZE",
+      "price_usd": 0.18011092837350046,
+      "adx14": 49.08048128085379,
+      "relative_volume": 0.5415055994676842,
+      "zscore20": -1.027346074871929,
+      "flow_score": 39.5,
+      "active": false,
+      "candidate": null,
+      "data_source": "CoinGecko fallback",
+      "updated_at": "2026-08-12T20:53:22.965787+00:00"
+    },
+    {
+      "symbol": "HOOK",
+      "name": "Hooked Protocol",
+      "status": "ok",
+      "regime": "UNCLEAR",
+      "price_usd": 0.00349407492466165,
+      "adx14": 50.64538263608354,
+      "relative_volume": 0.524295187715197,
+      "zscore20": -1.1279833302803854,
+      "flow_score": 39.3,
+      "active": false,
+      "candidate": null,
+      "data_source": "CoinGecko fallback",
+      "updated_at": "2026-08-12T20:53:24.151632+00:00"
+    },
+    {
+      "symbol": "HPP",
+      "name": "House Party Protocol",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "HYPE",
+      "name": "Hyperliquid",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "ICP",
+      "name": "Internet Computer",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "ICX",
+      "name": "ICON",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "ID",
+      "name": "SPACE ID",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "IDEX",
+      "name": "IDEX",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "ILV",
+      "name": "Illuvium",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "IMX",
+      "name": "Immutable",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "INJ",
+      "name": "Injective",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "IO",
+      "name": "io.net",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "IOST",
+      "name": "IOST",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "IOTA",
+      "name": "IOTA",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "IOTX",
+      "name": "IoTeX",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "IRIS",
+      "name": "IRISnet",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "JASMY",
+      "name": "JasmyCoin",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "JOE",
+      "name": "JOE",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "JST",
+      "name": "JUST",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "JTO",
+      "name": "Jito",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "JUP",
+      "name": "Jupiter Project",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "JUV",
+      "name": "Juventus Fan Token",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "KAIA",
+      "name": "Kaia",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "KAS",
+      "name": "Kaspa",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "KAVA",
+      "name": "Kava",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "KITE",
+      "name": "Kite",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "KLAY",
+      "name": "Klaytn",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "KMD",
+      "name": "Komodo",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "KNCL",
+      "name": "Kyber Network Crystal Legacy",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "KSM",
+      "name": "Kusama",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "L3",
+      "name": "Layer3",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "LDO",
+      "name": "Lido DAO",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "LINK",
+      "name": "Chainlink",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "LISTA",
+      "name": "Lista DAO",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "LIT",
+      "name": "Litentry",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "LPT",
+      "name": "Livepeer",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "LQTY",
+      "name": "Liquity",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "LRC",
+      "name": "Loopring",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "LSK",
+      "name": "Lisk",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "LTC",
+      "name": "Litecoin",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "LUMIA",
+      "name": "Lumia",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "LUNA",
+      "name": "Terra",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "MAGIC",
+      "name": "Treasure",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "MANA",
+      "name": "Decentraland",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "MANTRA",
+      "name": "MANTRA",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "MASK",
+      "name": "Mask Network",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "MATIC",
+      "name": "MATIC (migrated to POL)",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "MBL",
+      "name": "MovieBloc",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "MBOX",
+      "name": "Mobox",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "MDT",
+      "name": "Measurable Data",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "MELANIA",
+      "name": "Melania Meme",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "MERL",
+      "name": "Merlin Chain",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "MET",
+      "name": "Meteora",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "METIS",
+      "name": "Metis",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "MEW",
+      "name": "cat in a dogs world",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "MKR",
+      "name": "Maker",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "MLN",
+      "name": "Enzyme",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "MNT",
+      "name": "Mantle",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "MOG",
+      "name": "Mog Coin",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "MON",
+      "name": "Monad",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "MOODENG",
+      "name": "Moo Deng",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "MORPHO",
+      "name": "Morpho",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "MOVE",
+      "name": "Movement",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "MOVR",
+      "name": "Moonriver",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "MPLX",
+      "name": "Metaplex",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "MTL",
+      "name": "Metal DAO",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "NAKA",
+      "name": "Nakamoto Games",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "NAVX",
+      "name": "NAVI Protocol",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "NEAR",
+      "name": "NEAR Protocol",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "NEO",
+      "name": "NEO",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "NEXO",
+      "name": "NEXO",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "NFP",
+      "name": "NFPrompt",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "NKN",
+      "name": "NKN",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "NMR",
+      "name": "Numeraire",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "NMT",
+      "name": "NetMind Token",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "NOM",
+      "name": "Nomina",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "NOT",
+      "name": "Notcoin",
+      "status": "error",
+      "reason": "CoinGecko HTTP 429"
+    },
+    {
+      "symbol": "NTRN",
+      "name": "Neutron",
       "status": "error",
       "reason": "CoinGecko HTTP 429"
     }
