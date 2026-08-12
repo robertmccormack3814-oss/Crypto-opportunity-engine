@@ -1,0 +1,49 @@
+name: Scan crypto opportunity engine
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "15 0,4,8,12,16,20 * * *"
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+concurrency:
+  group: crypto-opportunity-engine
+  cancel-in-progress: false
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - name: Refresh cached Swyftx universe
+        run: python scripts/build_universe.py
+      - name: Scan next crypto batch
+        env:
+          SMTP_USERNAME: ${{ secrets.SMTP_USERNAME }}
+          SMTP_APP_PASSWORD: ${{ secrets.SMTP_APP_PASSWORD }}
+          ALERT_WEBHOOK_URL: ${{ secrets.ALERT_WEBHOOK_URL }}
+          COINGECKO_DEMO_API_KEY: ${{ secrets.COINGECKO_DEMO_API_KEY }}
+        run: python scripts/scan.py
+      - name: Commit state
+        run: |
+          git config user.name "Crypto Opportunity Bot"
+          git config user.email "actions@github.com"
+          git add data
+          git diff --cached --quiet || git commit -m "Refresh crypto opportunity engine"
+          git pull --rebase
+          git push
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: .
+      - name: Deploy Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
