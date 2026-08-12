@@ -1,19 +1,54 @@
 <!doctype html><html><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Crypto Opportunity Engine</title>
 <style>body{font-family:Arial;background:#f4f6f8;color:#142033;margin:0;padding:18px}.w{max-width:1600px;margin:auto}.c{background:#fff;padding:18px;border-radius:16px;margin-bottom:15px}.g{display:grid;grid-template-columns:repeat(auto-fit,minmax(125px,1fr));gap:10px}.s{background:#f8fafc;padding:13px;border-radius:11px}.n{font-size:22px;font-weight:700}.bar{display:flex;gap:10px;flex-wrap:wrap}input,select{padding:11px;border:1px solid #d0d5dd;border-radius:9px;font-size:15px}input{flex:1;min-width:240px}.tw{overflow:auto}table{width:100%;border-collapse:collapse;min-width:1700px}th,td{padding:9px 6px;border-bottom:1px solid #e6e9ee;text-align:left;white-space:nowrap}.on,.live{color:#087443;font-weight:700}.err{color:#b42318;font-weight:700}.stale{color:#b54708;font-weight:700}.muted{color:#667085}</style></head>
 <body><div class="w">
-<div class="c"><h1>Crypto Regime-Aware Opportunity Engine</h1><p class="muted">Swyftx-listed assets · Binance → Yahoo → CoinGecko data routing · Trend/Breakout · Mean Reversion · Squeeze/Expansion</p>
+<div class="c"><h1>Crypto Regime-Aware Opportunity Engine</h1><p class="muted">Swyftx-listed assets · Values displayed in AUD · Trend/Breakout · Mean Reversion · Squeeze/Expansion</p>
 <div class="bar"><input id="q" placeholder="Search coin or symbol"><select id="f"><option value="signals">Current Signals</option><option value="active">Active Trades</option><option value="live">Live Data</option><option value="errors">Data Errors</option><option value="trend">Trend</option><option value="range">Range</option><option value="squeeze">Squeeze</option><option value="all">All Processed</option></select></div></div>
 <div class="c"><div class="g">
-<div class="s">Universe<div class="n" id="u">—</div></div><div class="s">Known<div class="n" id="k">—</div></div><div class="s">Live data<div class="n" id="lv">—</div></div><div class="s">Stale kept<div class="n" id="st">—</div></div><div class="s">Data errors<div class="n" id="de">—</div></div><div class="s">Active<div class="n" id="a">—</div></div><div class="s">New signals<div class="n" id="ns">—</div></div><div class="s">Next cursor<div class="n" id="cur">—</div></div><div class="s">Last refresh<div id="up">—</div></div>
+<div class="s">Universe<div class="n" id="u">—</div></div><div class="s">Known<div class="n" id="k">—</div></div><div class="s">Live data<div class="n" id="lv">—</div></div><div class="s">Stale kept<div class="n" id="st">—</div></div><div class="s">Data errors<div class="n" id="de">—</div></div><div class="s">Active<div class="n" id="a">—</div></div><div class="s">New signals<div class="n" id="ns">—</div></div><div class="s">Next cursor<div class="n" id="cur">—</div></div><div class="s">USD→AUD<div class="n" id="fx">—</div><div id="fxs" class="muted"></div></div><div class="s">Last refresh<div id="up">—</div></div>
 </div></div>
 <div class="c tw"><table><thead><tr>
-<th>Symbol</th><th>Name</th><th>Data</th><th>Source</th><th>Regime</th><th>Price USD</th><th>ADX</th><th>Rel Vol</th><th>Z-score</th><th>Price/Volume</th><th>Strategy</th><th>Setup Score</th><th>Entry</th><th>Stop</th><th>Risk %</th><th>Target</th><th>Target %</th><th>R/R</th><th>Status / Error</th>
+<th>Symbol</th><th>Name</th><th>Data</th><th>Source</th><th>Regime</th><th>Price AUD</th><th>ADX</th><th>Rel Vol</th><th>Z-score</th><th>Price/Volume</th><th>Strategy</th><th>Setup Score</th><th>Entry AUD</th><th>Stop AUD</th><th>Risk %</th><th>Target AUD</th><th>Target %</th><th>R/R</th><th>Status / Error</th>
 </tr></thead><tbody id="r"></tbody></table></div></div>
 <script>
 let D={assets:[],stats:{}};
-const money=n=>n==null?"—":"$"+Number(n).toPrecision(6),num=n=>n==null?"—":Number(n).toFixed(2),pct=n=>Number(n).toFixed(1)+"%";
-function met(c){if(!c||c.entry_price==null||c.stop_loss==null||c.profit_target==null)return{};let e=+c.entry_price,s=+c.stop_loss,t=+c.profit_target,rr=Math.abs(e-s);return{rp:rr/e*100,tp:(t-e)/e*100,r:rr?Math.abs(t-e)/rr:null}}
-async function load(){D=await(await fetch("data/scanner.json?t="+Date.now(),{cache:"no-store"})).json();let s=D.stats||{};u.textContent=s.universe||0;k.textContent=s.known_assets||0;lv.textContent=s.live_assets||0;st.textContent=s.stale_assets||0;de.textContent=s.data_errors_total||0;a.textContent=s.active_trades||0;ns.textContent=s.signals_this_batch||0;cur.textContent=s.next_index||0;up.textContent=D.generated_at?new Date(D.generated_at).toLocaleString():"—";render()}
-function render(){let z=q.value.toLowerCase(),v=f.value;let arr=(D.assets||[]).filter(x=>{if(z&&!((x.symbol||"").toLowerCase().includes(z)||(x.name||"").toLowerCase().includes(z)))return false;if(v==="active"&&!x.active)return false;if(v==="signals"&&!(x.candidate&&!x.candidate.rejected))return false;if(v==="live"&&x.data_status!=="LIVE")return false;if(v==="errors"&&!(x.status==="error"||x.data_status==="STALE"))return false;if(v==="trend"&&x.regime!=="TREND")return false;if(v==="range"&&x.regime!=="RANGE")return false;if(v==="squeeze"&&x.regime!=="SQUEEZE")return false;return true});r.innerHTML=arr.map(x=>{let c=x.candidate||{},m=met(c),ds=x.data_status||(x.status==="ok"?"LIVE":"ERROR"),dc=ds==="LIVE"?"live":(ds==="STALE"?"stale":"err"),status=x.active?"ACTIVE":(c.rejected?"REJECTED":(c.strategy?"SIGNAL":(x.data_error||x.reason||"—")));return `<tr><td><b>${x.symbol||""}</b></td><td>${x.name||""}</td><td class="${dc}">${ds}</td><td>${x.data_source||"—"}</td><td>${x.regime||"—"}</td><td>${money(x.price_usd)}</td><td>${num(x.adx14)}</td><td>${num(x.relative_volume)}</td><td>${num(x.zscore20)}</td><td>${num(x.flow_score)}</td><td>${c.strategy||"—"}</td><td>${c.signal_score==null?"—":num(c.signal_score)+"/100"}</td><td>${money(c.entry_price)}</td><td>${money(c.stop_loss)}</td><td>${m.rp==null?"—":"−"+pct(m.rp)}</td><td>${money(c.profit_target)}</td><td>${m.tp==null?"—":"+"+pct(m.tp)}</td><td>${m.r==null?"—":num(m.r)+"R"}</td><td class="${x.active?"on":(x.status==="error"?"err":"")}">${status}</td></tr>`}).join("")}
+const money=n=>n==null?"—":"A$"+Number(n).toLocaleString(undefined,{maximumFractionDigits:8});
+const num=n=>n==null?"—":Number(n).toFixed(2);
+const pct=n=>Number(n).toFixed(1)+"%";
+function met(c){
+ if(!c||c.entry_price==null||c.stop_loss==null||c.profit_target==null)return{};
+ let e=+c.entry_price,s=+c.stop_loss,t=+c.profit_target,rr=Math.abs(e-s);
+ return{rp:rr/e*100,tp:(t-e)/e*100,r:rr?Math.abs(t-e)/rr:null}
+}
+async function load(){
+ D=await(await fetch("data/scanner.json?t="+Date.now(),{cache:"no-store"})).json();
+ let s=D.stats||{};
+ u.textContent=s.universe||0;k.textContent=s.known_assets||0;lv.textContent=s.live_assets||0;st.textContent=s.stale_assets||0;de.textContent=s.data_errors_total||0;a.textContent=s.active_trades||0;ns.textContent=s.signals_this_batch||0;cur.textContent=s.next_index||0;
+ fx.textContent=s.usd_to_aud?Number(s.usd_to_aud).toFixed(4):"—";fxs.textContent=s.fx_source||"";
+ up.textContent=D.generated_at?new Date(D.generated_at).toLocaleString():"—";render()
+}
+function render(){
+ let z=q.value.toLowerCase(),v=f.value;
+ let arr=(D.assets||[]).filter(x=>{
+  if(z&&!((x.symbol||"").toLowerCase().includes(z)||(x.name||"").toLowerCase().includes(z)))return false;
+  if(v==="active"&&!x.active)return false;
+  if(v==="signals"&&!(x.candidate&&!x.candidate.rejected))return false;
+  if(v==="live"&&x.data_status!=="LIVE")return false;
+  if(v==="errors"&&!(x.status==="error"||x.data_status==="STALE"))return false;
+  if(v==="trend"&&x.regime!=="TREND")return false;
+  if(v==="range"&&x.regime!=="RANGE")return false;
+  if(v==="squeeze"&&x.regime!=="SQUEEZE")return false;
+  return true
+ });
+ r.innerHTML=arr.map(x=>{
+  let c=x.candidate||{},m=met(c),ds=x.data_status||(x.status==="ok"?"LIVE":"ERROR"),dc=ds==="LIVE"?"live":(ds==="STALE"?"stale":"err");
+  let status=x.active?"ACTIVE":(c.rejected?"REJECTED":(c.strategy?"SIGNAL":(x.data_error||x.reason||"—")));
+  let rate=x.usd_to_aud||(D.stats||{}).usd_to_aud||1;
+  let pa=x.price_aud!=null?x.price_aud:(x.price_usd!=null?x.price_usd*rate:null);
+  let ea=c.entry_price_aud!=null?c.entry_price_aud:(c.entry_price!=null?c.entry_price*rate:null);
+  let sa=c.stop_loss_aud!=null?c.stop_loss_aud:(c.stop_loss!=null?c.stop_loss*rate:null);
+  let ta=c.profit_target_aud!=null?c.profit_target_aud:(c.profit_target!=null?c.profit_target*rate:null);
+  return `<tr><td><b>${x.symbol||""}</b></td><td>${x.name||""}</td><td class="${dc}">${ds}</td><td>${x.data_source||"—"}</td><td>${x.regime||"—"}</td><td>${money(pa)}</td><td>${num(x.adx14)}</td><td>${num(x.relative_volume)}</td><td>${num(x.zscore20)}</td><td>${num(x.flow_score)}</td><td>${c.strategy||"—"}</td><td>${c.signal_score==null?"—":num(c.signal_score)+"/100"}</td><td>${money(ea)}</td><td>${money(sa)}</td><td>${m.rp==null?"—":"−"+pct(m.rp)}</td><td>${money(ta)}</td><td>${m.tp==null?"—":"+"+pct(m.tp)}</td><td>${m.r==null?"—":num(m.r)+"R"}</td><td class="${x.active?"on":(x.status==="error"?"err":"")}">${status}</td></tr>`
+ }).join("")
+}
 q.oninput=render;f.onchange=render;load()
 </script></body></html>
