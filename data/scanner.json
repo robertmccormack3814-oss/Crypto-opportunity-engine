@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-08-13T05:54:13.364163+00:00",
+  "generated_at": "2026-08-13T09:52:15.372434+00:00",
   "stats": {
     "universe": 409,
     "known_assets": 409,
     "live_assets": 342,
-    "stale_assets": 8,
-    "data_errors_total": 59,
+    "stale_assets": 11,
+    "data_errors_total": 56,
     "active_trades": 0,
     "signals_this_batch": 0,
     "exits_this_batch": 0,
-    "batch_processed": 65,
-    "batch_errors": 15,
+    "batch_processed": 62,
+    "batch_errors": 18,
     "stale_kept_this_batch": 4,
     "coingecko_requests_this_batch": 5,
-    "next_index": 222,
-    "usd_to_aud": 1.4184000492095947,
+    "next_index": 302,
+    "usd_to_aud": 1.417099952697754,
     "fx_source": "Yahoo AUD=X"
   },
   "signals": [],
@@ -38,8 +38,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:09.302459+00:00",
-      "price_aud": 0.11772719960360511,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.11761929159722939,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "A",
@@ -58,8 +58,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:10.457373+00:00",
-      "price_aud": 0.08836954283977837,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.08828854387586618,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "AAVE",
@@ -78,8 +78,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:10.469580+00:00",
-      "price_aud": 124.98941623210158,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 124.87485172390734,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "ACT",
@@ -98,8 +98,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:10.481771+00:00",
-      "price_aud": 0.00014875315459572658,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.00014861680839528546,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "ADA",
@@ -118,8 +118,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:10.494001+00:00",
-      "price_aud": 0.25729777041458135,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.25706193290596957,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "ADX",
@@ -138,8 +138,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:10.506272+00:00",
-      "price_aud": 0.08695453613180693,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.08687483415409147,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "AERGO",
@@ -158,8 +158,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:10.518453+00:00",
-      "price_aud": 0.010212480178881878,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.010203119484157419,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "AERO",
@@ -178,8 +178,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:10.530825+00:00",
-      "price_aud": 4.971225065413063e-05,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 4.9666684719677084e-05,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "AEVO",
@@ -198,8 +198,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:10.542962+00:00",
-      "price_aud": 0.027126630952325037,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.027101766854006115,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "AGLD",
@@ -218,8 +218,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:10.555044+00:00",
-      "price_aud": 0.22609296950105673,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.22588573411555046,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "AIOZ",
@@ -238,8 +238,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:10.567509+00:00",
-      "price_aud": 0.0713455201672124,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.07128012531478234,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "AKT",
@@ -258,8 +258,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:10.579556+00:00",
-      "price_aud": 0.7389864648662581,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.7383091145476328,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "ALCX",
@@ -278,8 +278,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:10.592071+00:00",
-      "price_aud": 2.8084321244888315,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 2.8058579333705893,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "ALGO",
@@ -298,8 +298,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:10.604418+00:00",
-      "price_aud": 0.11191176663874636,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.11180918902143588,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "ALICE",
@@ -318,8 +318,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:10.616744+00:00",
-      "price_aud": 0.16311600861811648,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.16296649751654257,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "ALLO",
@@ -338,8 +338,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:10.628774+00:00",
-      "price_aud": 0.4201301047887043,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.419745016192536,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "ALPACA",
@@ -358,8 +358,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:10.640944+00:00",
-      "price_aud": 0.0008842052896865793,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.0008833948327118257,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "AMP",
@@ -378,8 +378,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:10.653160+00:00",
-      "price_aud": 0.0005432472273121658,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.0005427492903403719,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "ANKR",
@@ -398,8 +398,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:10.665488+00:00",
-      "price_aud": 0.004765824127511142,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.004761455803266035,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "APE",
@@ -418,8 +418,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:10.677954+00:00",
-      "price_aud": 0.1775610122413589,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.17739826094084776,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "API3",
@@ -438,8 +438,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:10.690244+00:00",
-      "price_aud": 0.26524081833286317,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.2649977002767798,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "APT",
@@ -458,8 +458,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:10.702393+00:00",
-      "price_aud": 0.00018581039710839284,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.0001856400844739009,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "AR",
@@ -478,8 +478,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:10.714896+00:00",
-      "price_aud": 2.482423618419773,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 2.480148244635757,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "ARB",
@@ -498,8 +498,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:10.727124+00:00",
-      "price_aud": 0.0008922144398436638,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.0008913966417325447,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "ARDR",
@@ -518,8 +518,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:10.739276+00:00",
-      "price_aud": 0.028484339762015143,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.02845823119639057,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "ARK",
@@ -538,8 +538,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:10.751526+00:00",
-      "price_aud": 0.12719435062022733,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.12707776508312207,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "ARKM",
@@ -558,8 +558,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:10.763843+00:00",
-      "price_aud": 0.1304928047809124,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.13037319590159058,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "ARPA",
@@ -578,8 +578,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:10.776131+00:00",
-      "price_aud": 0.012198240837464347,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.012187060007082806,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "ASR",
@@ -598,8 +598,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:10.788469+00:00",
-      "price_aud": 1.205574554641359,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 1.2044695326314354,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "ATM",
@@ -618,8 +618,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:10.800628+00:00",
-      "price_aud": 2.201671949381506,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 2.199653910801203,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "ATOM",
@@ -638,8 +638,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:10.812865+00:00",
-      "price_aud": 1.981504805169294,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 1.9796885704005263,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "AUDD",
@@ -658,8 +658,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:10.825110+00:00",
-      "price_aud": 1.0080240774354223,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 1.0071001289431365,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "AUDIO",
@@ -678,8 +678,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:10.837228+00:00",
-      "price_aud": 0.017162640502438542,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.01714690933473051,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "AUDX",
@@ -698,8 +698,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:10.849332+00:00",
-      "price_aud": 1.0014139803700033,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 1.00049609065087,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "AVA",
@@ -718,8 +718,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:10.861536+00:00",
-      "price_aud": 0.26330302406902817,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.26306168218290793,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "AVNT",
@@ -738,8 +738,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:10.873458+00:00",
-      "price_aud": 0.12645035961879714,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.12633445601913706,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "AWE",
@@ -758,8 +758,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:10.885839+00:00",
-      "price_aud": 0.08266456952488976,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.08258879970342647,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "AXS",
@@ -778,8 +778,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:10.898398+00:00",
-      "price_aud": 1.2169872144916525,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 1.2158717317099104,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "BADGER",
@@ -798,8 +798,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:10.910512+00:00",
-      "price_aud": 0.5050922475812527,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.5046292832224992,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "BAKE",
@@ -818,8 +818,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:10.922689+00:00",
-      "price_aud": 0.001057755370255209,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.001056785838374541,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "BAL",
@@ -838,8 +838,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:10.934949+00:00",
-      "price_aud": 0.14964120197896946,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.14950404179991494,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "BAND",
@@ -858,8 +858,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:10.947079+00:00",
-      "price_aud": 0.2269440028009413,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.22673598736369627,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "BAR",
@@ -878,8 +878,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:10.959383+00:00",
-      "price_aud": 0.3724901208885427,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.37214869880023116,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "BAT",
@@ -898,8 +898,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:10.971518+00:00",
-      "price_aud": 0.08212536336494924,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.08205008777644096,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "BCH",
@@ -918,8 +918,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:10.983959+00:00",
-      "price_aud": 301.0554104447365,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 300.77946496009827,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "BEAM",
@@ -938,8 +938,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:10.996011+00:00",
-      "price_aud": 0.011353091218067934,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.011342685046480838,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "BEL",
@@ -958,8 +958,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:11.009926+00:00",
-      "price_aud": 0.14696507054228292,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.14683036328837318,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "BERA",
@@ -978,8 +978,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:11.023655+00:00",
-      "price_aud": 0.20141281358213448,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.20122819987140872,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "BICO",
@@ -998,8 +998,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:11.036008+00:00",
-      "price_aud": 0.04741144241073769,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.04736798538256437,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "BIGTIME",
@@ -1018,8 +1018,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:11.048064+00:00",
-      "price_aud": 0.006879240441570289,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.006872934973301881,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "BLAST",
@@ -1031,8 +1031,8 @@
       "data_quality": "DAILY_PROXY",
       "regime": "RANGE",
       "price_usd": 0.00024343428001028764,
-      "price_aud": 0.0003452871947458942,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 0.0003449707066875904,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 17.884625017301616,
       "relative_volume": 0.4147534125953539,
       "zscore20": -0.7027894516445365,
@@ -1051,8 +1051,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "SQUEEZE",
       "price_usd": 0.013199999928474426,
-      "price_aud": 0.018722880548114773,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 0.018705719274251464,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 15.230171184092622,
       "relative_volume": 0.5753942933056442,
       "zscore20": -1.3542047798907217,
@@ -1071,8 +1071,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
       "price_usd": 0.006260000169277191,
-      "price_aud": 0.00887918454815484,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 0.008871045943770639,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 48.359090572642984,
       "relative_volume": 0.6548224201006665,
       "zscore20": -0.43519897563773685,
@@ -1091,8 +1091,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
       "price_usd": 0.0007713589584454894,
-      "price_aud": 0.001094095584617344,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 0.0010930927435260918,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 53.32246757804404,
       "relative_volume": 1.0264930274281527,
       "zscore20": 1.46061866836994,
@@ -1111,8 +1111,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "RANGE",
       "price_usd": 0.03760587424039841,
-      "price_aud": 0.05334017387315093,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 0.053291282607226265,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 18.172357415715272,
       "relative_volume": 0.13245033112582782,
       "zscore20": -0.167950348491317,
@@ -1131,8 +1131,8 @@
       "data_quality": "DAILY_PROXY",
       "regime": "SQUEEZE",
       "price_usd": 0.0006159214546919879,
-      "price_aud": 0.0008736230216443608,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 0.0008728222643095479,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 71.47966661293063,
       "relative_volume": 0.5422138774846024,
       "zscore20": -1.6959805150909872,
@@ -1151,8 +1151,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
       "price_usd": 2.2399999579647556e-06,
-      "price_aud": 3.1772160506066995e-06,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 3.174303834474826e-06,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 56.25604453160901,
       "relative_volume": 0.8449747208819667,
       "zscore20": -1.0663135600900384,
@@ -1171,8 +1171,8 @@
       "data_quality": "DAILY_PROXY",
       "regime": "SQUEEZE",
       "price_usd": 0.0001242530564401359,
-      "price_aud": 0.00017624054136913133,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 0.00017607900040386793,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 14.360377557389338,
       "relative_volume": 0.5254755168371888,
       "zscore20": 0.7810232104859678,
@@ -1191,8 +1191,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
       "price_usd": 14.53584098815918,
-      "price_aud": 20.617637572907825,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 20.598739576742446,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 23.89187868898273,
       "relative_volume": 0.8809575550674001,
       "zscore20": 1.703068915848014,
@@ -1211,8 +1211,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
       "price_usd": 0.0003565599035937339,
-      "price_aud": 0.0005057445848035205,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 0.000505281022516596,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 62.92087521813945,
       "relative_volume": 1.736324523663184,
       "zscore20": -0.42763006781549356,
@@ -1231,8 +1231,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "SQUEEZE",
       "price_usd": 63424.05078125,
-      "price_aud": 89960.67674919683,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 89878.21936200932,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 11.15557832724368,
       "relative_volume": 1.057851360987477,
       "zscore20": -0.9150032292182808,
@@ -1251,8 +1251,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "RANGE",
       "price_usd": 2.6202357616966765e-07,
-      "price_aud": 3.716542533331306e-07,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 3.7131359739573234e-07,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 19.567962538816847,
       "relative_volume": 1.1084796972852708,
       "zscore20": 4.358898943540673,
@@ -1271,8 +1271,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
       "price_usd": 0.013899999670684338,
-      "price_aud": 0.019715760216912015,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 0.01969768887582557,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 34.81345882891717,
       "relative_volume": 0.7686253271321374,
       "zscore20": 0.6660239250403586,
@@ -1291,8 +1291,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "RANGE",
       "price_usd": 1.4459999799728394,
-      "price_aud": 2.0510064427505483,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 2.0491265032204637,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 10.018861021268057,
       "relative_volume": 0.7501648676884992,
       "zscore20": 1.009586222453598,
@@ -1311,8 +1311,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "SQUEEZE",
       "price_usd": 0.01750200055539608,
-      "price_aud": 0.024824838449040154,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 0.024802084159167848,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 11.295931514146423,
       "relative_volume": null,
       "zscore20": -0.569687829783402,
@@ -1331,8 +1331,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
       "price_usd": 0.0426156185567379,
-      "price_aud": 0.060445995457974355,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 0.0603905910409388,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 33.59076165207246,
       "relative_volume": 0.5023140923423173,
       "zscore20": 0.9326497456540989,
@@ -1351,8 +1351,8 @@
       "data_quality": "DAILY_PROXY",
       "regime": "UNCLEAR",
       "price_usd": 0.09879755382175806,
-      "price_aud": 0.14013445520256923,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 0.14000600884746714,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 50.769090861046905,
       "relative_volume": 0.8325484113758871,
       "zscore20": -1.098358219892442,
@@ -1371,8 +1371,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "RANGE",
       "price_usd": 0.06129999831318855,
-      "price_aud": 0.08694792062397472,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 0.08686822470999189,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 18.587242811346194,
       "relative_volume": 0.48643924187082554,
       "zscore20": -0.714808484616524,
@@ -1391,8 +1391,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
       "price_usd": 0.019234957173466682,
-      "price_aud": 0.02728286420138959,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 0.027257856900662958,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 26.545386183771715,
       "relative_volume": 1.0319648007444275,
       "zscore20": 1.8810312023658655,
@@ -1411,8 +1411,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "SQUEEZE",
       "price_usd": 0.3509691655635834,
-      "price_aud": 0.49781468170643706,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 0.49735838791852416,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 18.048707905750653,
       "relative_volume": 0.9987928617580689,
       "zscore20": -0.07316989605692448,
@@ -1431,8 +1431,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "RANGE",
       "price_usd": 0.0014345597010105848,
-      "price_aud": 0.002034779550507515,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 0.0020329144844442038,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 19.177505064232502,
       "relative_volume": 0.9556499880020141,
       "zscore20": -1.1939800911703997,
@@ -1451,8 +1451,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
       "price_usd": 0.010881282389163971,
-      "price_aud": 0.015434011476253673,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 0.015419864758975166,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 26.846458103651905,
       "relative_volume": 0.8143534139175723,
       "zscore20": 0.6823407622443917,
@@ -1471,8 +1471,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
       "price_usd": 0.013418873772025108,
-      "price_aud": 0.019033331218577754,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 0.01901588538759391,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 20.222211504829144,
       "relative_volume": 0.6951587670481367,
       "zscore20": 0.5435995585058273,
@@ -1491,8 +1491,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "SQUEEZE",
       "price_usd": 0.012400000356137753,
-      "price_aud": 0.01758816111534478,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 0.01757203991813494,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 45.45013286282863,
       "relative_volume": 0.8041216642487437,
       "zscore20": -1.3525329244456443,
@@ -1511,8 +1511,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "SQUEEZE",
       "price_usd": 0.000818779633846134,
-      "price_aud": 0.0011613570729391703,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 0.0011602925803932407,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 16.204246288764757,
       "relative_volume": 0.8059502702618606,
       "zscore20": -0.8212858981205464,
@@ -1531,8 +1531,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "SQUEEZE",
       "price_usd": 0.001989030512049794,
-      "price_aud": 0.0028212409761708135,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 0.0028186550445401526,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 38.58236198993456,
       "relative_volume": 0.3967564554828273,
       "zscore20": -1.1143793084861888,
@@ -1559,8 +1559,8 @@
       "candidate": null,
       "updated_at": "2026-08-12T21:21:00.188081+00:00",
       "last_attempt_at": "2026-08-12T21:35:10.342824+00:00",
-      "price_aud": 22.922825395833936,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 22.90181447909344,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "COQ",
@@ -1572,8 +1572,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "RANGE",
       "price_usd": 7.833676818336244e-08,
-      "price_aud": 1.111128758462019e-07,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 1.1101103048713782e-07,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 8.944730414099697,
       "relative_volume": 0.5226038996954426,
       "zscore20": 4.358898943540673,
@@ -1592,8 +1592,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "RANGE",
       "price_usd": 0.00021853929501958191,
-      "price_aud": 0.0003099761468100051,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 0.00030969202463485,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 16.384955713221245,
       "relative_volume": 0.8476628553996395,
       "zscore20": 0.5136490091052304,
@@ -1612,8 +1612,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
       "price_usd": 0.012600000016391277,
-      "price_aud": 0.017871840643290282,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 0.017855459427219778,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 49.508058455387655,
       "relative_volume": 0.8769231331408724,
       "zscore20": 0.1557235979793908,
@@ -1632,8 +1632,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
       "price_usd": 0.26579999923706055,
-      "price_aud": 0.3770107319977569,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 0.3766651663459015,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 30.172757405061294,
       "relative_volume": 2.661458977543752,
       "zscore20": 2.191982223969776,
@@ -1652,8 +1652,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
       "price_usd": 0.0022623478434979916,
-      "price_aud": 0.0032089142925467717,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 0.0032059730220068694,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 39.42359474444332,
       "relative_volume": 1.0480658889131296,
       "zscore20": 2.0520302106227004,
@@ -1680,8 +1680,8 @@
       "candidate": null,
       "updated_at": "2026-08-12T21:21:01.520666+00:00",
       "last_attempt_at": "2026-08-12T21:35:10.410236+00:00",
-      "price_aud": 0.15279094068202873,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.15265089347240526,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "CTSI",
@@ -1693,8 +1693,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
       "price_usd": 0.024800000712275505,
-      "price_aud": 0.03517632223068956,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 0.03514407983626988,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 35.175370469642395,
       "relative_volume": 0.478851744002904,
       "zscore20": 0.5854320113620309,
@@ -1721,8 +1721,8 @@
       "candidate": null,
       "updated_at": "2026-08-12T21:21:02.836552+00:00",
       "last_attempt_at": "2026-08-12T21:35:10.423284+00:00",
-      "price_aud": 0.0011692313297090198,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.0011681596196691502,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "CVC",
@@ -1734,8 +1734,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "RANGE",
       "price_usd": 0.017400000244379044,
-      "price_aud": 0.024680161202874196,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 0.02465753952325045,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 17.169443283207276,
       "relative_volume": 0.6107009052976379,
       "zscore20": -1.4441354510562376,
@@ -1754,8 +1754,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
       "price_usd": 1.7519999742507935,
-      "price_aud": 2.485036849692534,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 2.4827590806372655,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 41.89266102379677,
       "relative_volume": 1.4841786218297062,
       "zscore20": 2.1236066968211627,
@@ -1774,8 +1774,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "SQUEEZE",
       "price_usd": 0.00013035185111220926,
-      "price_aud": 0.00018489107203211938,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 0.0001847216020451764,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 17.709528525891663,
       "relative_volume": 0.3508771929824561,
       "zscore20": 1.3511025602197662,
@@ -1794,8 +1794,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
       "price_usd": 12.180548667907715,
-      "price_aud": 17.276890829960166,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 17.261054941124712,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 23.394424090576436,
       "relative_volume": 0.8951060933186459,
       "zscore20": -0.5123618263723194,
@@ -1814,8 +1814,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "SQUEEZE",
       "price_usd": 0.02059396170079708,
-      "price_aud": 0.02921047628983109,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 0.0291837021520589,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 52.37272902236592,
       "relative_volume": 1.020826880217852,
       "zscore20": 0.17494481812605156,
@@ -1834,8 +1834,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
       "price_usd": 2.662518818397075e-05,
-      "price_aud": 3.776516823035883e-05,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 3.7730552916073745e-05,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 36.60095141480677,
       "relative_volume": 1.0408392672424378,
       "zscore20": -0.5201935355340831,
@@ -1854,8 +1854,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
       "price_usd": 1.9594818353652954,
-      "price_aud": 2.779329131707442,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 2.776781616208268,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 43.15326486576409,
       "relative_volume": 0.14731724667817378,
       "zscore20": -0.9210871188743294,
@@ -1874,8 +1874,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
       "price_usd": 0.0040979511104524136,
-      "price_aud": 0.005812534056724217,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 0.005807206324779823,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 51.95294335298224,
       "relative_volume": 0.7753918488417647,
       "zscore20": 1.3822968993937153,
@@ -1894,8 +1894,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
       "price_usd": 0.122809998691082,
-      "price_aud": 0.17419370818686097,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 0.17403404333594352,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 44.44949356164416,
       "relative_volume": 0.25254950588258185,
       "zscore20": 0.5226051946124708,
@@ -1914,8 +1914,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
       "price_usd": 0.021537691354751587,
-      "price_aud": 0.030549062477440714,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 0.030521061400037297,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 39.29209594200417,
       "relative_volume": 1.8053894471247671,
       "zscore20": 0.7598354890561074,
@@ -1934,8 +1934,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "SQUEEZE",
       "price_usd": 0.0695199966430664,
-      "price_aud": 0.09860716665957625,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 0.09851678395443741,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 24.062645243946704,
       "relative_volume": 0.9975890661813126,
       "zscore20": -0.7128389475172191,
@@ -1954,8 +1954,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "RANGE",
       "price_usd": 0.7748000025749207,
-      "price_aud": 1.0989763617798616,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 1.0979690469991397,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 14.835671443147168,
       "relative_volume": 0.6350827443349911,
       "zscore20": -0.8466852315941875,
@@ -1974,8 +1974,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "SQUEEZE",
       "price_usd": 0.06117459014058113,
-      "price_aud": 0.08677004166577706,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 0.086690508794522,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 26.628030377305286,
       "relative_volume": 0.9517118257493887,
       "zscore20": -0.21318710647778333,
@@ -1994,8 +1994,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
       "price_usd": 0.014156406745314598,
-      "price_aud": 0.020079448024185265,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 0.02006104332915548,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 23.82914549992601,
       "relative_volume": 0.5647265382940733,
       "zscore20": 0.2741884357820219,
@@ -2014,8 +2014,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
       "price_usd": 0.05229172483086586,
-      "price_aud": 0.07417058507335472,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 0.07410260078430397,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 32.944384774827064,
       "relative_volume": 6.8017621145374445,
       "zscore20": 0.030451731331709666,
@@ -2034,8 +2034,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "RANGE",
       "price_usd": 0.16899999976158142,
-      "price_aud": 0.23970960797824858,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 0.23948989166805745,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 18.780820433206454,
       "relative_volume": 0.7507494998337448,
       "zscore20": -1.425301461623434,
@@ -2054,8 +2054,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
       "price_usd": 0.00021668733097612858,
-      "price_aud": 0.0003073493209196365,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 0.00030706760647647435,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 22.197386875553892,
       "relative_volume": 2.1147698156642294,
       "zscore20": -1.43418585144401,
@@ -2074,8 +2074,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
       "price_usd": 0.08556000143289566,
-      "price_aud": 0.1213583102427922,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 0.1212470739833762,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 22.686201865253793,
       "relative_volume": 0.7116289797878794,
       "zscore20": -0.28528284417053595,
@@ -2094,8 +2094,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "SQUEEZE",
       "price_usd": 4.039999961853027,
-      "price_aud": 5.730336144699095,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 5.725083754840853,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 9.704432173318606,
       "relative_volume": 0.721163429155801,
       "zscore20": -2.0574847729197097,
@@ -2114,8 +2114,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
       "price_usd": 0.2100319266319275,
-      "price_aud": 0.29790929507031194,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 0.29763623329512257,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 29.673163472097748,
       "relative_volume": 0.6771913786435076,
       "zscore20": -0.4659913849822429,
@@ -2134,8 +2134,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
       "price_usd": 0.0018967519281432033,
-      "price_aud": 0.002690353028216713,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 0.002687887067651107,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 49.047471847989684,
       "relative_volume": 0.2715428440623649,
       "zscore20": 0.31053467769017307,
@@ -2154,8 +2154,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
       "price_usd": 6.260000228881836,
-      "price_aud": 8.87918463269807,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 8.871046028236378,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 27.97205088856601,
       "relative_volume": 0.8276767863037491,
       "zscore20": -1.8122703813696148,
@@ -2174,8 +2174,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "SQUEEZE",
       "price_usd": 1877.0400390625,
-      "price_aud": 2662.3936837746296,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 2659.953350567259,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 16.639065882913428,
       "relative_volume": 0.9406953220654403,
       "zscore20": -0.5068936829661383,
@@ -2194,8 +2194,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "SQUEEZE",
       "price_usd": 0.10989747196435928,
-      "price_aud": 0.15587857964225726,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 0.15573570232229628,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 15.540477021199832,
       "relative_volume": 1.0082331587879911,
       "zscore20": -1.0806995023719623,
@@ -2214,8 +2214,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "RANGE",
       "price_usd": 0.37400001287460327,
-      "price_aud": 0.5304816366657263,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 0.5299954005535596,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 14.19082215758426,
       "relative_volume": 0.7485259601336862,
       "zscore20": -1.010943703461188,
@@ -2234,8 +2234,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
       "price_usd": 5.070000171661377,
-      "price_aud": 7.191288492977151,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 7.1846970034389415,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 30.602066007358033,
       "relative_volume": 0.3034207218030399,
       "zscore20": -1.2700830538433219,
@@ -2254,8 +2254,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "SQUEEZE",
       "price_usd": 0.13040000200271606,
-      "price_aud": 0.18495936925758372,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 0.18478983666983595,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 11.390493825387203,
       "relative_volume": 0.8740450724078649,
       "zscore20": 0.46299783323467686,
@@ -2274,8 +2274,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
       "price_usd": 0.13311000168323517,
-      "price_aud": 0.18880323293779,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 0.1886301770889105,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 31.733460999557323,
       "relative_volume": 0.7319707176855144,
       "zscore20": -1.1996289145082355,
@@ -2294,8 +2294,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "SQUEEZE",
       "price_usd": 0.6740000247955322,
-      "price_aud": 0.956001668337251,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 0.9551254032560337,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 30.809209901257894,
       "relative_volume": 0.729124218872708,
       "zscore20": -2.012830125014851,
@@ -2314,8 +2314,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "SQUEEZE",
       "price_usd": 0.0009358175448141992,
-      "price_aud": 0.0013273636516156623,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 0.00132614699848993,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 64.38750259614154,
       "relative_volume": 1.039640852428391,
       "zscore20": 0.9938322933126165,
@@ -2334,8 +2334,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
       "price_usd": 0.0015840418636798859,
-      "price_aud": 0.0022468050573936083,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 0.002244745650092028,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 49.423946639768786,
       "relative_volume": 0.3921986596701401,
       "zscore20": -1.3528981063061127,
@@ -2354,8 +2354,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "SQUEEZE",
       "price_usd": 2.029999996011611e-05,
-      "price_aud": 2.8793520942383462e-05,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 2.8767128983244947e-05,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 14.316065316460337,
       "relative_volume": 0.7695518981725286,
       "zscore20": -1.189585661317008,
@@ -2374,8 +2374,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
       "price_usd": 0.03272999823093414,
-      "price_aud": 0.04642423110138694,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 0.04638167894485434,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 27.56401627108279,
       "relative_volume": 1.9456730312414967,
       "zscore20": 1.9778463929608863,
@@ -2394,8 +2394,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "SQUEEZE",
       "price_usd": 0.03892834857106209,
-      "price_aud": 0.05521597152884272,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 0.05516536091865376,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 18.427235439050772,
       "relative_volume": 0.6052508884466404,
       "zscore20": -0.6022928619249764,
@@ -2414,8 +2414,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "SQUEEZE",
       "price_usd": 5.8300305681768805e-05,
-      "price_aud": 8.269315644795529e-05,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 8.261736042389917e-05,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 16.93991921086999,
       "relative_volume": 2.5,
       "zscore20": 1.5420572685199487,
@@ -2457,12 +2457,12 @@
         "data_quality": "FULL_OHLCV",
         "signal_date": "2026-08-12",
         "timestamp": "2026-08-12T21:35:10.873965+00:00",
-        "entry_price_aud": 8.269315644795529e-05,
-        "stop_loss_aud": 8.157141175448617e-05,
-        "profit_target_aud": 8.605839052836261e-05,
-        "atr14_aud": 6.23191496371726e-07,
-        "risk_per_unit_aud": 1.1217446934691068e-06,
-        "usd_to_aud": 1.4184000492095947,
+        "entry_price_aud": 8.261736042389917e-05,
+        "stop_loss_aud": 8.149664391451957e-05,
+        "profit_target_aud": 8.597950995203797e-05,
+        "atr14_aud": 6.226202829886658e-07,
+        "risk_per_unit_aud": 1.1207165093795984e-06,
+        "usd_to_aud": 1.417099952697754,
         "rejected": true,
         "rejection_reasons": [
           "20d dollar volume $0"
@@ -2480,8 +2480,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
       "price_usd": 0.00022400000307243317,
-      "price_aud": 0.0003177216153808886,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 0.0003174303937582418,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 65.53989772204528,
       "relative_volume": null,
       "zscore20": -0.0938874269651424,
@@ -2500,8 +2500,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
       "price_usd": 0.18930000066757202,
-      "price_aud": 0.26850313026226047,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 0.2682570219917011,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 47.058306390389966,
       "relative_volume": 0.44510490672810515,
       "zscore20": -0.13423554077830638,
@@ -2520,8 +2520,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
       "price_usd": 0.990528404712677,
-      "price_aud": 1.4049655379879624,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 1.4036777554641162,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 55.12684380014376,
       "relative_volume": 0.4607594380031598,
       "zscore20": -0.836697627715846,
@@ -2540,8 +2540,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "SQUEEZE",
       "price_usd": 0.19909264147281647,
-      "price_aud": 0.2823930124623111,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 0.2821341728135991,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 7.942751887869326,
       "relative_volume": 0.9900525311145795,
       "zscore20": -0.17065323491461154,
@@ -2560,8 +2560,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "SQUEEZE",
       "price_usd": 0.004257537424564362,
-      "price_aud": 0.006038891292513782,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 0.006033356082959074,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 22.141500839119512,
       "relative_volume": 0.4055453479533634,
       "zscore20": -0.6933195470417398,
@@ -2580,8 +2580,8 @@
       "data_quality": "DAILY_PROXY",
       "regime": "RANGE",
       "price_usd": 0.004243288762477376,
-      "price_aud": 0.00601868098950843,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 0.006013164304589601,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 13.13431830978146,
       "relative_volume": 1.0155279846411462,
       "zscore20": 0.48962629230205185,
@@ -2600,8 +2600,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
       "price_usd": 0.0016431501135230064,
-      "price_aud": 0.0023306442018797835,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 0.0023285079481487614,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 24.120078988825572,
       "relative_volume": 0.8401144036826061,
       "zscore20": -2.870530439981128,
@@ -2620,8 +2620,8 @@
       "data_quality": "DAILY_PROXY",
       "regime": "SQUEEZE",
       "price_usd": 3.509646168493501e-07,
-      "price_aud": 4.978082298099447e-07,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 4.973519419357993e-07,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 21.051167501843963,
       "relative_volume": 6.426150992103756,
       "zscore20": -0.3056856260950024,
@@ -2640,8 +2640,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
       "price_usd": 8.23777008918114e-05,
-      "price_aud": 0.00011684453499871857,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 0.00011673743603713566,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 43.68995344289479,
       "relative_volume": 14.26829268292683,
       "zscore20": -3.917979381954864,
@@ -2660,8 +2660,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "SQUEEZE",
       "price_usd": 0.043299999088048935,
-      "price_aud": 0.061416720837264016,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 0.06136042665948693,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 10.641958795684737,
       "relative_volume": 0.317345511396363,
       "zscore20": -1.5831744944693513,
@@ -2680,8 +2680,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "RANGE",
       "price_usd": 0.0885000005364418,
-      "price_aud": 0.1255284051159382,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 0.12541334657394287,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 16.556965139001203,
       "relative_volume": 1.1136113545141164,
       "zscore20": -1.2451302679837306,
@@ -2700,8 +2700,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
       "price_usd": 0.007515850011259317,
-      "price_aud": 0.010660482025822149,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 0.010650710695438992,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 32.25645632221375,
       "relative_volume": 1.2554934860584475,
       "zscore20": -0.7825286105454853,
@@ -2720,8 +2720,8 @@
       "data_quality": "DAILY_PROXY",
       "regime": "SQUEEZE",
       "price_usd": 0.00653095158955791,
-      "price_aud": 0.00926350205601442,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 0.009255011188633835,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 28.46475697610652,
       "relative_volume": 0.975709296385785,
       "zscore20": -0.8872948798932122,
@@ -2740,8 +2740,8 @@
       "data_quality": "DAILY_PROXY",
       "regime": "RANGE",
       "price_usd": 6.599227633977734,
-      "price_aud": 9.360344800779336,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 9.351765167951557,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 16.02516794550679,
       "relative_volume": 0.6234454879330102,
       "zscore20": 0.5127296654086413,
@@ -2760,8 +2760,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "SQUEEZE",
       "price_usd": 103.72000122070312,
-      "price_aud": 147.11645483546454,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 146.98160882366938,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 45.31573429809273,
       "relative_volume": 0.7497312648552363,
       "zscore20": -1.1577006272251118,
@@ -2780,8 +2780,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "SQUEEZE",
       "price_usd": 0.5247099995613098,
-      "price_aud": 0.7442486891985283,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 0.7435665155583706,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 27.77214923459857,
       "relative_volume": 0.909906495824102,
       "zscore20": 0.9425227944350293,
@@ -2800,8 +2800,8 @@
       "data_quality": "DAILY_PROXY",
       "regime": "SQUEEZE",
       "price_usd": 0.3109541176479845,
-      "price_aud": 0.4410573357738273,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 0.4406530654101306,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 33.76726009758045,
       "relative_volume": 1.0584704511118113,
       "zscore20": -0.1325392182125905,
@@ -2827,8 +2827,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:23:51.259560+00:00",
-      "price_aud": 0.11620072871365274,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 0.11609421986083779,
+      "usd_to_aud": 1.417099952697754,
       "last_attempt_at": "2026-08-13T05:54:12.719556+00:00"
     },
     {
@@ -2841,8 +2841,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "SQUEEZE",
       "price_usd": 0.06633000075817108,
-      "price_aud": 0.09408247633946232,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 0.09399624093684622,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 13.542219357860043,
       "relative_volume": 0.6791637724406078,
       "zscore20": -1.9684641461483408,
@@ -2868,8 +2868,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:23:52.507170+00:00",
-      "price_aud": 0.1891650030017535,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 0.18899161555672206,
+      "usd_to_aud": 1.417099952697754,
       "last_attempt_at": "2026-08-13T05:54:12.731798+00:00"
     },
     {
@@ -2889,8 +2889,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:23:53.904277+00:00",
-      "price_aud": 0.012318973272038876,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 0.012307681779071598,
+      "usd_to_aud": 1.417099952697754,
       "last_attempt_at": "2026-08-13T05:54:12.731807+00:00"
     },
     {
@@ -2910,8 +2910,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:25:12.308176+00:00",
-      "price_aud": 0.0018874976374563229,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 0.0018857675690627607,
+      "usd_to_aud": 1.417099952697754,
       "last_attempt_at": "2026-08-13T05:54:12.731813+00:00"
     },
     {
@@ -2924,8 +2924,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
       "price_usd": 0.0203699991106987,
-      "price_aud": 0.028892807741014437,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 0.028866324776224417,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 25.323537416473513,
       "relative_volume": 0.17066687768420097,
       "zscore20": -1.1300187704265667,
@@ -2944,8 +2944,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
       "price_usd": 0.03990933299064636,
-      "price_aud": 0.0566073998778549,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 0.05655551389324387,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 32.10918026061782,
       "relative_volume": 1.0619747945619578,
       "zscore20": -1.2970695317248275,
@@ -2964,8 +2964,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
       "price_usd": 0.00018061645096167922,
-      "price_aud": 0.00025618638293210816,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 0.0002559515641142318,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 41.72409902397303,
       "relative_volume": 0.5817609965243473,
       "zscore20": -0.004682242682643061,
@@ -2984,8 +2984,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "SQUEEZE",
       "price_usd": 0.18299999833106995,
-      "price_aud": 0.25956720663814536,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 0.25932928897864826,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 21.16908612325421,
       "relative_volume": 0.4510651859128288,
       "zscore20": -0.544140466866925,
@@ -3004,8 +3004,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "RANGE",
       "price_usd": 0.0034085942897945642,
-      "price_aud": 0.0048347503083801535,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 0.004830318806833711,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 18.267776260445025,
       "relative_volume": 0.38492059266389944,
       "zscore20": -1.2489863461998618,
@@ -3024,8 +3024,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "RANGE",
       "price_usd": 0.005521720740944147,
-      "price_aud": 0.007832008970676818,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 0.007824830200802158,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 16.81879630691678,
       "relative_volume": 0.7010504406428213,
       "zscore20": -1.194535994764228,
@@ -3044,8 +3044,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
       "price_usd": 2.1786999702453613,
-      "price_aud": 3.090268145008963,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 3.0874356247772994,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 21.78332399025032,
       "relative_volume": 0.8741928766458118,
       "zscore20": 0.80720716699035,
@@ -3064,8 +3064,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
       "price_usd": 0.019472507759928703,
-      "price_aud": 0.027619805964917088,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 0.02759448982550161,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 21.306473552999403,
       "relative_volume": 2.295168673494088,
       "zscore20": -2.6255790145852447,
@@ -3084,8 +3084,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
       "price_usd": 0.010313497856259346,
-      "price_aud": 0.014628665866841306,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 0.014615257324253506,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 35.96835736589371,
       "relative_volume": 5.694444444444445,
       "zscore20": -1.1360301230846588,
@@ -3104,8 +3104,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "RANGE",
       "price_usd": 0.0006991080590523779,
-      "price_aud": 0.0009916149053627171,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 0.0009907059974137433,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 18.460099266118107,
       "relative_volume": 0.9712186505875599,
       "zscore20": -1.2813661253508166,
@@ -3124,8 +3124,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "SQUEEZE",
       "price_usd": 2.9000000953674316,
-      "price_aud": 4.113360277976994,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 4.109589997968669,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 18.849087665733993,
       "relative_volume": 0.8045784004917407,
       "zscore20": -0.05200948875793781,
@@ -3144,8 +3144,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "RANGE",
       "price_usd": 4.623000144958496,
-      "price_aud": 6.557263633105094,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 6.551253286742394,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 11.861957808568723,
       "relative_volume": 1.0058631913602272,
       "zscore20": -0.538081916291499,
@@ -3164,8 +3164,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
       "price_usd": 0.0005515820812433958,
-      "price_aud": 0.0007823640511787633,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 0.0007816469412389448,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 40.23319540715065,
       "relative_volume": 0.8308171440952039,
       "zscore20": -2.364557299507525,
@@ -3184,8 +3184,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "SQUEEZE",
       "price_usd": 0.03435326740145683,
-      "price_aud": 0.04872667617273674,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 0.04868201360961777,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 12.479952081087639,
       "relative_volume": 1.4098858728004686,
       "zscore20": 0.7553006986374162,
@@ -3204,8 +3204,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
       "price_usd": 0.006519999820739031,
-      "price_aud": 0.00924796806658279,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 0.009239491437558645,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 38.342740919760054,
       "relative_volume": 0.6529617853662116,
       "zscore20": 4.261291019490591,
@@ -3224,8 +3224,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "SQUEEZE",
       "price_usd": 0.00016763403255026788,
-      "price_aud": 0.00023777212001850276,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 0.00023755417959751834,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 11.305237456107083,
       "relative_volume": 0.03310197544046983,
       "zscore20": 1.5834063854649965,
@@ -3244,8 +3244,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "RANGE",
       "price_usd": 0.004029999952763319,
-      "price_aud": 0.005716152131314156,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 0.00571091274243285,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 14.717368216196848,
       "relative_volume": 0.8835517718854814,
       "zscore20": -1.1933630147971135,
@@ -3264,8 +3264,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
       "price_usd": 0.027463750913739204,
-      "price_aud": 0.03895458564752774,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 0.03891888012076272,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 25.521786304644877,
       "relative_volume": 0.8144215544950002,
       "zscore20": 0.8508182347381436,
@@ -3284,8 +3284,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "SQUEEZE",
       "price_usd": 0.10250099003314972,
-      "price_aud": 0.14538740930705174,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 0.1452541481274494,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 21.37432576100228,
       "relative_volume": 0.9850329986391276,
       "zscore20": -0.31944070924490703,
@@ -3304,8 +3304,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "SQUEEZE",
       "price_usd": 0.5813000202178955,
-      "price_aud": 0.8245159772826014,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 0.8237602311539831,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 14.837230271861372,
       "relative_volume": 1.3900825275202684,
       "zscore20": 1.3419345457356158,
@@ -3324,8 +3324,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
       "price_usd": 0.00026115431683138013,
-      "price_aud": 0.00037042129584492767,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 0.000370081770028563,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 71.63869807356429,
       "relative_volume": 1.6968011126564673,
       "zscore20": 0.633865877722441,
@@ -3344,8 +3344,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "SQUEEZE",
       "price_usd": 0.3049671947956085,
-      "price_aud": 0.4325654841054032,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 0.43216899731922354,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 21.364971111521214,
       "relative_volume": 0.8883440525343149,
       "zscore20": -1.3236592482193386,
@@ -3364,8 +3364,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
       "price_usd": 0.02619866281747818,
-      "price_aud": 0.03716018462953663,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 0.03712612383939273,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 41.757493821898805,
       "relative_volume": 0.6795506902769529,
       "zscore20": -0.6960374299405625,
@@ -3384,8 +3384,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "RANGE",
       "price_usd": 0.025477353483438492,
-      "price_aud": 0.036137079434639396,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 0.03610395641624464,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 15.830825379343374,
       "relative_volume": 0.9755486790775483,
       "zscore20": -1.4275278443694446,
@@ -3404,8 +3404,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
       "price_usd": 0.040699999779462814,
-      "price_aud": 0.05772888169002055,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 0.05767596776227535,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 28.472182412460256,
       "relative_volume": 1.0186149016731556,
       "zscore20": -0.7379516473737145,
@@ -3424,8 +3424,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "SQUEEZE",
       "price_usd": 0.10117000341415405,
-      "price_aud": 0.14349953782117097,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 0.1433680070526293,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 15.62514415562281,
       "relative_volume": 0.7660111377349152,
       "zscore20": 0.32751025989451293,
@@ -3444,8 +3444,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
       "price_usd": 0.026112623512744904,
-      "price_aud": 0.03703814647546899,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 0.03700419754472506,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 27.95036460408869,
       "relative_volume": 0.28890979408382983,
       "zscore20": -0.941215310937575,
@@ -3464,8 +3464,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
       "price_usd": 0.011033130809664726,
-      "price_aud": 0.015649393283364343,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 0.015635049148484015,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 39.01143538736362,
       "relative_volume": 0.03352891869237217,
       "zscore20": -0.28246387479942453,
@@ -3484,8 +3484,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "SQUEEZE",
       "price_usd": 2.880000114440918,
-      "price_aud": 4.0849923040466365,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 4.081248025943751,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 13.568184776388545,
       "relative_volume": 0.6278328681822773,
       "zscore20": -1.9905921335714387,
@@ -3504,8 +3504,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
       "price_usd": 0.2930000126361847,
-      "price_aud": 0.41559123234157624,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 0.4152103040471786,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 29.051085985830543,
       "relative_volume": 0.6682097195132947,
       "zscore20": -0.8950763133712631,
@@ -3524,8 +3524,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "RANGE",
       "price_usd": 8.793000221252441,
-      "price_aud": 12.47199194652444,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 12.460560197608174,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 14.677425487595084,
       "relative_volume": 1.255422075705108,
       "zscore20": 2.089348233900675,
@@ -3544,8 +3544,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
       "price_usd": 0.06537771224975586,
-      "price_aud": 0.09273175027226443,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 0.0926467529366164,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 45.42120500484064,
       "relative_volume": 0.589301992608294,
       "zscore20": 1.8905552458973798,
@@ -3564,8 +3564,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "SQUEEZE",
       "price_usd": 0.0001289999927394092,
-      "price_aud": 0.00018297359604961538,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 0.00018280588360902739,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 36.894466688183265,
       "relative_volume": 0.0,
       "zscore20": 0.5742070775910286,
@@ -3584,8 +3584,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "RANGE",
       "price_usd": 1.2000000476837158,
-      "price_aud": 1.7020801266860985,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 1.7005200108098961,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 15.82964078175659,
       "relative_volume": 0.35261066634010796,
       "zscore20": -1.3677715857945454,
@@ -3604,8 +3604,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
       "price_usd": 0.20010000467300415,
-      "price_aud": 0.2838218564750292,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 0.2835617071569345,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 28.539369950946607,
       "relative_volume": 0.8342914131148008,
       "zscore20": 1.1951055434338829,
@@ -3624,8 +3624,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
       "price_usd": 0.009204929694533348,
-      "price_aud": 0.01305627273169696,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 0.013044305434709358,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 21.64964984660264,
       "relative_volume": 1.003479247601832,
       "zscore20": -1.7753461894977038,
@@ -3644,8 +3644,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
       "price_usd": 0.07971145957708359,
-      "price_aud": 0.11306273818670398,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 0.11295910559615407,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 30.54355177401922,
       "relative_volume": 6.600279836775846,
       "zscore20": 1.1981962229224763,
@@ -3664,8 +3664,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "SQUEEZE",
       "price_usd": 45.0099983215332,
-      "price_aud": 63.84218383418647,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 63.783666492370685,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 10.76742427942645,
       "relative_volume": 0.9204814125648582,
       "zscore20": -0.5237724916131418,
@@ -3684,8 +3684,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "SQUEEZE",
       "price_usd": 0.07797913253307343,
-      "price_aud": 0.11060560542223286,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 0.11050422502403023,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 19.35853187496305,
       "relative_volume": 0.5623722421534085,
       "zscore20": 1.1650258821563366,
@@ -3704,8 +3704,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "SQUEEZE",
       "price_usd": 0.06419999897480011,
-      "price_aud": 0.0910612817051124,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 0.09097781551038508,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 11.06364950417046,
       "relative_volume": 0.7946214506653825,
       "zscore20": -2.607341709910531,
@@ -3724,8 +3724,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
       "price_usd": 0.21641500294208527,
-      "price_aud": 0.30696305082274833,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 0.3066816904323133,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 44.64357710616345,
       "relative_volume": 0.14344177181940054,
       "zscore20": -0.2847384908563979,
@@ -3744,8 +3744,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "RANGE",
       "price_usd": 0.0005983993760310113,
-      "price_aud": 0.0008487697044093773,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 0.0008479917274679116,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 16.195314887065866,
       "relative_volume": 0.5650532686411305,
       "zscore20": -1.7128859930041893,
@@ -3764,8 +3764,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
       "price_usd": 0.0006007155170664191,
-      "price_aud": 0.000852054918967976,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 0.0008512739308196293,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 34.83957803631271,
       "relative_volume": 0.236969832740201,
       "zscore20": -1.3122215438271423,
@@ -3784,8 +3784,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
       "price_usd": 0.0028299998957663774,
-      "price_aud": 0.004014071991418178,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 0.004010392718425182,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 41.12484910130245,
       "relative_volume": 1.954991836301588,
       "zscore20": -1.3521378971202054,
@@ -3804,8 +3804,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
       "price_usd": 0.0013578222133219242,
-      "price_aud": 0.0019259350941936981,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 0.0019241697942704583,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 30.819190212747362,
       "relative_volume": 20.0,
       "zscore20": -2.797793226017397,
@@ -3824,8 +3824,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
       "price_usd": 0.018272193148732185,
-      "price_aud": 0.02591727966132895,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 0.025893524046752603,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 22.72711592979512,
       "relative_volume": 0.7583273336045592,
       "zscore20": 0.5274590459414684,
@@ -3844,8 +3844,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
       "price_usd": 0.48128435015678406,
-      "price_aud": 0.6826537459461903,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 0.6820280298413479,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 57.69162655603799,
       "relative_volume": 1.3341504621194553,
       "zscore20": -0.9367066013080132,
@@ -3864,8 +3864,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "SQUEEZE",
       "price_usd": 2.430000066757202,
-      "price_aud": 3.446712214267734,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 3.44355297965717,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 13.22941571230457,
       "relative_volume": 0.8219685013739452,
       "zscore20": -0.8026400247204998,
@@ -3884,8 +3884,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
       "price_usd": 1288.226806640625,
-      "price_aud": 1827.2209659321816,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 1825.5461467544083,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 26.56013857881362,
       "relative_volume": 2.5181840002429388,
       "zscore20": -1.6009107657578059,
@@ -3904,8 +3904,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
       "price_usd": 1.2699999809265137,
-      "price_aud": 1.8013680354423514,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 1.7997169128971109,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 74.12458918277589,
       "relative_volume": 0.8579531784330001,
       "zscore20": -0.5274396165413805,
@@ -3924,8 +3924,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
       "price_usd": 9.000000034120603e-08,
-      "price_aud": 1.2765600491283018e-07,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 1.275389962263209e-07,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 49.3805872833717,
       "relative_volume": 0.9514146038372137,
       "zscore20": 4.358898943540674,
@@ -3944,8 +3944,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "SQUEEZE",
       "price_usd": 0.021818136796355247,
-      "price_aud": 0.030946846305611952,
-      "usd_to_aud": 1.4184000492095947,
+      "price_aud": 0.030918480622068145,
+      "usd_to_aud": 1.417099952697754,
       "adx14": 15.706545307860594,
       "relative_volume": 1.015850634327794,
       "zscore20": 1.5047083142028568,
@@ -3953,6 +3953,66 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-13T05:54:13.363380+00:00"
+    },
+    {
+      "symbol": "MOODENG",
+      "name": "Moo Deng",
+      "status": "ok",
+      "data_status": "LIVE",
+      "data_error": null,
+      "data_source": "CoinGecko fallback",
+      "data_quality": "DAILY_PROXY",
+      "regime": "SQUEEZE",
+      "price_usd": 0.03709241504704699,
+      "price_aud": 0.05256365960861574,
+      "usd_to_aud": 1.417099952697754,
+      "adx14": 16.177720629152358,
+      "relative_volume": 0.7362872847194436,
+      "zscore20": 0.5341873831177836,
+      "flow_score": 64.6,
+      "active": false,
+      "candidate": null,
+      "updated_at": "2026-08-13T09:50:54.095004+00:00"
+    },
+    {
+      "symbol": "MORPHO",
+      "name": "Morpho",
+      "status": "ok",
+      "data_status": "LIVE",
+      "data_error": null,
+      "data_source": "CoinGecko fallback",
+      "data_quality": "DAILY_PROXY",
+      "regime": "SQUEEZE",
+      "price_usd": 1.9586693327608886,
+      "price_aud": 2.7756302188059965,
+      "usd_to_aud": 1.417099952697754,
+      "adx14": 11.943012136768381,
+      "relative_volume": 0.7791081624982881,
+      "zscore20": 0.3141274282144158,
+      "flow_score": 37.0,
+      "active": false,
+      "candidate": null,
+      "updated_at": "2026-08-13T09:50:55.340415+00:00"
+    },
+    {
+      "symbol": "MOVE",
+      "name": "Movement",
+      "status": "ok",
+      "data_status": "LIVE",
+      "data_error": null,
+      "data_source": "CoinGecko fallback",
+      "data_quality": "DAILY_PROXY",
+      "regime": "UNCLEAR",
+      "price_usd": 0.006321911586931947,
+      "price_aud": 0.008958780610800644,
+      "usd_to_aud": 1.417099952697754,
+      "adx14": 63.873525987028074,
+      "relative_volume": 2.624849721170388,
+      "zscore20": -1.3549891935845153,
+      "flow_score": 45.0,
+      "active": false,
+      "candidate": null,
+      "updated_at": "2026-08-13T09:50:56.621736+00:00"
     },
     {
       "symbol": "MOVR",
@@ -3963,16 +4023,16 @@
       "data_source": "Yahoo",
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
-      "price_usd": 0.8415871858596802,
-      "adx14": 20.434205445194383,
-      "relative_volume": 4.42789399117702,
-      "zscore20": -3.0719376255363553,
-      "flow_score": 45.8,
+      "price_usd": 0.8072496652603149,
+      "price_aud": 1.14395346245567,
+      "usd_to_aud": 1.417099952697754,
+      "adx14": 22.73477687268301,
+      "relative_volume": 3.6070507831313265,
+      "zscore20": -2.5805713957552388,
+      "flow_score": 49.7,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:25:13.085990+00:00",
-      "price_aud": 1.1937073058375347,
-      "usd_to_aud": 1.4184000492095947
+      "updated_at": "2026-08-13T09:50:56.635410+00:00"
     },
     {
       "symbol": "MPLX",
@@ -3983,16 +4043,16 @@
       "data_source": "Yahoo",
       "data_quality": "FULL_OHLCV",
       "regime": "SQUEEZE",
-      "price_usd": 0.023730000481009483,
-      "adx14": 27.210249362848856,
-      "relative_volume": 1.0814366799547905,
-      "zscore20": 0.1379888835789986,
-      "flow_score": 50.2,
+      "price_usd": 0.023749999701976776,
+      "price_aud": 0.03365612345424296,
+      "usd_to_aud": 1.417099952697754,
+      "adx14": 27.26147175782782,
+      "relative_volume": 1.070394187242934,
+      "zscore20": 0.16261736589806047,
+      "flow_score": 39.0,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:25:13.100983+00:00",
-      "price_aud": 0.03365863385000756,
-      "usd_to_aud": 1.4184000492095947
+      "updated_at": "2026-08-13T09:50:56.649259+00:00"
     },
     {
       "symbol": "MTL",
@@ -4003,16 +4063,16 @@
       "data_source": "Yahoo",
       "data_quality": "FULL_OHLCV",
       "regime": "RANGE",
-      "price_usd": 0.1980741173028946,
-      "adx14": 15.526698777054948,
-      "relative_volume": 5.716822035008948,
-      "zscore20": -1.5775179396256138,
-      "flow_score": 45.7,
+      "price_usd": 0.19623097777366638,
+      "price_aud": 0.27807890932089663,
+      "usd_to_aud": 1.417099952697754,
+      "adx14": 15.173665174873852,
+      "relative_volume": 4.851287442868647,
+      "zscore20": -1.6527390667590525,
+      "flow_score": 56.6,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:25:13.115636+00:00",
-      "price_aud": 0.28094833772957273,
-      "usd_to_aud": 1.4184000492095947
+      "updated_at": "2026-08-13T09:50:56.663040+00:00"
     },
     {
       "symbol": "NAKA",
@@ -4023,16 +4083,16 @@
       "data_source": "Yahoo",
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
-      "price_usd": 0.03072340413928032,
-      "adx14": 31.111882401676745,
-      "relative_volume": 1.0355538190883065,
-      "zscore20": 3.0349234630786066,
-      "flow_score": 67.8,
+      "price_usd": 0.03140250965952873,
+      "price_aud": 0.04450049495310893,
+      "usd_to_aud": 1.417099952697754,
+      "adx14": 33.5495115630298,
+      "relative_volume": 1.0943018975046914,
+      "zscore20": 2.6315697023178326,
+      "flow_score": 58.0,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:25:13.130267+00:00",
-      "price_aud": 0.04357807794304147,
-      "usd_to_aud": 1.4184000492095947
+      "updated_at": "2026-08-13T09:50:56.676572+00:00"
     },
     {
       "symbol": "NAVX",
@@ -4043,16 +4103,16 @@
       "data_source": "Yahoo",
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
-      "price_usd": 0.007674881722778082,
-      "adx14": 23.359866982669857,
-      "relative_volume": 1.9924427175352903,
-      "zscore20": -1.0132986079435067,
-      "flow_score": 78.5,
+      "price_usd": 0.007621883414685726,
+      "price_aud": 0.010800970626418938,
+      "usd_to_aud": 1.417099952697754,
+      "adx14": 21.728244356145396,
+      "relative_volume": 1.6600301404898588,
+      "zscore20": -1.0474784358644893,
+      "flow_score": 64.8,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:25:13.144954+00:00",
-      "price_aud": 0.01088605261326625,
-      "usd_to_aud": 1.4184000492095947
+      "updated_at": "2026-08-13T09:50:56.690031+00:00"
     },
     {
       "symbol": "NEAR",
@@ -4062,17 +4122,17 @@
       "data_error": null,
       "data_source": "Yahoo",
       "data_quality": "FULL_OHLCV",
-      "regime": "RANGE",
-      "price_usd": 1.628600001335144,
-      "adx14": 15.193314214491078,
-      "relative_volume": 1.3305980963002153,
-      "zscore20": -0.7182055384667871,
-      "flow_score": 54.0,
+      "regime": "SQUEEZE",
+      "price_usd": 1.6618000268936157,
+      "price_aud": 2.354936739504069,
+      "usd_to_aud": 1.417099952697754,
+      "adx14": 14.908637607577091,
+      "relative_volume": 0.9527969957295158,
+      "zscore20": -0.1660259319581909,
+      "flow_score": 55.3,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:25:13.159545+00:00",
-      "price_aud": 2.3100063220365143,
-      "usd_to_aud": 1.4184000492095947
+      "updated_at": "2026-08-13T09:50:56.704014+00:00"
     },
     {
       "symbol": "NEO",
@@ -4083,16 +4143,16 @@
       "data_source": "Yahoo",
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
-      "price_usd": 1.703039288520813,
-      "adx14": 21.739307073718376,
-      "relative_volume": 0.9786743085163639,
-      "zscore20": -2.154384720890293,
-      "flow_score": 26.9,
+      "price_usd": 1.688372015953064,
+      "price_aud": 2.3925919039432983,
+      "usd_to_aud": 1.417099952697754,
+      "adx14": 24.209990816195056,
+      "relative_volume": 1.3444139658574714,
+      "zscore20": -1.946726196217846,
+      "flow_score": 50.0,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:26:39.501244+00:00",
-      "price_aud": 2.4155910106437943,
-      "usd_to_aud": 1.4184000492095947
+      "updated_at": "2026-08-13T09:50:56.717547+00:00"
     },
     {
       "symbol": "NEXO",
@@ -4103,16 +4163,16 @@
       "data_source": "Yahoo",
       "data_quality": "FULL_OHLCV",
       "regime": "SQUEEZE",
-      "price_usd": 0.7254817485809326,
-      "adx14": 19.266851784348162,
-      "relative_volume": 1.138047593005287,
-      "zscore20": -0.4679218350973921,
-      "flow_score": 49.8,
+      "price_usd": 0.716378927230835,
+      "price_aud": 1.015180543892484,
+      "usd_to_aud": 1.417099952697754,
+      "adx14": 18.075990066647392,
+      "relative_volume": 1.0830330399629529,
+      "zscore20": -1.398874638773026,
+      "flow_score": 37.9,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:26:39.511495+00:00",
-      "price_aud": 1.0290233478878577,
-      "usd_to_aud": 1.4184000492095947
+      "updated_at": "2026-08-13T09:50:56.731310+00:00"
     },
     {
       "symbol": "NFP",
@@ -4123,16 +4183,16 @@
       "data_source": "CoinGecko fallback",
       "data_quality": "DAILY_PROXY",
       "regime": "RANGE",
-      "price_usd": 0.0004932407847339572,
-      "adx14": 12.354023958028664,
-      "relative_volume": 0.6126188261252216,
-      "zscore20": -1.4393321704912878,
-      "flow_score": 17.3,
+      "price_usd": 0.0004975445771803508,
+      "price_aud": 0.000705070396787299,
+      "usd_to_aud": 1.417099952697754,
+      "adx14": 11.885880232458238,
+      "relative_volume": 0.6765640057363304,
+      "zscore20": -1.3506291572182203,
+      "flow_score": 18.5,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:26:40.750738+00:00",
-      "price_aud": 0.000699612753338824,
-      "usd_to_aud": 1.4184000492095947
+      "updated_at": "2026-08-13T09:50:58.000994+00:00"
     },
     {
       "symbol": "NKN",
@@ -4143,16 +4203,16 @@
       "data_source": "Yahoo",
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
-      "price_usd": 0.00559999980032444,
-      "adx14": 48.05010242588271,
-      "relative_volume": 2.3523070903479746,
-      "zscore20": 0.3438866689006514,
-      "flow_score": 70.4,
+      "price_usd": 0.006000000052154064,
+      "price_aud": 0.008502599790094045,
+      "usd_to_aud": 1.417099952697754,
+      "adx14": 49.22536423829321,
+      "relative_volume": 3.946695128509596,
+      "zscore20": 1.763502923603015,
+      "flow_score": 84.9,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:26:40.761235+00:00",
-      "price_aud": 0.007943039992353906,
-      "usd_to_aud": 1.4184000492095947
+      "updated_at": "2026-08-13T09:50:58.015542+00:00"
     },
     {
       "symbol": "NMR",
@@ -4163,16 +4223,16 @@
       "data_source": "Yahoo",
       "data_quality": "FULL_OHLCV",
       "regime": "SQUEEZE",
-      "price_usd": 8.350000381469727,
-      "adx14": 23.237205288487566,
-      "relative_volume": 1.1473401526254883,
-      "zscore20": -1.1342840502255649,
-      "flow_score": 30.3,
+      "price_usd": 8.460000038146973,
+      "price_aud": 11.988665653881071,
+      "usd_to_aud": 1.417099952697754,
+      "adx14": 23.195353574814355,
+      "relative_volume": 1.1337330030740362,
+      "zscore20": -0.5040219395233931,
+      "flow_score": 56.5,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:26:40.771531+00:00",
-      "price_aud": 11.843640951976795,
-      "usd_to_aud": 1.4184000492095947
+      "updated_at": "2026-08-13T09:50:58.030438+00:00"
     },
     {
       "symbol": "NMT",
@@ -4183,23 +4243,23 @@
       "data_source": "CoinGecko fallback",
       "data_quality": "DAILY_PROXY",
       "regime": "SQUEEZE",
-      "price_usd": 0.040747033786679265,
-      "adx14": 29.16318556502108,
-      "relative_volume": 0.8850896272320421,
-      "zscore20": -1.0385896265573478,
-      "flow_score": 43.3,
+      "price_usd": 0.04079516257724372,
+      "price_aud": 0.057810822958509256,
+      "usd_to_aud": 1.417099952697754,
+      "adx14": 28.576962218305123,
+      "relative_volume": 1.398503841969043,
+      "zscore20": -0.897906432144942,
+      "flow_score": 51.5,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:26:42.010895+00:00",
-      "price_aud": 0.05779559472817089,
-      "usd_to_aud": 1.4184000492095947
+      "updated_at": "2026-08-13T09:52:14.717543+00:00"
     },
     {
       "symbol": "NOM",
       "name": "Nomina",
       "status": "ok",
-      "data_status": "LIVE",
-      "data_error": null,
+      "data_status": "STALE",
+      "data_error": "No Yahoo history and no Binance USDT pair | CoinGecko fallback deferred to avoid rate limit",
       "data_source": "CoinGecko fallback",
       "data_quality": "DAILY_PROXY",
       "regime": "RANGE",
@@ -4211,8 +4271,9 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:26:43.250559+00:00",
-      "price_aud": 0.002235776164170703,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.002233726865882879,
+      "usd_to_aud": 1.417099952697754,
+      "last_attempt_at": "2026-08-13T09:52:14.717588+00:00"
     },
     {
       "symbol": "NOT",
@@ -4223,23 +4284,69 @@
       "data_source": "Yahoo",
       "data_quality": "FULL_OHLCV",
       "regime": "SQUEEZE",
-      "price_usd": 0.0003595646994654089,
-      "adx14": 19.119673340230847,
-      "relative_volume": 1.3328919090737956,
-      "zscore20": 1.105950654331753,
-      "flow_score": 58.6,
+      "price_usd": 0.00038617028621956706,
+      "price_aud": 0.0005472418943350266,
+      "usd_to_aud": 1.417099952697754,
+      "adx14": 20.259864973792535,
+      "relative_volume": 2.3126864610565407,
+      "zscore20": 2.6465818004551402,
+      "flow_score": 86.1,
       "active": false,
-      "candidate": null,
-      "updated_at": "2026-08-12T21:26:43.260923+00:00",
-      "price_aud": 0.0005100065874157692,
-      "usd_to_aud": 1.4184000492095947
+      "candidate": {
+        "symbol": "NOT",
+        "name": "Notcoin",
+        "strategy": "SQUEEZE_EXPANSION",
+        "direction": "LONG",
+        "regime": "SQUEEZE",
+        "signal_score": 100,
+        "flow_score": 86.1,
+        "reasons": [
+          "BB width pct 9",
+          "relative volume 2.31x",
+          "compression breakout",
+          "strong close"
+        ],
+        "regime_details": {
+          "bb_width_percentile": 9.166666666666666
+        },
+        "execution_risk": {
+          "pass": false,
+          "reasons": [
+            "20d dollar volume $1,017"
+          ],
+          "average_dollar_volume_20d": 1016.701442509712,
+          "atr_pct": 4.31801430024962,
+          "gap_pct": 0.11922002382611652
+        },
+        "entry_price": 0.00038617028621956706,
+        "atr14": 1.667488818227579e-05,
+        "stop_loss": 0.0003561554874914706,
+        "profit_target": 0.00047621468240385633,
+        "risk_per_unit": 3.0014798728096423e-05,
+        "target_r": 3.0,
+        "data_source": "Yahoo",
+        "data_quality": "FULL_OHLCV",
+        "signal_date": "2026-08-13",
+        "timestamp": "2026-08-13T09:52:14.731446+00:00",
+        "entry_price_aud": 0.0005472418943350266,
+        "stop_loss_aud": 0.0005047079244772085,
+        "profit_target_aud": 0.0006748438039084807,
+        "atr14_aud": 2.362998325434336e-05,
+        "risk_per_unit_aud": 4.2533969857818047e-05,
+        "usd_to_aud": 1.417099952697754,
+        "rejected": true,
+        "rejection_reasons": [
+          "20d dollar volume $1,017"
+        ]
+      },
+      "updated_at": "2026-08-13T09:52:14.731511+00:00"
     },
     {
       "symbol": "NTRN",
       "name": "Neutron",
       "status": "ok",
-      "data_status": "LIVE",
-      "data_error": null,
+      "data_status": "STALE",
+      "data_error": "No Yahoo history and no Binance USDT pair | CoinGecko fallback deferred to avoid rate limit",
       "data_source": "CoinGecko fallback",
       "data_quality": "DAILY_PROXY",
       "regime": "UNCLEAR",
@@ -4251,15 +4358,16 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:26:44.540883+00:00",
-      "price_aud": 0.00029589198489402935,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.0002956207721725854,
+      "usd_to_aud": 1.417099952697754,
+      "last_attempt_at": "2026-08-13T09:52:14.731528+00:00"
     },
     {
       "symbol": "NYAN",
       "name": "Nyan Heroes",
       "status": "ok",
-      "data_status": "LIVE",
-      "data_error": null,
+      "data_status": "STALE",
+      "data_error": "No Yahoo history and no Binance USDT pair | CoinGecko fallback deferred to avoid rate limit",
       "data_source": "CoinGecko fallback",
       "data_quality": "DAILY_PROXY",
       "regime": "UNCLEAR",
@@ -4271,8 +4379,9 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:28:02.477076+00:00",
-      "price_aud": 0.0006539796514063215,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.0006533802177951326,
+      "usd_to_aud": 1.417099952697754,
+      "last_attempt_at": "2026-08-13T09:52:14.731536+00:00"
     },
     {
       "symbol": "OG",
@@ -4282,17 +4391,17 @@
       "data_error": null,
       "data_source": "Yahoo",
       "data_quality": "FULL_OHLCV",
-      "regime": "SQUEEZE",
-      "price_usd": 2.4723684787750244,
-      "adx14": 18.446919722935082,
-      "relative_volume": 1.0953592697621035,
-      "zscore20": -1.106696959410807,
-      "flow_score": 44.7,
+      "regime": "RANGE",
+      "price_usd": 2.4953768253326416,
+      "price_aud": 3.5361983811419577,
+      "usd_to_aud": 1.417099952697754,
+      "adx14": 17.624711697157487,
+      "relative_volume": 1.211949445826766,
+      "zscore20": -0.6838923828501188,
+      "flow_score": 56.8,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:28:02.487752+00:00",
-      "price_aud": 3.5068075719587455,
-      "usd_to_aud": 1.4184000492095947
+      "updated_at": "2026-08-13T09:52:14.744962+00:00"
     },
     {
       "symbol": "OGN",
@@ -4303,16 +4412,16 @@
       "data_source": "Yahoo",
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
-      "price_usd": 0.016259999945759773,
-      "adx14": 52.84754838810485,
-      "relative_volume": 0.2838370156676971,
-      "zscore20": 0.6510153769043235,
-      "flow_score": 53.6,
+      "price_usd": 0.016140000894665718,
+      "price_aud": 0.022871994504372495,
+      "usd_to_aud": 1.417099952697754,
+      "adx14": 52.97179460756389,
+      "relative_volume": 0.26066898610090433,
+      "zscore20": 0.5099467921342516,
+      "flow_score": 50.6,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:28:02.498010+00:00",
-      "price_aud": 0.02306318472321367,
-      "usd_to_aud": 1.4184000492095947
+      "updated_at": "2026-08-13T09:52:14.758609+00:00"
     },
     {
       "symbol": "OMG",
@@ -4322,17 +4431,17 @@
       "data_error": null,
       "data_source": "Yahoo",
       "data_quality": "FULL_OHLCV",
-      "regime": "UNCLEAR",
-      "price_usd": 0.04442322999238968,
-      "adx14": 46.30654876187289,
-      "relative_volume": 1.520762973726846,
-      "zscore20": -0.4019718465344466,
-      "flow_score": 50.8,
+      "regime": "SQUEEZE",
+      "price_usd": 0.044287070631980896,
+      "price_aud": 0.06275920569770221,
+      "usd_to_aud": 1.417099952697754,
+      "adx14": 47.16471660831674,
+      "relative_volume": 0.9593924279621403,
+      "zscore20": -0.41420675176932564,
+      "flow_score": 46.8,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:28:02.508062+00:00",
-      "price_aud": 0.06300991160725467,
-      "usd_to_aud": 1.4184000492095947
+      "updated_at": "2026-08-13T09:52:14.772385+00:00"
     },
     {
       "symbol": "OMNI",
@@ -4350,9 +4459,9 @@
       "updated_at": "2026-08-12T20:56:07.430429+00:00",
       "data_status": "STALE",
       "data_error": "No Yahoo history and no Binance USDT pair | CoinGecko fallback deferred to avoid rate limit",
-      "last_attempt_at": "2026-08-12T21:28:02.508081+00:00",
-      "price_aud": 0.273620106497249,
-      "usd_to_aud": 1.4184000492095947
+      "last_attempt_at": "2026-08-13T09:52:14.772408+00:00",
+      "price_aud": 0.2733693080386443,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "ONDO",
@@ -4363,16 +4472,16 @@
       "data_source": "Yahoo",
       "data_quality": "FULL_OHLCV",
       "regime": "RANGE",
-      "price_usd": 0.32712000608444214,
-      "adx14": 17.33678958600584,
-      "relative_volume": 0.6812031578335508,
-      "zscore20": -1.8449010711329767,
-      "flow_score": 18.6,
+      "price_usd": 0.33474001288414,
+      "price_aud": 0.47436005642416035,
+      "usd_to_aud": 1.417099952697754,
+      "adx14": 17.44509854733292,
+      "relative_volume": 0.6833662929949003,
+      "zscore20": -1.3914541022442193,
+      "flow_score": 35.9,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:28:02.518021+00:00",
-      "price_aud": 0.46398703272761566,
-      "usd_to_aud": 1.4184000492095947
+      "updated_at": "2026-08-13T09:52:14.785876+00:00"
     },
     {
       "symbol": "ONE",
@@ -4383,16 +4492,16 @@
       "data_source": "Yahoo",
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
-      "price_usd": 0.0003670473233796656,
-      "adx14": 51.60338506632492,
+      "price_usd": 0.0003671629820019007,
+      "price_aud": 0.0005203066444272597,
+      "usd_to_aud": 1.417099952697754,
+      "adx14": 51.85233208383686,
       "relative_volume": null,
-      "zscore20": -0.7164112100988671,
-      "flow_score": 37.2,
+      "zscore20": -0.6559476470474347,
+      "flow_score": 43.6,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:28:02.527609+00:00",
-      "price_aud": 0.0005206199415439677,
-      "usd_to_aud": 1.4184000492095947
+      "updated_at": "2026-08-13T09:52:14.799655+00:00"
     },
     {
       "symbol": "ONT",
@@ -4403,16 +4512,16 @@
       "data_source": "Yahoo",
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
-      "price_usd": 0.03562111034989357,
-      "adx14": 23.577609284167625,
-      "relative_volume": 1.756587140467847,
-      "zscore20": -1.7058186064273255,
-      "flow_score": 54.2,
+      "price_usd": 0.035771556198596954,
+      "price_aud": 0.05069187059695679,
+      "usd_to_aud": 1.417099952697754,
+      "adx14": 24.834286037351237,
+      "relative_volume": 1.040414848714402,
+      "zscore20": -1.4160031894590042,
+      "flow_score": 54.7,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:28:02.537329+00:00",
-      "price_aud": 0.050524984673189444,
-      "usd_to_aud": 1.4184000492095947
+      "updated_at": "2026-08-13T09:52:14.813303+00:00"
     },
     {
       "symbol": "OP",
@@ -4423,16 +4532,16 @@
       "data_source": "Yahoo",
       "data_quality": "FULL_OHLCV",
       "regime": "SQUEEZE",
-      "price_usd": 0.08844000101089478,
-      "adx14": 18.158391334685554,
-      "relative_volume": 0.8036442013949653,
-      "zscore20": -0.06161911438299842,
-      "flow_score": 38.6,
+      "price_usd": 0.08656000345945358,
+      "price_aud": 0.12266417680790909,
+      "usd_to_aud": 1.417099952697754,
+      "adx14": 19.043120866158787,
+      "relative_volume": 1.0360861431374715,
+      "zscore20": -0.6120157282654043,
+      "flow_score": 59.6,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:28:02.547278+00:00",
-      "price_aud": 0.12544330178594976,
-      "usd_to_aud": 1.4184000492095947
+      "updated_at": "2026-08-13T09:52:14.827306+00:00"
     },
     {
       "symbol": "ORDI",
@@ -4443,16 +4552,16 @@
       "data_source": "Yahoo",
       "data_quality": "FULL_OHLCV",
       "regime": "RANGE",
-      "price_usd": 3.4438529014587402,
-      "adx14": 12.175784926848035,
-      "relative_volume": 0.4283824124036663,
-      "zscore20": -0.13939885930519433,
-      "flow_score": 35.7,
+      "price_usd": 3.5116448402404785,
+      "price_aud": 4.976351736996094,
+      "usd_to_aud": 1.417099952697754,
+      "adx14": 12.025313300569941,
+      "relative_volume": 0.5164789177381898,
+      "zscore20": 0.3366016644605355,
+      "flow_score": 49.0,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:28:02.557002+00:00",
-      "price_aud": 4.884761124899683,
-      "usd_to_aud": 1.4184000492095947
+      "updated_at": "2026-08-13T09:52:14.840900+00:00"
     },
     {
       "symbol": "OSMO",
@@ -4464,15 +4573,15 @@
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
       "price_usd": 0.02979999966919422,
-      "adx14": 28.690342706595395,
-      "relative_volume": 0.6922973271177381,
-      "zscore20": 0.9904805310327864,
-      "flow_score": 50.1,
+      "price_aud": 0.04222957812160821,
+      "usd_to_aud": 1.417099952697754,
+      "adx14": 27.662423008061964,
+      "relative_volume": 0.6767691915159643,
+      "zscore20": 1.1901195822368034,
+      "flow_score": 61.0,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:28:02.566798+00:00",
-      "price_aud": 0.04226832099723099,
-      "usd_to_aud": 1.4184000492095947
+      "updated_at": "2026-08-13T09:52:14.854182+00:00"
     },
     {
       "symbol": "PAAL",
@@ -4482,17 +4591,17 @@
       "data_error": null,
       "data_source": "Yahoo",
       "data_quality": "FULL_OHLCV",
-      "regime": "SQUEEZE",
-      "price_usd": 0.00496208481490612,
-      "adx14": 13.80074336738156,
-      "relative_volume": 0.5829781621333113,
-      "zscore20": -1.6252754398151323,
-      "flow_score": 30.4,
+      "regime": "RANGE",
+      "price_usd": 0.004967641085386276,
+      "price_aud": 0.007039643947120311,
+      "usd_to_aud": 1.417099952697754,
+      "adx14": 13.228766799504136,
+      "relative_volume": 0.5927080038896658,
+      "zscore20": -1.4981511649963615,
+      "flow_score": 34.7,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:28:02.576727+00:00",
-      "price_aud": 0.007038221345645024,
-      "usd_to_aud": 1.4184000492095947
+      "updated_at": "2026-08-13T09:52:14.867803+00:00"
     },
     {
       "symbol": "PDA",
@@ -4503,16 +4612,16 @@
       "data_source": "Yahoo",
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
-      "price_usd": 0.0008793612360022962,
-      "adx14": 56.29373333296192,
+      "price_usd": 0.0008791227592155337,
+      "price_aud": 0.0012458048204998518,
+      "usd_to_aud": 1.417099952697754,
+      "adx14": 56.041057012981625,
       "relative_volume": 5.4368932038834945,
-      "zscore20": -0.08680048427088836,
-      "flow_score": 88.3,
+      "zscore20": -0.14801246348161304,
+      "flow_score": 94.8,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:28:02.586558+00:00",
-      "price_aud": 0.001247286020418667,
-      "usd_to_aud": 1.4184000492095947
+      "updated_at": "2026-08-13T09:52:14.881375+00:00"
     },
     {
       "symbol": "PEAQ",
@@ -4523,16 +4632,16 @@
       "data_source": "Yahoo",
       "data_quality": "FULL_OHLCV",
       "regime": "SQUEEZE",
-      "price_usd": 0.017139503732323647,
-      "adx14": 9.20945153130448,
-      "relative_volume": 0.5787360216802553,
-      "zscore20": -0.8902336318705758,
-      "flow_score": 45.4,
+      "price_usd": 0.016986612230539322,
+      "price_aud": 0.02407172738839236,
+      "usd_to_aud": 1.417099952697754,
+      "adx14": 8.92456110963649,
+      "relative_volume": 0.7764985175731532,
+      "zscore20": -1.023048006863096,
+      "flow_score": 38.5,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:28:02.596891+00:00",
-      "price_aud": 0.024310672937355893,
-      "usd_to_aud": 1.4184000492095947
+      "updated_at": "2026-08-13T09:52:14.894895+00:00"
     },
     {
       "symbol": "PENDLE",
@@ -4543,16 +4652,16 @@
       "data_source": "Yahoo",
       "data_quality": "FULL_OHLCV",
       "regime": "SQUEEZE",
-      "price_usd": 1.3209999799728394,
-      "adx14": 10.65173125741545,
-      "relative_volume": 0.7652601494111324,
-      "zscore20": -1.4793345602688563,
-      "flow_score": 28.0,
+      "price_usd": 1.3450000286102295,
+      "price_aud": 1.9059994769220339,
+      "usd_to_aud": 1.417099952697754,
+      "adx14": 10.380863288330541,
+      "relative_volume": 0.7998126321129908,
+      "zscore20": -0.9916469185725877,
+      "flow_score": 45.4,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:28:02.607109+00:00",
-      "price_aud": 1.873706436599349,
-      "usd_to_aud": 1.4184000492095947
+      "updated_at": "2026-08-13T09:52:14.908564+00:00"
     },
     {
       "symbol": "PEOPLE",
@@ -4563,16 +4672,16 @@
       "data_source": "Yahoo",
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
-      "price_usd": 0.00798697117716074,
-      "adx14": 51.902542701360986,
-      "relative_volume": 0.7906541201182195,
-      "zscore20": 0.9727983698615935,
-      "flow_score": 44.6,
+      "price_usd": 0.00797993317246437,
+      "price_aud": 0.011308362921230497,
+      "usd_to_aud": 1.417099952697754,
+      "adx14": 51.75669742504014,
+      "relative_volume": 0.6414243758642998,
+      "zscore20": 0.903379088275226,
+      "flow_score": 44.3,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:28:02.617090+00:00",
-      "price_aud": 0.011328720310720408,
-      "usd_to_aud": 1.4184000492095947
+      "updated_at": "2026-08-13T09:52:14.922540+00:00"
     },
     {
       "symbol": "PERP",
@@ -4583,16 +4692,16 @@
       "data_source": "Yahoo",
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
-      "price_usd": 0.018699999898672104,
-      "adx14": 57.84067252444345,
-      "relative_volume": 0.5526659183472438,
-      "zscore20": -1.2873868982255234,
-      "flow_score": 36.6,
+      "price_usd": 0.018799999728798866,
+      "price_aud": 0.02664147872639866,
+      "usd_to_aud": 1.417099952697754,
+      "adx14": 55.59334076007949,
+      "relative_volume": 0.7911971613526245,
+      "zscore20": -1.115119160567194,
+      "flow_score": 49.8,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:28:02.627094+00:00",
-      "price_aud": 0.02652408077649593,
-      "usd_to_aud": 1.4184000492095947
+      "updated_at": "2026-08-13T09:52:14.936342+00:00"
     },
     {
       "symbol": "PLUME",
@@ -4603,16 +4712,16 @@
       "data_source": "Yahoo",
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
-      "price_usd": 0.01143999956548214,
-      "adx14": 22.428523555103762,
-      "relative_volume": 1.0965167100918765,
-      "zscore20": -0.17517330771484818,
-      "flow_score": 42.3,
+      "price_usd": 0.011920000426471233,
+      "price_aud": 0.01689183204050959,
+      "usd_to_aud": 1.417099952697754,
+      "adx14": 21.022904867544895,
+      "relative_volume": 1.0844593002752168,
+      "zscore20": 0.5836036731803249,
+      "flow_score": 63.0,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:28:02.636845+00:00",
-      "price_aud": 0.01622649594663761,
-      "usd_to_aud": 1.4184000492095947
+      "updated_at": "2026-08-13T09:52:14.949730+00:00"
     },
     {
       "symbol": "PNUT",
@@ -4623,16 +4732,16 @@
       "data_source": "Yahoo",
       "data_quality": "FULL_OHLCV",
       "regime": "RANGE",
-      "price_usd": 0.040300000458955765,
-      "adx14": 16.706393672481788,
-      "relative_volume": 0.8766112456197045,
-      "zscore20": 0.12460166410691001,
-      "flow_score": 28.8,
+      "price_usd": 0.04280000180006027,
+      "price_aud": 0.060651880526329194,
+      "usd_to_aud": 1.417099952697754,
+      "adx14": 17.47629453676796,
+      "relative_volume": 1.142977474480992,
+      "zscore20": 1.6460302338464325,
+      "flow_score": 56.2,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:28:02.646575+00:00",
-      "price_aud": 0.05716152263412955,
-      "usd_to_aud": 1.4184000492095947
+      "updated_at": "2026-08-13T09:52:14.963279+00:00"
     },
     {
       "symbol": "POLS",
@@ -4643,16 +4752,16 @@
       "data_source": "Yahoo",
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
-      "price_usd": 0.05079999938607216,
-      "adx14": 27.537327508502788,
-      "relative_volume": 0.9249683912175103,
-      "zscore20": -1.308943094421783,
-      "flow_score": 44.7,
+      "price_usd": 0.04960000142455101,
+      "price_aud": 0.07028815967253976,
+      "usd_to_aud": 1.417099952697754,
+      "adx14": 25.92744177877416,
+      "relative_volume": 0.6610862433947934,
+      "zscore20": -1.556383553001598,
+      "flow_score": 20.2,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:28:02.656349+00:00",
-      "price_aud": 0.07205472162905213,
-      "usd_to_aud": 1.4184000492095947
+      "updated_at": "2026-08-13T09:52:14.976932+00:00"
     },
     {
       "symbol": "POLYX",
@@ -4663,16 +4772,16 @@
       "data_source": "Yahoo",
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
-      "price_usd": 0.02988022193312645,
-      "adx14": 20.754177891668366,
-      "relative_volume": 0.5528817469472177,
-      "zscore20": -1.695885539249316,
-      "flow_score": 23.8,
+      "price_usd": 0.02966528944671154,
+      "price_aud": 0.0420386802717001,
+      "usd_to_aud": 1.417099952697754,
+      "adx14": 22.337755883497458,
+      "relative_volume": 1.274974350959705,
+      "zscore20": -1.6180918189183682,
+      "flow_score": 62.9,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:28:02.666271+00:00",
-      "price_aud": 0.04238210826034017,
-      "usd_to_aud": 1.4184000492095947
+      "updated_at": "2026-08-13T09:52:14.990367+00:00"
     },
     {
       "symbol": "POND",
@@ -4684,15 +4793,15 @@
       "data_quality": "FULL_OHLCV",
       "regime": "SQUEEZE",
       "price_usd": 0.0007399999885819852,
-      "adx14": 43.20144102692601,
-      "relative_volume": 0.9492857176608612,
-      "zscore20": -0.8036014733610742,
-      "flow_score": 32.0,
+      "price_aud": 0.0010486539488158697,
+      "usd_to_aud": 1.417099952697754,
+      "adx14": 43.33873826308233,
+      "relative_volume": 0.720179968292559,
+      "zscore20": -0.6876168502494648,
+      "flow_score": 31.3,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:28:02.676652+00:00",
-      "price_aud": 0.0010496160202197874,
-      "usd_to_aud": 1.4184000492095947
+      "updated_at": "2026-08-13T09:52:15.004224+00:00"
     },
     {
       "symbol": "PONKE",
@@ -4703,16 +4812,16 @@
       "data_source": "Yahoo",
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
-      "price_usd": 0.01454638596624136,
-      "adx14": 37.06861640499554,
-      "relative_volume": 0.5826163441266979,
-      "zscore20": -1.9443437848662914,
-      "flow_score": 28.7,
+      "price_usd": 0.014656472951173782,
+      "price_aud": 0.020769687125824277,
+      "usd_to_aud": 1.417099952697754,
+      "adx14": 38.019911919491186,
+      "relative_volume": 0.5569100635244079,
+      "zscore20": -1.6274105470016076,
+      "flow_score": 35.7,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:28:02.687453+00:00",
-      "price_aud": 0.020632594570338503,
-      "usd_to_aud": 1.4184000492095947
+      "updated_at": "2026-08-13T09:52:15.017755+00:00"
     },
     {
       "symbol": "POWR",
@@ -4723,16 +4832,16 @@
       "data_source": "Yahoo",
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
-      "price_usd": 0.03759999945759773,
-      "adx14": 21.659228366648456,
-      "relative_volume": 0.2911980899773679,
-      "zscore20": -1.3161225341476233,
-      "flow_score": 45.0,
+      "price_usd": 0.03720000013709068,
+      "price_aud": 0.052716118434627646,
+      "usd_to_aud": 1.417099952697754,
+      "adx14": 21.07260858967601,
+      "relative_volume": 0.36985627064593246,
+      "zscore20": -1.396881400407003,
+      "flow_score": 48.9,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:28:02.697237+00:00",
-      "price_aud": 0.05333184108093736,
-      "usd_to_aud": 1.4184000492095947
+      "updated_at": "2026-08-13T09:52:15.031330+00:00"
     },
     {
       "symbol": "PRCL",
@@ -4744,15 +4853,15 @@
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
       "price_usd": 0.005100000184029341,
-      "adx14": 40.81457444681756,
-      "relative_volume": 0.3058253255674035,
-      "zscore20": -2.493304163454364,
-      "flow_score": 52.6,
+      "price_aud": 0.007227210019546515,
+      "usd_to_aud": 1.417099952697754,
+      "adx14": 39.83165474897444,
+      "relative_volume": 0.5639675740146273,
+      "zscore20": -2.116126351225476,
+      "flow_score": 49.8,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:28:02.707028+00:00",
-      "price_aud": 0.007233840511996159,
-      "usd_to_aud": 1.4184000492095947
+      "updated_at": "2026-08-13T09:52:15.045009+00:00"
     },
     {
       "symbol": "PROM",
@@ -4763,16 +4872,16 @@
       "data_source": "Yahoo",
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
-      "price_usd": 2.625302314758301,
-      "adx14": 53.20586296436924,
-      "relative_volume": 11.519758063266703,
-      "zscore20": 3.1241991588450166,
-      "flow_score": 84.1,
+      "price_usd": 2.5147390365600586,
+      "price_aud": 3.5636365697564543,
+      "usd_to_aud": 1.417099952697754,
+      "adx14": 55.17496349336216,
+      "relative_volume": 5.862238284035777,
+      "zscore20": 2.0884442920267006,
+      "flow_score": 67.4,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:28:02.717433+00:00",
-      "price_aud": 3.7237289324432368,
-      "usd_to_aud": 1.4184000492095947
+      "updated_at": "2026-08-13T09:52:15.058458+00:00"
     },
     {
       "symbol": "PSG",
@@ -4783,16 +4892,16 @@
       "data_source": "Yahoo",
       "data_quality": "FULL_OHLCV",
       "regime": "RANGE",
-      "price_usd": 0.4957743287086487,
-      "adx14": 18.088972601037177,
-      "relative_volume": 1.4347565762549936,
-      "zscore20": -0.5957218524061331,
-      "flow_score": 63.6,
+      "price_usd": 0.49256470799446106,
+      "price_aud": 0.6980134243995337,
+      "usd_to_aud": 1.417099952697754,
+      "adx14": 17.166777609868202,
+      "relative_volume": 1.4792393556429626,
+      "zscore20": -0.7040231690567691,
+      "flow_score": 64.9,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:28:02.727348+00:00",
-      "price_aud": 0.7032063322372011,
-      "usd_to_aud": 1.4184000492095947
+      "updated_at": "2026-08-13T09:52:15.072342+00:00"
     },
     {
       "symbol": "PUNDIX",
@@ -4803,16 +4912,16 @@
       "data_source": "Yahoo",
       "data_quality": "FULL_OHLCV",
       "regime": "RANGE",
-      "price_usd": 0.07490000128746033,
-      "adx14": 12.068811371353549,
-      "relative_volume": 0.8119953106206417,
-      "zscore20": -1.0053802211882343,
-      "flow_score": 42.6,
+      "price_usd": 0.07479999959468842,
+      "price_aud": 0.10599907588742497,
+      "usd_to_aud": 1.417099952697754,
+      "adx14": 12.283600639921044,
+      "relative_volume": 0.9157741025423823,
+      "zscore20": -0.9776611313650949,
+      "flow_score": 67.7,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:28:02.737078+00:00",
-      "price_aud": 0.10623816551193244,
-      "usd_to_aud": 1.4184000492095947
+      "updated_at": "2026-08-13T09:52:15.086139+00:00"
     },
     {
       "symbol": "PYR",
@@ -4823,16 +4932,16 @@
       "data_source": "Yahoo",
       "data_quality": "FULL_OHLCV",
       "regime": "RANGE",
-      "price_usd": 0.05999999865889549,
-      "adx14": 12.081514991762484,
-      "relative_volume": 0.3822286167224781,
-      "zscore20": -1.3215281714293274,
-      "flow_score": 23.6,
+      "price_usd": 0.05900000035762787,
+      "price_aud": 0.08360889771596192,
+      "usd_to_aud": 1.417099952697754,
+      "adx14": 11.738419869046327,
+      "relative_volume": 0.37679448600687465,
+      "zscore20": -1.3443406424030677,
+      "flow_score": 35.5,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:28:02.747373+00:00",
-      "price_aud": 0.08510400105035298,
-      "usd_to_aud": 1.4184000492095947
+      "updated_at": "2026-08-13T09:52:15.099821+00:00"
     },
     {
       "symbol": "PYTH",
@@ -4843,16 +4952,16 @@
       "data_source": "Yahoo",
       "data_quality": "FULL_OHLCV",
       "regime": "SQUEEZE",
-      "price_usd": 0.03999999910593033,
-      "adx14": 17.870738876196285,
-      "relative_volume": 1.0675763194226964,
-      "zscore20": -0.43594671499454185,
-      "flow_score": 39.5,
+      "price_usd": 0.04010000079870224,
+      "price_aud": 0.05682570923502084,
+      "usd_to_aud": 1.417099952697754,
+      "adx14": 16.636278188146097,
+      "relative_volume": 1.0049317881116842,
+      "zscore20": -0.2980246646367791,
+      "flow_score": 52.0,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:28:02.757372+00:00",
-      "price_aud": 0.05673600070023532,
-      "usd_to_aud": 1.4184000492095947
+      "updated_at": "2026-08-13T09:52:15.113524+00:00"
     },
     {
       "symbol": "QKC",
@@ -4863,16 +4972,16 @@
       "data_source": "Yahoo",
       "data_quality": "FULL_OHLCV",
       "regime": "SQUEEZE",
-      "price_usd": 0.0019476823508739471,
-      "adx14": 30.44116678346319,
-      "relative_volume": 0.8577214248179535,
-      "zscore20": -0.44215879666685753,
-      "flow_score": 38.1,
+      "price_usd": 0.001973076956346631,
+      "price_aud": 0.002796047261507839,
+      "usd_to_aud": 1.417099952697754,
+      "adx14": 28.610325181489454,
+      "relative_volume": 0.8332926471900834,
+      "zscore20": 0.6739444760230627,
+      "flow_score": 55.0,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:28:02.767245+00:00",
-      "price_aud": 0.0027625927423242658,
-      "usd_to_aud": 1.4184000492095947
+      "updated_at": "2026-08-13T09:52:15.127243+00:00"
     },
     {
       "symbol": "QNT",
@@ -4883,16 +4992,16 @@
       "data_source": "Yahoo",
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
-      "price_usd": 58.040000915527344,
-      "adx14": 21.68826524620756,
-      "relative_volume": 2.836595228142025,
-      "zscore20": -1.382347229310977,
-      "flow_score": 55.5,
+      "price_usd": 58.13999938964844,
+      "price_aud": 82.39019038491824,
+      "usd_to_aud": 1.417099952697754,
+      "adx14": 22.142755287345608,
+      "relative_volume": 2.5982235968846594,
+      "zscore20": -1.2479883246280379,
+      "flow_score": 56.4,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:28:02.777023+00:00",
-      "price_aud": 82.32394015470891,
-      "usd_to_aud": 1.4184000492095947
+      "updated_at": "2026-08-13T09:52:15.140762+00:00"
     },
     {
       "symbol": "QTUM",
@@ -4903,16 +5012,16 @@
       "data_source": "Yahoo",
       "data_quality": "FULL_OHLCV",
       "regime": "SQUEEZE",
-      "price_usd": 0.6533939242362976,
-      "adx14": 11.99805703357753,
-      "relative_volume": 1.5086792455742577,
-      "zscore20": -0.04909849702324868,
+      "price_usd": 0.6684424877166748,
+      "price_aud": 0.9472498177244688,
+      "usd_to_aud": 1.417099952697754,
+      "adx14": 11.908159389127045,
+      "relative_volume": 1.183013208732636,
+      "zscore20": 1.1909377650769277,
       "flow_score": 68.8,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:28:02.787056+00:00",
-      "price_aud": 0.9267739742900147,
-      "usd_to_aud": 1.4184000492095947
+      "updated_at": "2026-08-13T09:52:15.154399+00:00"
     },
     {
       "symbol": "QUICK",
@@ -4923,16 +5032,16 @@
       "data_source": "Yahoo",
       "data_quality": "FULL_OHLCV",
       "regime": "SQUEEZE",
-      "price_usd": 9.023991584777832,
-      "adx14": 16.828672605348935,
-      "relative_volume": 0.7775076714621607,
-      "zscore20": -0.6453813380986076,
-      "flow_score": 32.4,
+      "price_usd": 9.0248384475708,
+      "price_aud": 12.789098137157453,
+      "usd_to_aud": 1.417099952697754,
+      "adx14": 16.368964084411413,
+      "relative_volume": 0.7031976111847179,
+      "zscore20": -0.5620329365474281,
+      "flow_score": 37.1,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:28:02.797225+00:00",
-      "price_aud": 12.799630107915846,
-      "usd_to_aud": 1.4184000492095947
+      "updated_at": "2026-08-13T09:52:15.168217+00:00"
     },
     {
       "symbol": "RAD",
@@ -4943,16 +5052,16 @@
       "data_source": "Yahoo",
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
-      "price_usd": 0.23600000143051147,
-      "adx14": 29.792307982111716,
-      "relative_volume": 1.8471261716759182,
-      "zscore20": 1.0853473077755849,
-      "flow_score": 42.9,
+      "price_usd": 0.24300000071525574,
+      "price_aud": 0.34435528951914307,
+      "usd_to_aud": 1.417099952697754,
+      "adx14": 33.86506800069582,
+      "relative_volume": 1.1333839251890723,
+      "zscore20": 1.262502012758953,
+      "flow_score": 37.3,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:28:02.807139+00:00",
-      "price_aud": 0.3347424136425019,
-      "usd_to_aud": 1.4184000492095947
+      "updated_at": "2026-08-13T09:52:15.181589+00:00"
     },
     {
       "symbol": "RAY",
@@ -4963,16 +5072,16 @@
       "data_source": "Yahoo",
       "data_quality": "FULL_OHLCV",
       "regime": "SQUEEZE",
-      "price_usd": 0.6358000040054321,
-      "adx14": 12.454114550926992,
-      "relative_volume": 0.7603242918023522,
-      "zscore20": 1.3602264718853205,
-      "flow_score": 55.0,
+      "price_usd": 0.630299985408783,
+      "price_aud": 0.8931980795081813,
+      "usd_to_aud": 1.417099952697754,
+      "adx14": 11.88823955413526,
+      "relative_volume": 0.7911944002560083,
+      "zscore20": 0.9004595449847927,
+      "flow_score": 44.1,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:28:02.826215+00:00",
-      "price_aud": 0.9018187569687655,
-      "usd_to_aud": 1.4184000492095947
+      "updated_at": "2026-08-13T09:52:15.207664+00:00"
     },
     {
       "symbol": "RBNT",
@@ -4983,16 +5092,16 @@
       "data_source": "Yahoo",
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
-      "price_usd": 0.0029752319678664207,
-      "adx14": 39.66757485291489,
-      "relative_volume": 1.0990763002178072,
-      "zscore20": -1.8079761608362472,
-      "flow_score": 35.4,
+      "price_usd": 0.002951867412775755,
+      "price_aud": 0.0041830911710145635,
+      "usd_to_aud": 1.417099952697754,
+      "adx14": 42.03487987165306,
+      "relative_volume": 1.0503830429983587,
+      "zscore20": -1.7071385381938142,
+      "flow_score": 27.0,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:28:02.836146+00:00",
-      "price_aud": 0.0042200691696316905,
-      "usd_to_aud": 1.4184000492095947
+      "updated_at": "2026-08-13T09:52:15.220911+00:00"
     },
     {
       "symbol": "RDNT",
@@ -5003,16 +5112,16 @@
       "data_source": "Yahoo",
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
-      "price_usd": 0.000424470315920189,
-      "adx14": 79.0829837341669,
-      "relative_volume": 0.3038986012151484,
-      "zscore20": -1.2050279410912716,
-      "flow_score": 26.1,
+      "price_usd": 0.0004080702201463282,
+      "price_aud": 0.0005782762896667237,
+      "usd_to_aud": 1.417099952697754,
+      "adx14": 79.63859313877214,
+      "relative_volume": 0.42793487781017886,
+      "zscore20": -1.303715098066215,
+      "flow_score": 32.1,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:28:02.846044+00:00",
-      "price_aud": 0.0006020687169892083,
-      "usd_to_aud": 1.4184000492095947
+      "updated_at": "2026-08-13T09:52:15.234385+00:00"
     },
     {
       "symbol": "REN",
@@ -5023,16 +5132,16 @@
       "data_source": "Yahoo",
       "data_quality": "FULL_OHLCV",
       "regime": "SQUEEZE",
-      "price_usd": 0.0033158629667013884,
-      "adx14": 20.99275593345079,
-      "relative_volume": 0.26378599896422056,
-      "zscore20": -0.7297248300161933,
-      "flow_score": 25.6,
+      "price_usd": 0.0033551985397934914,
+      "price_aud": 0.00475465169203293,
+      "usd_to_aud": 1.417099952697754,
+      "adx14": 20.821515710596994,
+      "relative_volume": 0.39827190495477255,
+      "zscore20": 0.14536721277456507,
+      "flow_score": 38.5,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:28:02.856101+00:00",
-      "price_aud": 0.004703220195141522,
-      "usd_to_aud": 1.4184000492095947
+      "updated_at": "2026-08-13T09:52:15.248330+00:00"
     },
     {
       "symbol": "RENDER",
@@ -5043,16 +5152,16 @@
       "data_source": "Yahoo",
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
-      "price_usd": 1.2450000047683716,
-      "adx14": 40.85065673054246,
-      "relative_volume": 1.120291541278712,
-      "zscore20": -1.7279934969076836,
-      "flow_score": 33.1,
+      "price_usd": 1.2660000324249268,
+      "price_aud": 1.7940485860647186,
+      "usd_to_aud": 1.417099952697754,
+      "adx14": 41.67515394282131,
+      "relative_volume": 1.1117993394258299,
+      "zscore20": -1.3035777230981909,
+      "flow_score": 50.7,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:28:02.865852+00:00",
-      "price_aud": 1.765908068029404,
-      "usd_to_aud": 1.4184000492095947
+      "updated_at": "2026-08-13T09:52:15.261878+00:00"
     },
     {
       "symbol": "REP",
@@ -5063,16 +5172,16 @@
       "data_source": "Yahoo",
       "data_quality": "FULL_OHLCV",
       "regime": "RANGE",
-      "price_usd": 0.8010361194610596,
-      "adx14": 18.390254952747505,
-      "relative_volume": 2.390158172231986,
-      "zscore20": -0.3250979550802524,
+      "price_usd": 0.7984990477561951,
+      "price_aud": 1.1315529628045056,
+      "usd_to_aud": 1.417099952697754,
+      "adx14": 18.02735995935918,
+      "relative_volume": 4.99795835034708,
+      "zscore20": -0.4017664589874433,
       "flow_score": 45.0,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:28:02.875522+00:00",
-      "price_aud": 1.1361896712622297,
-      "usd_to_aud": 1.4184000492095947
+      "updated_at": "2026-08-13T09:52:15.275488+00:00"
     },
     {
       "symbol": "REQ",
@@ -5083,16 +5192,16 @@
       "data_source": "Yahoo",
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
-      "price_usd": 0.05119999870657921,
-      "adx14": 35.79779063985163,
-      "relative_volume": 0.42572993350462346,
-      "zscore20": -0.1743026192692083,
-      "flow_score": 31.8,
+      "price_usd": 0.05130000039935112,
+      "price_aud": 0.07269722813931523,
+      "usd_to_aud": 1.417099952697754,
+      "adx14": 35.16773299408868,
+      "relative_volume": 0.4724750079298826,
+      "zscore20": -0.17606280719318473,
+      "flow_score": 51.5,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:28:02.885371+00:00",
-      "price_aud": 0.07262208068494314,
-      "usd_to_aud": 1.4184000492095947
+      "updated_at": "2026-08-13T09:52:15.289156+00:00"
     },
     {
       "symbol": "REZ",
@@ -5103,16 +5212,16 @@
       "data_source": "Yahoo",
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
-      "price_usd": 0.0027199999894946814,
-      "adx14": 36.47856961563902,
-      "relative_volume": 0.4540074174122652,
-      "zscore20": 0.6930163236657604,
-      "flow_score": 37.3,
+      "price_usd": 0.002689999993890524,
+      "price_aud": 0.0038119988640992197,
+      "usd_to_aud": 1.417099952697754,
+      "adx14": 36.68006395618733,
+      "relative_volume": 0.47555196459186244,
+      "zscore20": 0.41738730212243613,
+      "flow_score": 31.9,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:28:02.895349+00:00",
-      "price_aud": 0.003858048118949353,
-      "usd_to_aud": 1.4184000492095947
+      "updated_at": "2026-08-13T09:52:15.303010+00:00"
     },
     {
       "symbol": "RLC",
@@ -5123,16 +5232,16 @@
       "data_source": "Yahoo",
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
-      "price_usd": 0.26440000534057617,
-      "adx14": 22.09417717100069,
-      "relative_volume": 0.3321064517988681,
-      "zscore20": -0.5371575735935483,
-      "flow_score": 26.6,
+      "price_usd": 0.2669000029563904,
+      "price_aud": 0.3782239815645312,
+      "usd_to_aud": 1.417099952697754,
+      "adx14": 21.351483087073447,
+      "relative_volume": 0.49914156159292455,
+      "zscore20": -0.23628534627939762,
+      "flow_score": 35.1,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:28:02.905290+00:00",
-      "price_aud": 0.37502498058609035,
-      "usd_to_aud": 1.4184000492095947
+      "updated_at": "2026-08-13T09:52:15.316552+00:00"
     },
     {
       "symbol": "ROSE",
@@ -5143,16 +5252,16 @@
       "data_source": "Yahoo",
       "data_quality": "FULL_OHLCV",
       "regime": "SQUEEZE",
-      "price_usd": 0.0052999998442828655,
-      "adx14": 19.91254855253423,
-      "relative_volume": 0.5152717885630067,
-      "zscore20": -0.7108423911702878,
-      "flow_score": 32.4,
+      "price_usd": 0.005439999978989363,
+      "price_aud": 0.007709023712901608,
+      "usd_to_aud": 1.417099952697754,
+      "adx14": 20.059166378545633,
+      "relative_volume": 0.8011657906494997,
+      "zscore20": 0.026525525393575274,
+      "flow_score": 58.9,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:28:02.915448+00:00",
-      "price_aud": 0.007517520039941661,
-      "usd_to_aud": 1.4184000492095947
+      "updated_at": "2026-08-13T09:52:15.330774+00:00"
     },
     {
       "symbol": "RPL",
@@ -5163,16 +5272,16 @@
       "data_source": "Yahoo",
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
-      "price_usd": 1.409999966621399,
-      "adx14": 23.32048888902376,
-      "relative_volume": 0.9614194274068667,
-      "zscore20": -1.948885996704261,
+      "price_usd": 1.3899999856948853,
+      "price_aud": 1.9697689139781005,
+      "usd_to_aud": 1.417099952697754,
+      "adx14": 22.786414905101743,
+      "relative_volume": 0.9733243039602278,
+      "zscore20": -1.9616735041199838,
       "flow_score": 28.8,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:28:02.925599+00:00",
-      "price_aud": 1.9999440220413192,
-      "usd_to_aud": 1.4184000492095947
+      "updated_at": "2026-08-13T09:52:15.344282+00:00"
     },
     {
       "symbol": "RSR",
@@ -5183,16 +5292,16 @@
       "data_source": "Yahoo",
       "data_quality": "FULL_OHLCV",
       "regime": "SQUEEZE",
-      "price_usd": 0.0011990000493824482,
-      "adx14": 20.60515912626297,
-      "relative_volume": 0.6479361144748091,
-      "zscore20": -1.7047978647289024,
-      "flow_score": 26.7,
+      "price_usd": 0.0011840000515803695,
+      "price_aud": 0.0016778464170886798,
+      "usd_to_aud": 1.417099952697754,
+      "adx14": 19.02816464709711,
+      "relative_volume": 0.6756112751583724,
+      "zscore20": -1.8285972667485808,
+      "flow_score": 50.5,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:28:02.935492+00:00",
-      "price_aud": 0.001700661729046371,
-      "usd_to_aud": 1.4184000492095947
+      "updated_at": "2026-08-13T09:52:15.358027+00:00"
     },
     {
       "symbol": "RSS3",
@@ -5203,16 +5312,16 @@
       "data_source": "Yahoo",
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
-      "price_usd": 0.004547490738332272,
-      "adx14": 45.76138816122496,
-      "relative_volume": 0.051391016043638736,
-      "zscore20": -0.5259227037151999,
-      "flow_score": 28.2,
+      "price_usd": 0.004509310703724623,
+      "price_aud": 0.006390143984947638,
+      "usd_to_aud": 1.417099952697754,
+      "adx14": 46.03572607556071,
+      "relative_volume": 0.05677791424483609,
+      "zscore20": -0.6133518786389095,
+      "flow_score": 25.3,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:28:02.945392+00:00",
-      "price_aud": 0.00645016108703067,
-      "usd_to_aud": 1.4184000492095947
+      "updated_at": "2026-08-13T09:52:15.371643+00:00"
     },
     {
       "symbol": "RUNE",
@@ -5231,8 +5340,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:28:02.955285+00:00",
-      "price_aud": 0.6000651120946685,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.5995150962091316,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "RVN",
@@ -5288,16 +5397,16 @@
         "rejection_reasons": [
           "20d dollar volume $11,581"
         ],
-        "entry_price_aud": 0.003764450505966077,
-        "stop_loss_aud": 0.0033933212550531834,
-        "profit_target_aud": 0.004395370232517996,
-        "atr14_aud": 0.0002474195006085958,
-        "risk_per_unit_aud": 0.00037112925091289364,
-        "usd_to_aud": 1.4184000492095947
+        "entry_price_aud": 0.0037610000344474592,
+        "stop_loss_aud": 0.0033902109582580665,
+        "profit_target_aud": 0.004391341463969426,
+        "atr14_aud": 0.00024719271745959496,
+        "risk_per_unit_aud": 0.00037078907618939247,
+        "usd_to_aud": 1.417099952697754
       },
       "updated_at": "2026-08-12T21:28:02.965266+00:00",
-      "price_aud": 0.003764450505966077,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.0037610000344474592,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "SAND",
@@ -5316,8 +5425,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:28:02.975201+00:00",
-      "price_aud": 0.054324722070722586,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.0542749283741486,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "SC",
@@ -5336,8 +5445,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:28:02.984998+00:00",
-      "price_aud": 0.0006630437886107551,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.0006624360468687474,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "SCA",
@@ -5357,7 +5466,7 @@
       "candidate": null,
       "updated_at": "2026-08-12T21:28:02.994653+00:00",
       "price_aud": 0.0,
-      "usd_to_aud": 1.4184000492095947
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "SCR",
@@ -5376,8 +5485,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:28:03.004483+00:00",
-      "price_aud": 0.0005934668973161805,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.0005929229293125671,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "SCRT",
@@ -5396,8 +5505,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:30:35.189751+00:00",
-      "price_aud": 0.040981351094173224,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.040943787847021795,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "SEI",
@@ -5416,8 +5525,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:30:35.204740+00:00",
-      "price_aud": 0.05646650858325586,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.05641475173871413,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "SFP",
@@ -5436,8 +5545,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:30:36.432985+00:00",
-      "price_aud": 0.3393572270469498,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.3390461743595239,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "SHIB",
@@ -5456,8 +5565,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:30:36.447444+00:00",
-      "price_aud": 6.212592306279992e-06,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 6.206897883474956e-06,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "SKL",
@@ -5476,8 +5585,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:30:36.462174+00:00",
-      "price_aud": 0.005001278677310983,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.004996694536915092,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "SKY",
@@ -5496,8 +5605,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:30:36.477070+00:00",
-      "price_aud": 0.020069182626548665,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.020050787340717413,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "SLERF",
@@ -5516,8 +5625,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:30:36.492101+00:00",
-      "price_aud": 0.020566315319145767,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.020547464364633505,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "SLF",
@@ -5536,8 +5645,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:30:37.715724+00:00",
-      "price_aud": 0.0005255809890447809,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.0005250992448352204,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "SLP",
@@ -5556,8 +5665,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:30:37.730221+00:00",
-      "price_aud": 0.0007270173791171369,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.000726350999586789,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "SNEK",
@@ -5576,8 +5685,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:30:39.033596+00:00",
-      "price_aud": 0.0004585276740234012,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.00045810739045818805,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "SNT",
@@ -5596,8 +5705,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:30:39.048111+00:00",
-      "price_aud": 0.007137556339697038,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.007131014100710598,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "SOL",
@@ -5616,8 +5725,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:30:39.062838+00:00",
-      "price_aud": 106.90481560467924,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 106.80682732701098,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "SPELL",
@@ -5636,8 +5745,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:30:39.077512+00:00",
-      "price_aud": 0.00010964232273693968,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.00010954182527755235,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "SPX",
@@ -5656,8 +5765,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:30:40.380655+00:00",
-      "price_aud": 0.4418127960422971,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.44140783322849764,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "SSV",
@@ -5676,8 +5785,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:30:40.395757+00:00",
-      "price_aud": 2.9007097085237206,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 2.8980509363557303,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "STARGATE",
@@ -5696,8 +5805,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:31:57.024457+00:00",
-      "price_aud": 3.7269002740929965e-05,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 3.723484220879359e-05,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "STEEM",
@@ -5716,8 +5825,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:31:57.038836+00:00",
-      "price_aud": 0.0507991583715901,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.05075259618439887,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "STMX",
@@ -5736,8 +5845,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:31:57.053237+00:00",
-      "price_aud": 1.1990574405167011e-05,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 1.1979583920523548e-05,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "STORJ",
@@ -5756,8 +5865,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:31:57.067680+00:00",
-      "price_aud": 0.06042383984747879,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.06036845573813565,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "STRAX",
@@ -5776,8 +5885,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:31:57.082086+00:00",
-      "price_aud": 0.012002774245225556,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.011991772578285875,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "STRK",
@@ -5796,8 +5905,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:31:57.096446+00:00",
-      "price_aud": 0.03235254132486931,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.03232288719016374,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "SUNDOG",
@@ -5816,8 +5925,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:31:57.110938+00:00",
-      "price_aud": 0.0055565285665843955,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.0055514354876526895,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "SWELL",
@@ -5836,8 +5945,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:31:57.125238+00:00",
-      "price_aud": 0.0009077760085617892,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.0009069439468152307,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "SXP",
@@ -5856,8 +5965,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:31:57.139748+00:00",
-      "price_aud": 1.5297103435987083,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 1.5283082207752159,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "SYRUP",
@@ -5876,8 +5985,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:31:57.154137+00:00",
-      "price_aud": 0.2114834553180316,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.2112896109208009,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "SYS",
@@ -5896,8 +6005,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:31:57.168494+00:00",
-      "price_aud": 0.002725863992370847,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.0027233654826801512,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "TAIKO",
@@ -5916,8 +6025,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:31:57.182870+00:00",
-      "price_aud": 0.09714662950310604,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.09705758551708499,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "TFUEL",
@@ -5936,8 +6045,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:31:57.197323+00:00",
-      "price_aud": 0.010327665047279888,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.010318198774833753,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "TIA",
@@ -5956,8 +6065,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:31:57.212132+00:00",
-      "price_aud": 0.4269384134593963,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.4265470844105721,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "TKO",
@@ -5976,8 +6085,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:31:57.226536+00:00",
-      "price_aud": 0.07334272190273872,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.07327549642783282,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "TLM",
@@ -5996,8 +6105,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:31:57.241029+00:00",
-      "price_aud": 0.002211170911109811,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.0022091441658412814,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "TNSR",
@@ -6016,8 +6125,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:31:57.255488+00:00",
-      "price_aud": 0.04502001558867352,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.044978750527196354,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "TRAC",
@@ -6036,8 +6145,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:31:57.270478+00:00",
-      "price_aud": 0.37559235020988524,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.37524808463780346,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "TRB",
@@ -6056,8 +6165,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:31:57.285421+00:00",
-      "price_aud": 19.176769314605735,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 19.15919200917051,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "TROY",
@@ -6076,8 +6185,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:31:57.300056+00:00",
-      "price_aud": 3.5709162663049568e-06,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 3.567643187046051e-06,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "TRU",
@@ -6096,8 +6205,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:31:57.314719+00:00",
-      "price_aud": 0.011467261567692955,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.011456750748285671,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "TRX",
@@ -6116,8 +6225,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:31:57.329723+00:00",
-      "price_aud": 0.47578871825573543,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.47535261332657797,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "TURBO",
@@ -6136,8 +6245,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:31:57.344461+00:00",
-      "price_aud": 0.001120536067329661,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.001119508991059226,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "TWT",
@@ -6156,8 +6265,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:31:57.359049+00:00",
-      "price_aud": 0.5724106407630316,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.571885972790966,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "UMA",
@@ -6176,8 +6285,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:31:57.373917+00:00",
-      "price_aud": 0.4595616172966004,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.4591403860255241,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "UNI",
@@ -6196,8 +6305,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:31:57.388247+00:00",
-      "price_aud": 0.00023119921404883212,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.00023098729831187714,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "USTC",
@@ -6216,8 +6325,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:31:57.403103+00:00",
-      "price_aud": 0.007076015472408881,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.007069529641392069,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "UTK",
@@ -6236,8 +6345,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:31:57.418359+00:00",
-      "price_aud": 0.011264217788368391,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.011253893077604715,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "VANRY",
@@ -6296,16 +6405,16 @@
           "20d dollar volume $44,125",
           "ATR% 30.4"
         ],
-        "entry_price_aud": 0.002976109314399178,
-        "stop_loss_aud": 0.0016202525764984304,
-        "profit_target_aud": 0.005281065768830449,
-        "atr14_aud": 0.0009039044919338315,
-        "risk_per_unit_aud": 0.0013558567379007474,
-        "usd_to_aud": 1.4184000492095947
+        "entry_price_aud": 0.002973381431429445,
+        "stop_loss_aud": 0.0016187674632370621,
+        "profit_target_aud": 0.005276225177356496,
+        "atr14_aud": 0.0009030759787949218,
+        "risk_per_unit_aud": 0.0013546139681923826,
+        "usd_to_aud": 1.417099952697754
       },
       "updated_at": "2026-08-12T21:31:57.433280+00:00",
-      "price_aud": 0.002976109314399178,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.002973381431429445,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "VET",
@@ -6324,8 +6433,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:31:57.448200+00:00",
-      "price_aud": 0.0064111681636698226,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.006405291727490159,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "VIC",
@@ -6344,8 +6453,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:31:57.463058+00:00",
-      "price_aud": 0.036141290744337695,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.036108163865883114,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "VIRTUAL",
@@ -6364,8 +6473,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:31:57.478038+00:00",
-      "price_aud": 0.8356433037279913,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.8348773583623483,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "VRA",
@@ -6384,8 +6493,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:31:57.492936+00:00",
-      "price_aud": 1.3440963742251564e-05,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 1.3428643839917369e-05,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "VTHO",
@@ -6404,8 +6513,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:31:57.507971+00:00",
-      "price_aud": 0.0004595616063984495,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.0004591403751373624,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "W",
@@ -6424,8 +6533,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:31:57.522881+00:00",
-      "price_aud": 0.011403936045636165,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.01139348327000178,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "WAN",
@@ -6444,8 +6553,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:31:57.537395+00:00",
-      "price_aud": 0.0754473992207787,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.07537824461195797,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "WAVES",
@@ -6464,8 +6573,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:31:57.552033+00:00",
-      "price_aud": 0.28217573635842896,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.28191709586361924,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "WBTC",
@@ -6484,8 +6593,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:31:57.566762+00:00",
-      "price_aud": 89979.96366549097,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 89897.48860003799,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "WEMIX",
@@ -6504,8 +6613,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:31:57.581411+00:00",
-      "price_aud": 0.28566944311129916,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.2854076003069821,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "WIN",
@@ -6524,8 +6633,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:31:57.596082+00:00",
-      "price_aud": 4.409154997731413e-05,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 4.405113594154256e-05,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "WLD",
@@ -6544,8 +6653,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:31:57.610818+00:00",
-      "price_aud": 0.4665117895090489,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.46608418775409177,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "WNXM",
@@ -6564,8 +6673,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:31:57.639145+00:00",
-      "price_aud": 71.73737994550265,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 71.67162591687884,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "WOO",
@@ -6584,8 +6693,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:31:57.653750+00:00",
-      "price_aud": 0.015002313923526467,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.014988562897493729,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "WRX",
@@ -6604,8 +6713,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:31:57.668254+00:00",
-      "price_aud": 0.02203781799688498,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.02201761827232751,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "XAI",
@@ -6624,8 +6733,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:31:57.682761+00:00",
-      "price_aud": 0.09641287880054072,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.0963245073657717,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "XAUT",
@@ -6644,8 +6753,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:31:57.697209+00:00",
-      "price_aud": 6222.791121360613,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 6217.087350386195,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "XCH",
@@ -6664,8 +6773,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:31:57.711685+00:00",
-      "price_aud": 1.872626819538425,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 1.8709103816424886,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "XDC",
@@ -6684,8 +6793,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:31:57.740055+00:00",
-      "price_aud": 0.03776329754624763,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.03772868394661977,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "XEC",
@@ -6704,8 +6813,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:31:57.754644+00:00",
-      "price_aud": 9.205316388349741e-06,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 9.196878853584035e-06,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "XEM",
@@ -6724,8 +6833,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:31:57.769235+00:00",
-      "price_aud": 0.0006676145721646529,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.0006670026408713559,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "XNO",
@@ -6744,8 +6853,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:31:57.784050+00:00",
-      "price_aud": 0.5424046417304496,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.5419074770672694,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "XPL",
@@ -6764,8 +6873,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:31:57.798503+00:00",
-      "price_aud": 0.10456445259828762,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.1044686094825451,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "XRD",
@@ -6784,8 +6893,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:31:57.812933+00:00",
-      "price_aud": 0.0013828848592148946,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.0013816173157015221,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "XRP",
@@ -6804,8 +6913,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:31:57.827751+00:00",
-      "price_aud": 1.4230807006552482,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 1.4217763138879036,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "XTZ",
@@ -6824,8 +6933,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:04.461085+00:00",
-      "price_aud": 0.2753114600687603,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.275059111326172,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "XVG",
@@ -6844,8 +6953,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:04.473650+00:00",
-      "price_aud": 0.0030038936547016615,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.00300114030478138,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "XVS",
@@ -6864,8 +6973,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:04.485795+00:00",
-      "price_aud": 3.82012884442571,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 3.8166273384942997,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "YFI",
@@ -6884,8 +6993,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:04.497915+00:00",
-      "price_aud": 2751.1145029659674,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 2748.592848817003,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "YFII",
@@ -6904,8 +7013,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:04.532279+00:00",
-      "price_aud": 34.910838160345065,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 34.878839106944724,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "YGG",
@@ -6924,8 +7033,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:04.544770+00:00",
-      "price_aud": 0.026557829377553688,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.026533486639159776,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "ZBCN",
@@ -6944,8 +7053,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:04.557079+00:00",
-      "price_aud": 0.002244677441119197,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.0022426199839772343,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "ZBU",
@@ -6964,8 +7073,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:04.569198+00:00",
-      "price_aud": 0.17677925155144258,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.17661721680783415,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "ZCX",
@@ -6984,8 +7093,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:04.581337+00:00",
-      "price_aud": 0.0007500320446121311,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.0007493445699849888,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "ZEC",
@@ -7004,8 +7113,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:04.593765+00:00",
-      "price_aud": 693.3564770092271,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 692.7209508488013,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "ZEN",
@@ -7024,8 +7133,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:04.606113+00:00",
-      "price_aud": 5.731754441943735,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 5.726500752083211,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "ZETA",
@@ -7044,8 +7153,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:04.618205+00:00",
-      "price_aud": 0.03900600114190578,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.038970248488023884,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "ZEUS",
@@ -7064,8 +7173,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:05.781888+00:00",
-      "price_aud": 0.0032448169299355823,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.0032418427512653815,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "ZIL",
@@ -7084,8 +7193,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:05.793997+00:00",
-      "price_aud": 0.003329172415303727,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.0033261209169292982,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "ZK",
@@ -7104,8 +7213,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:06.985252+00:00",
-      "price_aud": 0.010365708055272538,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.01035620691284595,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "ZORA",
@@ -7124,8 +7233,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:08.152771+00:00",
-      "price_aud": 0.006895364471947762,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.0068890442244951165,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "ZRO",
@@ -7144,8 +7253,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:09.277058+00:00",
-      "price_aud": 1.1599240395508685,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 1.1588608605142767,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "ZRX",
@@ -7164,8 +7273,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:09.289756+00:00",
-      "price_aud": 0.11113022787481164,
-      "usd_to_aud": 1.4184000492095947
+      "price_aud": 0.11102836661098792,
+      "usd_to_aud": 1.417099952697754
     },
     {
       "symbol": "ACE",
@@ -7420,40 +7529,13 @@
       "last_attempt_at": "2026-08-13T05:54:13.338990+00:00"
     },
     {
-      "symbol": "MOODENG",
-      "name": "Moo Deng",
-      "status": "error",
-      "data_status": "ERROR",
-      "data_error": "No Yahoo history and no Binance USDT pair | CoinGecko fallback deferred to avoid rate limit",
-      "reason": "No Yahoo history and no Binance USDT pair | CoinGecko fallback deferred to avoid rate limit",
-      "last_attempt_at": "2026-08-12T21:25:13.071337+00:00"
-    },
-    {
-      "symbol": "MORPHO",
-      "name": "Morpho",
-      "status": "error",
-      "data_status": "ERROR",
-      "data_error": "No Yahoo history and no Binance USDT pair | CoinGecko fallback deferred to avoid rate limit",
-      "reason": "No Yahoo history and no Binance USDT pair | CoinGecko fallback deferred to avoid rate limit",
-      "last_attempt_at": "2026-08-12T21:25:13.071344+00:00"
-    },
-    {
-      "symbol": "MOVE",
-      "name": "Movement",
-      "status": "error",
-      "data_status": "ERROR",
-      "data_error": "No Yahoo history and no Binance USDT pair | CoinGecko fallback deferred to avoid rate limit",
-      "reason": "No Yahoo history and no Binance USDT pair | CoinGecko fallback deferred to avoid rate limit",
-      "last_attempt_at": "2026-08-12T21:25:13.071349+00:00"
-    },
-    {
       "symbol": "ONG",
       "name": "Ontology Gas",
       "status": "error",
       "data_status": "ERROR",
       "data_error": "No Yahoo history and no Binance USDT pair | CoinGecko fallback deferred to avoid rate limit",
       "reason": "No Yahoo history and no Binance USDT pair | CoinGecko fallback deferred to avoid rate limit",
-      "last_attempt_at": "2026-08-12T21:28:02.527625+00:00"
+      "last_attempt_at": "2026-08-13T09:52:14.799678+00:00"
     },
     {
       "symbol": "PENGU",
@@ -7462,7 +7544,7 @@
       "data_status": "ERROR",
       "data_error": "No Yahoo history and no Binance USDT pair | CoinGecko fallback deferred to avoid rate limit",
       "reason": "No Yahoo history and no Binance USDT pair | CoinGecko fallback deferred to avoid rate limit",
-      "last_attempt_at": "2026-08-12T21:28:02.607125+00:00"
+      "last_attempt_at": "2026-08-13T09:52:14.908587+00:00"
     },
     {
       "symbol": "PEPE",
@@ -7471,7 +7553,7 @@
       "data_status": "ERROR",
       "data_error": "No Yahoo history and no Binance USDT pair | CoinGecko fallback deferred to avoid rate limit",
       "reason": "No Yahoo history and no Binance USDT pair | CoinGecko fallback deferred to avoid rate limit",
-      "last_attempt_at": "2026-08-12T21:28:02.617104+00:00"
+      "last_attempt_at": "2026-08-13T09:52:14.922570+00:00"
     },
     {
       "symbol": "PIXEL",
@@ -7480,7 +7562,7 @@
       "data_status": "ERROR",
       "data_error": "No Yahoo history and no Binance USDT pair | CoinGecko fallback deferred to avoid rate limit",
       "reason": "No Yahoo history and no Binance USDT pair | CoinGecko fallback deferred to avoid rate limit",
-      "last_attempt_at": "2026-08-12T21:28:02.627111+00:00"
+      "last_attempt_at": "2026-08-13T09:52:14.936365+00:00"
     },
     {
       "symbol": "POPCAT",
@@ -7489,7 +7571,7 @@
       "data_status": "ERROR",
       "data_error": "No Yahoo history and no Binance USDT pair | CoinGecko fallback deferred to avoid rate limit",
       "reason": "No Yahoo history and no Binance USDT pair | CoinGecko fallback deferred to avoid rate limit",
-      "last_attempt_at": "2026-08-12T21:28:02.687468+00:00"
+      "last_attempt_at": "2026-08-13T09:52:15.017778+00:00"
     },
     {
       "symbol": "PORTAL",
@@ -7498,7 +7580,7 @@
       "data_status": "ERROR",
       "data_error": "No Yahoo history and no Binance USDT pair | CoinGecko fallback deferred to avoid rate limit",
       "reason": "No Yahoo history and no Binance USDT pair | CoinGecko fallback deferred to avoid rate limit",
-      "last_attempt_at": "2026-08-12T21:28:02.687479+00:00"
+      "last_attempt_at": "2026-08-13T09:52:15.017794+00:00"
     },
     {
       "symbol": "PRIME",
@@ -7507,7 +7589,7 @@
       "data_status": "ERROR",
       "data_error": "No Yahoo history and no Binance USDT pair | CoinGecko fallback deferred to avoid rate limit",
       "reason": "No Yahoo history and no Binance USDT pair | CoinGecko fallback deferred to avoid rate limit",
-      "last_attempt_at": "2026-08-12T21:28:02.707044+00:00"
+      "last_attempt_at": "2026-08-13T09:52:15.045031+00:00"
     },
     {
       "symbol": "PUMP",
@@ -7516,7 +7598,7 @@
       "data_status": "ERROR",
       "data_error": "No Yahoo history and no Binance USDT pair | CoinGecko fallback deferred to avoid rate limit",
       "reason": "No Yahoo history and no Binance USDT pair | CoinGecko fallback deferred to avoid rate limit",
-      "last_attempt_at": "2026-08-12T21:28:02.727362+00:00"
+      "last_attempt_at": "2026-08-13T09:52:15.072364+00:00"
     },
     {
       "symbol": "QI",
@@ -7525,7 +7607,7 @@
       "data_status": "ERROR",
       "data_error": "No Yahoo history and no Binance USDT pair | CoinGecko fallback deferred to avoid rate limit",
       "reason": "No Yahoo history and no Binance USDT pair | CoinGecko fallback deferred to avoid rate limit",
-      "last_attempt_at": "2026-08-12T21:28:02.757390+00:00"
+      "last_attempt_at": "2026-08-13T09:52:15.113556+00:00"
     },
     {
       "symbol": "RARE",
@@ -7534,7 +7616,7 @@
       "data_status": "ERROR",
       "data_error": "No Yahoo history and no Binance USDT pair | CoinGecko fallback deferred to avoid rate limit",
       "reason": "No Yahoo history and no Binance USDT pair | CoinGecko fallback deferred to avoid rate limit",
-      "last_attempt_at": "2026-08-12T21:28:02.807154+00:00"
+      "last_attempt_at": "2026-08-13T09:52:15.181610+00:00"
     },
     {
       "symbol": "RATS",
@@ -7543,7 +7625,7 @@
       "data_status": "ERROR",
       "data_error": "Only 0 usable indicator rows from Yahoo",
       "reason": "Only 0 usable indicator rows from Yahoo",
-      "last_attempt_at": "2026-08-12T21:28:02.816364+00:00"
+      "last_attempt_at": "2026-08-13T09:52:15.194012+00:00"
     },
     {
       "symbol": "RE",
@@ -7552,7 +7634,7 @@
       "data_status": "ERROR",
       "data_error": "No Yahoo history and no Binance USDT pair | CoinGecko fallback deferred to avoid rate limit",
       "reason": "No Yahoo history and no Binance USDT pair | CoinGecko fallback deferred to avoid rate limit",
-      "last_attempt_at": "2026-08-12T21:28:02.846063+00:00"
+      "last_attempt_at": "2026-08-13T09:52:15.234408+00:00"
     },
     {
       "symbol": "REI",
@@ -7561,7 +7643,7 @@
       "data_status": "ERROR",
       "data_error": "No Yahoo history and no Binance USDT pair | CoinGecko fallback deferred to avoid rate limit",
       "reason": "No Yahoo history and no Binance USDT pair | CoinGecko fallback deferred to avoid rate limit",
-      "last_attempt_at": "2026-08-12T21:28:02.846069+00:00"
+      "last_attempt_at": "2026-08-13T09:52:15.234416+00:00"
     },
     {
       "symbol": "RON",
@@ -7570,7 +7652,7 @@
       "data_status": "ERROR",
       "data_error": "No Yahoo history and no Binance USDT pair | CoinGecko fallback deferred to avoid rate limit",
       "reason": "No Yahoo history and no Binance USDT pair | CoinGecko fallback deferred to avoid rate limit",
-      "last_attempt_at": "2026-08-12T21:28:02.905303+00:00"
+      "last_attempt_at": "2026-08-13T09:52:15.316574+00:00"
     },
     {
       "symbol": "S",
