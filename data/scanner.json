@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-08-12T21:35:10.939377+00:00",
+  "generated_at": "2026-08-13T05:54:13.364163+00:00",
   "stats": {
     "universe": 409,
     "known_assets": 409,
     "live_assets": 342,
-    "stale_assets": 4,
-    "data_errors_total": 63,
+    "stale_assets": 8,
+    "data_errors_total": 59,
     "active_trades": 0,
     "signals_this_batch": 0,
     "exits_this_batch": 0,
-    "batch_processed": 72,
-    "batch_errors": 8,
-    "stale_kept_this_batch": 3,
+    "batch_processed": 65,
+    "batch_errors": 15,
+    "stale_kept_this_batch": 4,
     "coingecko_requests_this_batch": 5,
-    "next_index": 142,
-    "usd_to_aud": 1.4160000085830688,
+    "next_index": 222,
+    "usd_to_aud": 1.4184000492095947,
     "fx_source": "Yahoo AUD=X"
   },
   "signals": [],
@@ -38,8 +38,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:09.302459+00:00",
-      "price_aud": 0.1175279962391853,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.11772719960360511,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "A",
@@ -58,8 +58,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:10.457373+00:00",
-      "price_aud": 0.08822001486064358,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.08836954283977837,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "AAVE",
@@ -78,8 +78,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:10.469580+00:00",
-      "price_aud": 124.7779246455002,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 124.98941623210158,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "ACT",
@@ -98,8 +98,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:10.481771+00:00",
-      "price_aud": 0.00014850145295869366,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.00014875315459572658,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "ADA",
@@ -118,8 +118,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:10.494001+00:00",
-      "price_aud": 0.2568624030424118,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.25729777041458135,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "ADX",
@@ -138,8 +138,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:10.506272+00:00",
-      "price_aud": 0.08680740245150753,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.08695453613180693,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "AERGO",
@@ -158,8 +158,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:10.518453+00:00",
-      "price_aud": 0.010195199886667727,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.010212480178881878,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "AERO",
@@ -178,8 +178,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:10.530825+00:00",
-      "price_aud": 4.962813374982536e-05,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 4.971225065413063e-05,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "AEVO",
@@ -198,8 +198,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:10.542962+00:00",
-      "price_aud": 0.027080730632184302,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.027126630952325037,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "AGLD",
@@ -218,8 +218,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:10.555044+00:00",
-      "price_aud": 0.22571040302238465,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.22609296950105673,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "AIOZ",
@@ -238,8 +238,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:10.567509+00:00",
-      "price_aud": 0.07122479812760352,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.0713455201672124,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "AKT",
@@ -258,8 +258,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:10.579556+00:00",
-      "price_aud": 0.7377360436334612,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.7389864648662581,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "ALCX",
@@ -278,8 +278,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:10.592071+00:00",
-      "price_aud": 2.803680044002533,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 2.8084321244888315,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "ALGO",
@@ -298,8 +298,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:10.604418+00:00",
-      "price_aud": 0.11172240342864992,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.11191176663874636,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "ALICE",
@@ -318,8 +318,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:10.616744+00:00",
-      "price_aud": 0.16284000394105913,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.16311600861811648,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "ALLO",
@@ -338,8 +338,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:10.628774+00:00",
-      "price_aud": 0.41941921273784644,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.4201301047887043,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "ALPACA",
@@ -358,8 +358,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:10.640944+00:00",
-      "price_aud": 0.0008827091471712012,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.0008842052896865793,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "AMP",
@@ -378,8 +378,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:10.653160+00:00",
-      "price_aud": 0.0005423280117378831,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.0005432472273121658,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "ANKR",
@@ -398,8 +398,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:10.665488+00:00",
-      "price_aud": 0.004757759991070032,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.004765824127511142,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "APE",
@@ -418,8 +418,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:10.677954+00:00",
-      "price_aud": 0.1772605655209123,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.1775610122413589,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "API3",
@@ -438,8 +438,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:10.690244+00:00",
-      "price_aud": 0.26479201072025305,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.26524081833286317,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "APT",
@@ -458,8 +458,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:10.702393+00:00",
-      "price_aud": 0.00018549599180211866,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.00018581039710839284,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "AR",
@@ -478,8 +478,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:10.714896+00:00",
-      "price_aud": 2.4782231690897163,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 2.482423618419773,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "ARB",
@@ -498,8 +498,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:10.727124+00:00",
-      "price_aud": 0.0008907047452378358,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.0008922144398436638,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "ARDR",
@@ -518,8 +518,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:10.739276+00:00",
-      "price_aud": 0.028436142095435324,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.028484339762015143,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "ARK",
@@ -538,8 +538,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:10.751526+00:00",
-      "price_aud": 0.12697912811715195,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.12719435062022733,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "ARKM",
@@ -558,8 +558,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:10.763843+00:00",
-      "price_aud": 0.13027200104284287,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.1304928047809124,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "ARPA",
@@ -578,8 +578,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:10.776131+00:00",
-      "price_aud": 0.012177600487375262,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.012198240837464347,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "ASR",
@@ -598,8 +598,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:10.788469+00:00",
-      "price_aud": 1.2035346309181065,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 1.205574554641359,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "ATM",
@@ -618,8 +618,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:10.800628+00:00",
-      "price_aud": 2.1979465532016746,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 2.201671949381506,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "ATOM",
@@ -638,8 +638,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:10.812865+00:00",
-      "price_aud": 1.9781519485216137,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 1.981504805169294,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "AUDD",
@@ -658,8 +658,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:10.825110+00:00",
-      "price_aud": 1.0063184241257588,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 1.0080240774354223,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "AUDIO",
@@ -678,8 +678,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:10.837228+00:00",
-      "price_aud": 0.017133600011014938,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.017162640502438542,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "AUDX",
@@ -698,8 +698,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:10.849332+00:00",
-      "price_aud": 0.9997195118466848,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 1.0014139803700033,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "AVA",
@@ -718,8 +718,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:10.861536+00:00",
-      "price_aud": 0.2628574953515095,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.26330302406902817,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "AVNT",
@@ -738,8 +738,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:10.873458+00:00",
-      "price_aud": 0.12623639600501058,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.12645035961879714,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "AWE",
@@ -758,8 +758,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:10.885839+00:00",
-      "price_aud": 0.08252469479395996,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.08266456952488976,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "AXS",
@@ -778,8 +778,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:10.898398+00:00",
-      "price_aud": 1.2149279796810148,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 1.2169872144916525,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "BADGER",
@@ -798,8 +798,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:10.910512+00:00",
-      "price_aud": 0.5042375931309699,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.5050922475812527,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "BAKE",
@@ -818,8 +818,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:10.922689+00:00",
-      "price_aud": 0.0010559655678204494,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.001057755370255209,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "BAL",
@@ -838,8 +838,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:10.934949+00:00",
-      "price_aud": 0.14938799769830702,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.14964120197896946,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "BAND",
@@ -858,8 +858,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:10.947079+00:00",
-      "price_aud": 0.22655999630928036,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.2269440028009413,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "BAR",
@@ -878,8 +878,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:10.959383+00:00",
-      "price_aud": 0.3718598393092307,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.3724901208885427,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "BAT",
@@ -898,8 +898,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:10.971518+00:00",
-      "price_aud": 0.08198640101180077,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.08212536336494924,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "BCH",
@@ -918,8 +918,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:10.983959+00:00",
-      "price_aud": 300.54600182175636,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 301.0554104447365,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "BEAM",
@@ -938,8 +938,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:10.996011+00:00",
-      "price_aud": 0.011333880925333384,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.011353091218067934,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "BEL",
@@ -958,8 +958,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:11.009926+00:00",
-      "price_aud": 0.1467163944792933,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.14696507054228292,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "BERA",
@@ -978,8 +978,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:11.023655+00:00",
-      "price_aud": 0.20107200780200962,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.20141281358213448,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "BICO",
@@ -998,8 +998,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:11.036008+00:00",
-      "price_aud": 0.04733121864875223,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.04741144241073769,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "BIGTIME",
@@ -1018,8 +1018,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:11.048064+00:00",
-      "price_aud": 0.00686760024418831,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.006879240441570289,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "BLAST",
@@ -1031,8 +1031,8 @@
       "data_quality": "DAILY_PROXY",
       "regime": "RANGE",
       "price_usd": 0.00024343428001028764,
-      "price_aud": 0.0003447029425839805,
-      "usd_to_aud": 1.4160000085830688,
+      "price_aud": 0.0003452871947458942,
+      "usd_to_aud": 1.4184000492095947,
       "adx14": 17.884625017301616,
       "relative_volume": 0.4147534125953539,
       "zscore20": -0.7027894516445365,
@@ -1051,8 +1051,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "SQUEEZE",
       "price_usd": 0.013199999928474426,
-      "price_aud": 0.018691200012016296,
-      "usd_to_aud": 1.4160000085830688,
+      "price_aud": 0.018722880548114773,
+      "usd_to_aud": 1.4184000492095947,
       "adx14": 15.230171184092622,
       "relative_volume": 0.5753942933056442,
       "zscore20": -1.3542047798907217,
@@ -1071,8 +1071,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
       "price_usd": 0.006260000169277191,
-      "price_aud": 0.008864160293426515,
-      "usd_to_aud": 1.4160000085830688,
+      "price_aud": 0.00887918454815484,
+      "usd_to_aud": 1.4184000492095947,
       "adx14": 48.359090572642984,
       "relative_volume": 0.6548224201006665,
       "zscore20": -0.43519897563773685,
@@ -1091,8 +1091,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
       "price_usd": 0.0007713589584454894,
-      "price_aud": 0.00109224429177944,
-      "usd_to_aud": 1.4160000085830688,
+      "price_aud": 0.001094095584617344,
+      "usd_to_aud": 1.4184000492095947,
       "adx14": 53.32246757804404,
       "relative_volume": 1.0264930274281527,
       "zscore20": 1.46061866836994,
@@ -1111,8 +1111,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "RANGE",
       "price_usd": 0.03760587424039841,
-      "price_aud": 0.05324991824717795,
-      "usd_to_aud": 1.4160000085830688,
+      "price_aud": 0.05334017387315093,
+      "usd_to_aud": 1.4184000492095947,
       "adx14": 18.172357415715272,
       "relative_volume": 0.13245033112582782,
       "zscore20": -0.167950348491317,
@@ -1131,8 +1131,8 @@
       "data_quality": "DAILY_PROXY",
       "regime": "SQUEEZE",
       "price_usd": 0.0006159214546919879,
-      "price_aud": 0.0008721447851303511,
-      "usd_to_aud": 1.4160000085830688,
+      "price_aud": 0.0008736230216443608,
+      "usd_to_aud": 1.4184000492095947,
       "adx14": 71.47966661293063,
       "relative_volume": 0.5422138774846024,
       "zscore20": -1.6959805150909872,
@@ -1151,8 +1151,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
       "price_usd": 2.2399999579647556e-06,
-      "price_aud": 3.1718399597041678e-06,
-      "usd_to_aud": 1.4160000085830688,
+      "price_aud": 3.1772160506066995e-06,
+      "usd_to_aud": 1.4184000492095947,
       "adx14": 56.25604453160901,
       "relative_volume": 0.8449747208819667,
       "zscore20": -1.0663135600900384,
@@ -1171,8 +1171,8 @@
       "data_quality": "DAILY_PROXY",
       "regime": "SQUEEZE",
       "price_usd": 0.0001242530564401359,
-      "price_aud": 0.00017594232898570497,
-      "usd_to_aud": 1.4160000085830688,
+      "price_aud": 0.00017624054136913133,
+      "usd_to_aud": 1.4184000492095947,
       "adx14": 14.360377557389338,
       "relative_volume": 0.5254755168371888,
       "zscore20": 0.7810232104859678,
@@ -1191,8 +1191,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
       "price_usd": 14.53584098815918,
-      "price_aud": 20.582750963995522,
-      "usd_to_aud": 1.4160000085830688,
+      "price_aud": 20.617637572907825,
+      "usd_to_aud": 1.4184000492095947,
       "adx14": 23.89187868898273,
       "relative_volume": 0.8809575550674001,
       "zscore20": 1.703068915848014,
@@ -1211,8 +1211,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
       "price_usd": 0.0003565599035937339,
-      "price_aud": 0.0005048888265491054,
-      "usd_to_aud": 1.4160000085830688,
+      "price_aud": 0.0005057445848035205,
+      "usd_to_aud": 1.4184000492095947,
       "adx14": 62.92087521813945,
       "relative_volume": 1.736324523663184,
       "zscore20": -0.42763006781549356,
@@ -1231,8 +1231,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "SQUEEZE",
       "price_usd": 63424.05078125,
-      "price_aud": 89808.456450623,
-      "usd_to_aud": 1.4160000085830688,
+      "price_aud": 89960.67674919683,
+      "usd_to_aud": 1.4184000492095947,
       "adx14": 11.15557832724368,
       "relative_volume": 1.057851360987477,
       "zscore20": -0.9150032292182808,
@@ -1251,8 +1251,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "RANGE",
       "price_usd": 2.6202357616966765e-07,
-      "price_aud": 3.710253861052158e-07,
-      "usd_to_aud": 1.4160000085830688,
+      "price_aud": 3.716542533331306e-07,
+      "usd_to_aud": 1.4184000492095947,
       "adx14": 19.567962538816847,
       "relative_volume": 1.1084796972852708,
       "zscore20": 4.358898943540673,
@@ -1271,8 +1271,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
       "price_usd": 0.013899999670684338,
-      "price_aud": 0.019682399652993676,
-      "usd_to_aud": 1.4160000085830688,
+      "price_aud": 0.019715760216912015,
+      "usd_to_aud": 1.4184000492095947,
       "adx14": 34.81345882891717,
       "relative_volume": 0.7686253271321374,
       "zscore20": 0.6660239250403586,
@@ -1291,8 +1291,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "RANGE",
       "price_usd": 1.4459999799728394,
-      "price_aud": 2.047535984052658,
-      "usd_to_aud": 1.4160000085830688,
+      "price_aud": 2.0510064427505483,
+      "usd_to_aud": 1.4184000492095947,
       "adx14": 10.018861021268057,
       "relative_volume": 0.7501648676884992,
       "zscore20": 1.009586222453598,
@@ -1311,8 +1311,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "SQUEEZE",
       "price_usd": 0.01750200055539608,
-      "price_aud": 0.024782832936661725,
-      "usd_to_aud": 1.4160000085830688,
+      "price_aud": 0.024824838449040154,
+      "usd_to_aud": 1.4184000492095947,
       "adx14": 11.295931514146423,
       "relative_volume": null,
       "zscore20": -0.569687829783402,
@@ -1331,8 +1331,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
       "price_usd": 0.0426156185567379,
-      "price_aud": 0.060343716242113654,
-      "usd_to_aud": 1.4160000085830688,
+      "price_aud": 0.060445995457974355,
+      "usd_to_aud": 1.4184000492095947,
       "adx14": 33.59076165207246,
       "relative_volume": 0.5023140923423173,
       "zscore20": 0.9326497456540989,
@@ -1351,8 +1351,8 @@
       "data_quality": "DAILY_PROXY",
       "regime": "UNCLEAR",
       "price_usd": 0.09879755382175806,
-      "price_aud": 0.13989733705959562,
-      "usd_to_aud": 1.4160000085830688,
+      "price_aud": 0.14013445520256923,
+      "usd_to_aud": 1.4184000492095947,
       "adx14": 50.769090861046905,
       "relative_volume": 0.8325484113758871,
       "zscore20": -1.098358219892442,
@@ -1371,8 +1371,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "RANGE",
       "price_usd": 0.06129999831318855,
-      "price_aud": 0.0868007981376171,
-      "usd_to_aud": 1.4160000085830688,
+      "price_aud": 0.08694792062397472,
+      "usd_to_aud": 1.4184000492095947,
       "adx14": 18.587242811346194,
       "relative_volume": 0.48643924187082554,
       "zscore20": -0.714808484616524,
@@ -1391,8 +1391,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
       "price_usd": 0.019234957173466682,
-      "price_aud": 0.027236699522723784,
-      "usd_to_aud": 1.4160000085830688,
+      "price_aud": 0.02728286420138959,
+      "usd_to_aud": 1.4184000492095947,
       "adx14": 26.545386183771715,
       "relative_volume": 1.0319648007444275,
       "zscore20": 1.8810312023658655,
@@ -1411,8 +1411,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "SQUEEZE",
       "price_usd": 0.3509691655635834,
-      "price_aud": 0.49697234145042657,
-      "usd_to_aud": 1.4160000085830688,
+      "price_aud": 0.49781468170643706,
+      "usd_to_aud": 1.4184000492095947,
       "adx14": 18.048707905750653,
       "relative_volume": 0.9987928617580689,
       "zscore20": -0.07316989605692448,
@@ -1431,8 +1431,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "RANGE",
       "price_usd": 0.0014345597010105848,
-      "price_aud": 0.002031336548943913,
-      "usd_to_aud": 1.4160000085830688,
+      "price_aud": 0.002034779550507515,
+      "usd_to_aud": 1.4184000492095947,
       "adx14": 19.177505064232502,
       "relative_volume": 0.9556499880020141,
       "zscore20": -1.1939800911703997,
@@ -1451,8 +1451,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
       "price_usd": 0.010881282389163971,
-      "price_aud": 0.015407895956450979,
-      "usd_to_aud": 1.4160000085830688,
+      "price_aud": 0.015434011476253673,
+      "usd_to_aud": 1.4184000492095947,
       "adx14": 26.846458103651905,
       "relative_volume": 0.8143534139175723,
       "zscore20": 0.6823407622443917,
@@ -1471,8 +1471,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
       "price_usd": 0.013418873772025108,
-      "price_aud": 0.01900112537636267,
-      "usd_to_aud": 1.4160000085830688,
+      "price_aud": 0.019033331218577754,
+      "usd_to_aud": 1.4184000492095947,
       "adx14": 20.222211504829144,
       "relative_volume": 0.6951587670481367,
       "zscore20": 0.5435995585058273,
@@ -1491,8 +1491,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "SQUEEZE",
       "price_usd": 0.012400000356137753,
-      "price_aud": 0.017558400610721114,
-      "usd_to_aud": 1.4160000085830688,
+      "price_aud": 0.01758816111534478,
+      "usd_to_aud": 1.4184000492095947,
       "adx14": 45.45013286282863,
       "relative_volume": 0.8041216642487437,
       "zscore20": -1.3525329244456443,
@@ -1511,8 +1511,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "SQUEEZE",
       "price_usd": 0.000818779633846134,
-      "price_aud": 0.0011593919685537676,
-      "usd_to_aud": 1.4160000085830688,
+      "price_aud": 0.0011613570729391703,
+      "usd_to_aud": 1.4184000492095947,
       "adx14": 16.204246288764757,
       "relative_volume": 0.8059502702618606,
       "zscore20": -0.8212858981205464,
@@ -1531,8 +1531,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "SQUEEZE",
       "price_usd": 0.001989030512049794,
-      "price_aud": 0.0028164672221344944,
-      "usd_to_aud": 1.4160000085830688,
+      "price_aud": 0.0028212409761708135,
+      "usd_to_aud": 1.4184000492095947,
       "adx14": 38.58236198993456,
       "relative_volume": 0.3967564554828273,
       "zscore20": -1.1143793084861888,
@@ -1559,8 +1559,8 @@
       "candidate": null,
       "updated_at": "2026-08-12T21:21:00.188081+00:00",
       "last_attempt_at": "2026-08-12T21:35:10.342824+00:00",
-      "price_aud": 22.884038234020583,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 22.922825395833936,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "COQ",
@@ -1572,8 +1572,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "RANGE",
       "price_usd": 7.833676818336244e-08,
-      "price_aud": 1.1092486442001109e-07,
-      "usd_to_aud": 1.4160000085830688,
+      "price_aud": 1.111128758462019e-07,
+      "usd_to_aud": 1.4184000492095947,
       "adx14": 8.944730414099697,
       "relative_volume": 0.5226038996954426,
       "zscore20": 4.358898943540673,
@@ -1592,8 +1592,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "RANGE",
       "price_usd": 0.00021853929501958191,
-      "price_aud": 0.0003094516436234658,
-      "usd_to_aud": 1.4160000085830688,
+      "price_aud": 0.0003099761468100051,
+      "usd_to_aud": 1.4184000492095947,
       "adx14": 16.384955713221245,
       "relative_volume": 0.8476628553996395,
       "zscore20": 0.5136490091052304,
@@ -1612,8 +1612,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
       "price_usd": 0.012600000016391277,
-      "price_aud": 0.017841600131356716,
-      "usd_to_aud": 1.4160000085830688,
+      "price_aud": 0.017871840643290282,
+      "usd_to_aud": 1.4184000492095947,
       "adx14": 49.508058455387655,
       "relative_volume": 0.8769231331408724,
       "zscore20": 0.1557235979793908,
@@ -1632,8 +1632,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
       "price_usd": 0.26579999923706055,
-      "price_aud": 0.3763728012010574,
-      "usd_to_aud": 1.4160000085830688,
+      "price_aud": 0.3770107319977569,
+      "usd_to_aud": 1.4184000492095947,
       "adx14": 30.172757405061294,
       "relative_volume": 2.661458977543752,
       "zscore20": 2.191982223969776,
@@ -1652,8 +1652,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
       "price_usd": 0.0022623478434979916,
-      "price_aud": 0.0032034845658110433,
-      "usd_to_aud": 1.4160000085830688,
+      "price_aud": 0.0032089142925467717,
+      "usd_to_aud": 1.4184000492095947,
       "adx14": 39.42359474444332,
       "relative_volume": 1.0480658889131296,
       "zscore20": 2.0520302106227004,
@@ -1680,8 +1680,8 @@
       "candidate": null,
       "updated_at": "2026-08-12T21:21:01.520666+00:00",
       "last_attempt_at": "2026-08-12T21:35:10.410236+00:00",
-      "price_aud": 0.152532406804223,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.15279094068202873,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "CTSI",
@@ -1693,8 +1693,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
       "price_usd": 0.024800000712275505,
-      "price_aud": 0.03511680122144223,
-      "usd_to_aud": 1.4160000085830688,
+      "price_aud": 0.03517632223068956,
+      "usd_to_aud": 1.4184000492095947,
       "adx14": 35.175370469642395,
       "relative_volume": 0.478851744002904,
       "zscore20": 0.5854320113620309,
@@ -1721,8 +1721,8 @@
       "candidate": null,
       "updated_at": "2026-08-12T21:21:02.836552+00:00",
       "last_attempt_at": "2026-08-12T21:35:10.423284+00:00",
-      "price_aud": 0.0011672529014830253,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.0011692313297090198,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "CVC",
@@ -1734,8 +1734,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "RANGE",
       "price_usd": 0.017400000244379044,
-      "price_aud": 0.024638400495386126,
-      "usd_to_aud": 1.4160000085830688,
+      "price_aud": 0.024680161202874196,
+      "usd_to_aud": 1.4184000492095947,
       "adx14": 17.169443283207276,
       "relative_volume": 0.6107009052976379,
       "zscore20": -1.4441354510562376,
@@ -1754,8 +1754,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
       "price_usd": 1.7519999742507935,
-      "price_aud": 2.48083197857666,
-      "usd_to_aud": 1.4160000085830688,
+      "price_aud": 2.485036849692534,
+      "usd_to_aud": 1.4184000492095947,
       "adx14": 41.89266102379677,
       "relative_volume": 1.4841786218297062,
       "zscore20": 2.1236066968211627,
@@ -1774,8 +1774,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "SQUEEZE",
       "price_usd": 0.00013035185111220926,
-      "price_aud": 0.00018457822229370723,
-      "usd_to_aud": 1.4160000085830688,
+      "price_aud": 0.00018489107203211938,
+      "usd_to_aud": 1.4184000492095947,
       "adx14": 17.709528525891663,
       "relative_volume": 0.3508771929824561,
       "zscore20": 1.3511025602197662,
@@ -1794,8 +1794,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
       "price_usd": 12.180548667907715,
-      "price_aud": 17.247657018303812,
-      "usd_to_aud": 1.4160000085830688,
+      "price_aud": 17.276890829960166,
+      "usd_to_aud": 1.4184000492095947,
       "adx14": 23.394424090576436,
       "relative_volume": 0.8951060933186459,
       "zscore20": -0.5123618263723194,
@@ -1814,8 +1814,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "SQUEEZE",
       "price_usd": 0.02059396170079708,
-      "price_aud": 0.029161049945088058,
-      "usd_to_aud": 1.4160000085830688,
+      "price_aud": 0.02921047628983109,
+      "usd_to_aud": 1.4184000492095947,
       "adx14": 52.37272902236592,
       "relative_volume": 1.020826880217852,
       "zscore20": 0.17494481812605156,
@@ -1834,8 +1834,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
       "price_usd": 2.662518818397075e-05,
-      "price_aud": 3.7701266697028404e-05,
-      "usd_to_aud": 1.4160000085830688,
+      "price_aud": 3.776516823035883e-05,
+      "usd_to_aud": 1.4184000492095947,
       "adx14": 36.60095141480677,
       "relative_volume": 1.0408392672424378,
       "zscore20": -0.5201935355340831,
@@ -1854,8 +1854,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
       "price_usd": 1.9594818353652954,
-      "price_aud": 2.774626295695626,
-      "usd_to_aud": 1.4160000085830688,
+      "price_aud": 2.779329131707442,
+      "usd_to_aud": 1.4184000492095947,
       "adx14": 43.15326486576409,
       "relative_volume": 0.14731724667817378,
       "zscore20": -0.9210871188743294,
@@ -1874,8 +1874,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
       "price_usd": 0.0040979511104524136,
-      "price_aud": 0.005802698807573614,
-      "usd_to_aud": 1.4160000085830688,
+      "price_aud": 0.005812534056724217,
+      "usd_to_aud": 1.4184000492095947,
       "adx14": 51.95294335298224,
       "relative_volume": 0.7753918488417647,
       "zscore20": 1.3822968993937153,
@@ -1894,8 +1894,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
       "price_usd": 0.122809998691082,
-      "price_aud": 0.1738989592006588,
-      "usd_to_aud": 1.4160000085830688,
+      "price_aud": 0.17419370818686097,
+      "usd_to_aud": 1.4184000492095947,
       "adx14": 44.44949356164416,
       "relative_volume": 0.25254950588258185,
       "zscore20": 0.5226051946124708,
@@ -1914,8 +1914,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
       "price_usd": 0.021537691354751587,
-      "price_aud": 0.030497371143187735,
-      "usd_to_aud": 1.4160000085830688,
+      "price_aud": 0.030549062477440714,
+      "usd_to_aud": 1.4184000492095947,
       "adx14": 39.29209594200417,
       "relative_volume": 1.8053894471247671,
       "zscore20": 0.7598354890561074,
@@ -1934,8 +1934,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "SQUEEZE",
       "price_usd": 0.0695199966430664,
-      "price_aud": 0.09844031584327695,
-      "usd_to_aud": 1.4160000085830688,
+      "price_aud": 0.09860716665957625,
+      "usd_to_aud": 1.4184000492095947,
       "adx14": 24.062645243946704,
       "relative_volume": 0.9975890661813126,
       "zscore20": -0.7128389475172191,
@@ -1954,8 +1954,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "RANGE",
       "price_usd": 0.7748000025749207,
-      "price_aud": 1.0971168102962494,
-      "usd_to_aud": 1.4160000085830688,
+      "price_aud": 1.0989763617798616,
+      "usd_to_aud": 1.4184000492095947,
       "adx14": 14.835671443147168,
       "relative_volume": 0.6350827443349911,
       "zscore20": -0.8466852315941875,
@@ -1974,8 +1974,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "SQUEEZE",
       "price_usd": 0.06117459014058113,
-      "price_aud": 0.0866232201641286,
-      "usd_to_aud": 1.4160000085830688,
+      "price_aud": 0.08677004166577706,
+      "usd_to_aud": 1.4184000492095947,
       "adx14": 26.628030377305286,
       "relative_volume": 0.9517118257493887,
       "zscore20": -0.21318710647778333,
@@ -1994,8 +1994,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
       "price_usd": 0.014156406745314598,
-      "price_aud": 0.020045472072870885,
-      "usd_to_aud": 1.4160000085830688,
+      "price_aud": 0.020079448024185265,
+      "usd_to_aud": 1.4184000492095947,
       "adx14": 23.82914549992601,
       "relative_volume": 0.5647265382940733,
       "zscore20": 0.2741884357820219,
@@ -2014,8 +2014,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
       "price_usd": 0.05229172483086586,
-      "price_aud": 0.07404508280932953,
-      "usd_to_aud": 1.4160000085830688,
+      "price_aud": 0.07417058507335472,
+      "usd_to_aud": 1.4184000492095947,
       "adx14": 32.944384774827064,
       "relative_volume": 6.8017621145374445,
       "zscore20": 0.030451731331709666,
@@ -2034,8 +2034,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "RANGE",
       "price_usd": 0.16899999976158142,
-      "price_aud": 0.23930400111293793,
-      "usd_to_aud": 1.4160000085830688,
+      "price_aud": 0.23970960797824858,
+      "usd_to_aud": 1.4184000492095947,
       "adx14": 18.780820433206454,
       "relative_volume": 0.7507494998337448,
       "zscore20": -1.425301461623434,
@@ -2054,8 +2054,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
       "price_usd": 0.00021668733097612858,
-      "price_aud": 0.00030682926252204035,
-      "usd_to_aud": 1.4160000085830688,
+      "price_aud": 0.0003073493209196365,
+      "usd_to_aud": 1.4184000492095947,
       "adx14": 22.197386875553892,
       "relative_volume": 2.1147698156642294,
       "zscore20": -1.43418585144401,
@@ -2074,8 +2074,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
       "price_usd": 0.08556000143289566,
-      "price_aud": 0.12115296276334764,
-      "usd_to_aud": 1.4160000085830688,
+      "price_aud": 0.1213583102427922,
+      "usd_to_aud": 1.4184000492095947,
       "adx14": 22.686201865253793,
       "relative_volume": 0.7116289797878794,
       "zscore20": -0.28528284417053595,
@@ -2094,8 +2094,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "SQUEEZE",
       "price_usd": 4.039999961853027,
-      "price_aud": 5.7206399806594845,
-      "usd_to_aud": 1.4160000085830688,
+      "price_aud": 5.730336144699095,
+      "usd_to_aud": 1.4184000492095947,
       "adx14": 9.704432173318606,
       "relative_volume": 0.721163429155801,
       "zscore20": -2.0574847729197097,
@@ -2114,8 +2114,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
       "price_usd": 0.2100319266319275,
-      "price_aud": 0.2974052099135278,
-      "usd_to_aud": 1.4160000085830688,
+      "price_aud": 0.29790929507031194,
+      "usd_to_aud": 1.4184000492095947,
       "adx14": 29.673163472097748,
       "relative_volume": 0.6771913786435076,
       "zscore20": -0.4659913849822429,
@@ -2134,8 +2134,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
       "price_usd": 0.0018967519281432033,
-      "price_aud": 0.002685800746530728,
-      "usd_to_aud": 1.4160000085830688,
+      "price_aud": 0.002690353028216713,
+      "usd_to_aud": 1.4184000492095947,
       "adx14": 49.047471847989684,
       "relative_volume": 0.2715428440623649,
       "zscore20": 0.31053467769017307,
@@ -2154,8 +2154,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
       "price_usd": 6.260000228881836,
-      "price_aud": 8.864160377826693,
-      "usd_to_aud": 1.4160000085830688,
+      "price_aud": 8.87918463269807,
+      "usd_to_aud": 1.4184000492095947,
       "adx14": 27.97205088856601,
       "relative_volume": 0.8276767863037491,
       "zscore20": -1.8122703813696148,
@@ -2174,8 +2174,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "SQUEEZE",
       "price_usd": 1877.0400390625,
-      "price_aud": 2657.888711423264,
-      "usd_to_aud": 1.4160000085830688,
+      "price_aud": 2662.3936837746296,
+      "usd_to_aud": 1.4184000492095947,
       "adx14": 16.639065882913428,
       "relative_volume": 0.9406953220654403,
       "zscore20": -0.5068936829661383,
@@ -2194,8 +2194,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "SQUEEZE",
       "price_usd": 0.10989747196435928,
-      "price_aud": 0.1556148212447903,
-      "usd_to_aud": 1.4160000085830688,
+      "price_aud": 0.15587857964225726,
+      "usd_to_aud": 1.4184000492095947,
       "adx14": 15.540477021199832,
       "relative_volume": 1.0082331587879911,
       "zscore20": -1.0806995023719623,
@@ -2214,8 +2214,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "RANGE",
       "price_usd": 0.37400001287460327,
-      "price_aud": 0.5295840214405061,
-      "usd_to_aud": 1.4160000085830688,
+      "price_aud": 0.5304816366657263,
+      "usd_to_aud": 1.4184000492095947,
       "adx14": 14.19082215758426,
       "relative_volume": 0.7485259601336862,
       "zscore20": -1.010943703461188,
@@ -2234,8 +2234,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
       "price_usd": 5.070000171661377,
-      "price_aud": 7.17912028658867,
-      "usd_to_aud": 1.4160000085830688,
+      "price_aud": 7.191288492977151,
+      "usd_to_aud": 1.4184000492095947,
       "adx14": 30.602066007358033,
       "relative_volume": 0.3034207218030399,
       "zscore20": -1.2700830538433219,
@@ -2254,8 +2254,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "SQUEEZE",
       "price_usd": 0.13040000200271606,
-      "price_aud": 0.18464640395507814,
-      "usd_to_aud": 1.4160000085830688,
+      "price_aud": 0.18495936925758372,
+      "usd_to_aud": 1.4184000492095947,
       "adx14": 11.390493825387203,
       "relative_volume": 0.8740450724078649,
       "zscore20": 0.46299783323467686,
@@ -2274,8 +2274,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
       "price_usd": 0.13311000168323517,
-      "price_aud": 0.1884837635259533,
-      "usd_to_aud": 1.4160000085830688,
+      "price_aud": 0.18880323293779,
+      "usd_to_aud": 1.4184000492095947,
       "adx14": 31.733460999557323,
       "relative_volume": 0.7319707176855144,
       "zscore20": -1.1996289145082355,
@@ -2294,8 +2294,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "SQUEEZE",
       "price_usd": 0.6740000247955322,
-      "price_aud": 0.9543840408954622,
-      "usd_to_aud": 1.4160000085830688,
+      "price_aud": 0.956001668337251,
+      "usd_to_aud": 1.4184000492095947,
       "adx14": 30.809209901257894,
       "relative_volume": 0.729124218872708,
       "zscore20": -2.012830125014851,
@@ -2314,8 +2314,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "SQUEEZE",
       "price_usd": 0.0009358175448141992,
-      "price_aud": 0.0013251176514890925,
-      "usd_to_aud": 1.4160000085830688,
+      "price_aud": 0.0013273636516156623,
+      "usd_to_aud": 1.4184000492095947,
       "adx14": 64.38750259614154,
       "relative_volume": 1.039640852428391,
       "zscore20": 0.9938322933126165,
@@ -2334,8 +2334,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
       "price_usd": 0.0015840418636798859,
-      "price_aud": 0.0022430032925666588,
-      "usd_to_aud": 1.4160000085830688,
+      "price_aud": 0.0022468050573936083,
+      "usd_to_aud": 1.4184000492095947,
       "adx14": 49.423946639768786,
       "relative_volume": 0.3921986596701401,
       "zscore20": -1.3528981063061127,
@@ -2354,8 +2354,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "SQUEEZE",
       "price_usd": 2.029999996011611e-05,
-      "price_aud": 2.874480011776071e-05,
-      "usd_to_aud": 1.4160000085830688,
+      "price_aud": 2.8793520942383462e-05,
+      "usd_to_aud": 1.4184000492095947,
       "adx14": 14.316065316460337,
       "relative_volume": 0.7695518981725286,
       "zscore20": -1.189585661317008,
@@ -2374,8 +2374,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
       "price_usd": 0.03272999823093414,
-      "price_aud": 0.046345677775926575,
-      "usd_to_aud": 1.4160000085830688,
+      "price_aud": 0.04642423110138694,
+      "usd_to_aud": 1.4184000492095947,
       "adx14": 27.56401627108279,
       "relative_volume": 1.9456730312414967,
       "zscore20": 1.9778463929608863,
@@ -2394,8 +2394,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "SQUEEZE",
       "price_usd": 0.03892834857106209,
-      "price_aud": 0.05512254191074861,
-      "usd_to_aud": 1.4160000085830688,
+      "price_aud": 0.05521597152884272,
+      "usd_to_aud": 1.4184000492095947,
       "adx14": 18.427235439050772,
       "relative_volume": 0.6052508884466404,
       "zscore20": -0.6022928619249764,
@@ -2414,8 +2414,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "SQUEEZE",
       "price_usd": 5.8300305681768805e-05,
-      "price_aud": 8.255323334578017e-05,
-      "usd_to_aud": 1.4160000085830688,
+      "price_aud": 8.269315644795529e-05,
+      "usd_to_aud": 1.4184000492095947,
       "adx14": 16.93991921086999,
       "relative_volume": 2.5,
       "zscore20": 1.5420572685199487,
@@ -2457,12 +2457,12 @@
         "data_quality": "FULL_OHLCV",
         "signal_date": "2026-08-12",
         "timestamp": "2026-08-12T21:35:10.873965+00:00",
-        "entry_price_aud": 8.255323334578017e-05,
-        "stop_loss_aud": 8.14333867295414e-05,
-        "profit_target_aud": 8.591277319449648e-05,
-        "atr14_aud": 6.22137009021538e-07,
-        "risk_per_unit_aud": 1.1198466162387684e-06,
-        "usd_to_aud": 1.4160000085830688,
+        "entry_price_aud": 8.269315644795529e-05,
+        "stop_loss_aud": 8.157141175448617e-05,
+        "profit_target_aud": 8.605839052836261e-05,
+        "atr14_aud": 6.23191496371726e-07,
+        "risk_per_unit_aud": 1.1217446934691068e-06,
+        "usd_to_aud": 1.4184000492095947,
         "rejected": true,
         "rejection_reasons": [
           "20d dollar volume $0"
@@ -2480,8 +2480,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
       "price_usd": 0.00022400000307243317,
-      "price_aud": 0.0003171840062731728,
-      "usd_to_aud": 1.4160000085830688,
+      "price_aud": 0.0003177216153808886,
+      "usd_to_aud": 1.4184000492095947,
       "adx14": 65.53989772204528,
       "relative_volume": null,
       "zscore20": -0.0938874269651424,
@@ -2500,8 +2500,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
       "price_usd": 0.18930000066757202,
-      "price_aud": 0.2680488025700569,
-      "usd_to_aud": 1.4160000085830688,
+      "price_aud": 0.26850313026226047,
+      "usd_to_aud": 1.4184000492095947,
       "adx14": 47.058306390389966,
       "relative_volume": 0.44510490672810515,
       "zscore20": -0.13423554077830638,
@@ -2520,8 +2520,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
       "price_usd": 0.990528404712677,
-      "price_aud": 1.4025882295749241,
-      "usd_to_aud": 1.4160000085830688,
+      "price_aud": 1.4049655379879624,
+      "usd_to_aud": 1.4184000492095947,
       "adx14": 55.12684380014376,
       "relative_volume": 0.4607594380031598,
       "zscore20": -0.836697627715846,
@@ -2540,8 +2540,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "SQUEEZE",
       "price_usd": 0.19909264147281647,
-      "price_aud": 0.28191518203433397,
-      "usd_to_aud": 1.4160000085830688,
+      "price_aud": 0.2823930124623111,
+      "usd_to_aud": 1.4184000492095947,
       "adx14": 7.942751887869326,
       "relative_volume": 0.9900525311145795,
       "zscore20": -0.17065323491461154,
@@ -2560,8 +2560,8 @@
       "data_quality": "FULL_OHLCV",
       "regime": "SQUEEZE",
       "price_usd": 0.004257537424564362,
-      "price_aud": 0.006028673029725873,
-      "usd_to_aud": 1.4160000085830688,
+      "price_aud": 0.006038891292513782,
+      "usd_to_aud": 1.4184000492095947,
       "adx14": 22.141500839119512,
       "relative_volume": 0.4055453479533634,
       "zscore20": -0.6933195470417398,
@@ -2569,6 +2569,26 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:35:10.938655+00:00"
+    },
+    {
+      "symbol": "FWOG",
+      "name": "Fwog",
+      "status": "ok",
+      "data_status": "LIVE",
+      "data_error": null,
+      "data_source": "CoinGecko fallback",
+      "data_quality": "DAILY_PROXY",
+      "regime": "RANGE",
+      "price_usd": 0.004243288762477376,
+      "price_aud": 0.00601868098950843,
+      "usd_to_aud": 1.4184000492095947,
+      "adx14": 13.13431830978146,
+      "relative_volume": 1.0155279846411462,
+      "zscore20": 0.48962629230205185,
+      "flow_score": 60.6,
+      "active": false,
+      "candidate": null,
+      "updated_at": "2026-08-13T05:52:51.810306+00:00"
     },
     {
       "symbol": "GALA",
@@ -2579,16 +2599,36 @@
       "data_source": "Yahoo",
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
-      "price_usd": 0.0016696630045771599,
-      "adx14": 23.905430277676157,
-      "relative_volume": 0.6517068292396496,
-      "zscore20": -2.787043347127535,
-      "flow_score": 32.9,
+      "price_usd": 0.0016431501135230064,
+      "price_aud": 0.0023306442018797835,
+      "usd_to_aud": 1.4184000492095947,
+      "adx14": 24.120078988825572,
+      "relative_volume": 0.8401144036826061,
+      "zscore20": -2.870530439981128,
+      "flow_score": 51.0,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:21:03.438076+00:00",
-      "price_aud": 0.002364242828812091,
-      "usd_to_aud": 1.4160000085830688
+      "updated_at": "2026-08-13T05:52:51.822462+00:00"
+    },
+    {
+      "symbol": "GENI",
+      "name": "Genius",
+      "status": "ok",
+      "data_status": "LIVE",
+      "data_error": null,
+      "data_source": "CoinGecko fallback",
+      "data_quality": "DAILY_PROXY",
+      "regime": "SQUEEZE",
+      "price_usd": 3.509646168493501e-07,
+      "price_aud": 4.978082298099447e-07,
+      "usd_to_aud": 1.4184000492095947,
+      "adx14": 21.051167501843963,
+      "relative_volume": 6.426150992103756,
+      "zscore20": -0.3056856260950024,
+      "flow_score": 63.7,
+      "active": false,
+      "candidate": null,
+      "updated_at": "2026-08-13T05:52:53.025022+00:00"
     },
     {
       "symbol": "GFI",
@@ -2599,16 +2639,16 @@
       "data_source": "Yahoo",
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
-      "price_usd": 8.229328523157164e-05,
-      "adx14": 43.693367022081965,
-      "relative_volume": 17.679012345679013,
-      "zscore20": -3.9258287595046006,
-      "flow_score": 45.0,
+      "price_usd": 8.23777008918114e-05,
+      "price_aud": 0.00011684453499871857,
+      "usd_to_aud": 1.4184000492095947,
+      "adx14": 43.68995344289479,
+      "relative_volume": 14.26829268292683,
+      "zscore20": -3.917979381954864,
+      "flow_score": 65.0,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:21:03.452628+00:00",
-      "price_aud": 0.00011652729259423438,
-      "usd_to_aud": 1.4160000085830688
+      "updated_at": "2026-08-13T05:52:53.037114+00:00"
     },
     {
       "symbol": "GHST",
@@ -2619,16 +2659,16 @@
       "data_source": "Yahoo",
       "data_quality": "FULL_OHLCV",
       "regime": "SQUEEZE",
-      "price_usd": 0.04360000044107437,
-      "adx14": 10.339699941266456,
-      "relative_volume": 0.2643484746540224,
-      "zscore20": -1.126675213060437,
-      "flow_score": 25.0,
+      "price_usd": 0.043299999088048935,
+      "price_aud": 0.061416720837264016,
+      "usd_to_aud": 1.4184000492095947,
+      "adx14": 10.641958795684737,
+      "relative_volume": 0.317345511396363,
+      "zscore20": -1.5831744944693513,
+      "flow_score": 26.4,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:21:03.467206+00:00",
-      "price_aud": 0.061737600998783115,
-      "usd_to_aud": 1.4160000085830688
+      "updated_at": "2026-08-13T05:52:53.049418+00:00"
     },
     {
       "symbol": "GLM",
@@ -2639,16 +2679,16 @@
       "data_source": "Yahoo",
       "data_quality": "FULL_OHLCV",
       "regime": "RANGE",
-      "price_usd": 0.08900000154972076,
-      "adx14": 15.883831017420459,
-      "relative_volume": 1.4759674223096693,
-      "zscore20": -1.133311529899274,
-      "flow_score": 37.0,
+      "price_usd": 0.0885000005364418,
+      "price_aud": 0.1255284051159382,
+      "usd_to_aud": 1.4184000492095947,
+      "adx14": 16.556965139001203,
+      "relative_volume": 1.1136113545141164,
+      "zscore20": -1.2451302679837306,
+      "flow_score": 47.2,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:21:03.481562+00:00",
-      "price_aud": 0.12602400295829774,
-      "usd_to_aud": 1.4160000085830688
+      "updated_at": "2026-08-13T05:52:53.061465+00:00"
     },
     {
       "symbol": "GLMR",
@@ -2659,16 +2699,56 @@
       "data_source": "Yahoo",
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
-      "price_usd": 0.007565326057374477,
-      "adx14": 32.638317463608246,
-      "relative_volume": 1.2878381835958783,
-      "zscore20": -0.7146295505849213,
-      "flow_score": 57.3,
+      "price_usd": 0.007515850011259317,
+      "price_aud": 0.010660482025822149,
+      "usd_to_aud": 1.4184000492095947,
+      "adx14": 32.25645632221375,
+      "relative_volume": 1.2554934860584475,
+      "zscore20": -0.7825286105454853,
+      "flow_score": 72.0,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:21:03.496185+00:00",
-      "price_aud": 0.010712501762175974,
-      "usd_to_aud": 1.4160000085830688
+      "updated_at": "2026-08-13T05:52:53.073502+00:00"
+    },
+    {
+      "symbol": "GMT",
+      "name": "GMT",
+      "status": "ok",
+      "data_status": "LIVE",
+      "data_error": null,
+      "data_source": "CoinGecko fallback",
+      "data_quality": "DAILY_PROXY",
+      "regime": "SQUEEZE",
+      "price_usd": 0.00653095158955791,
+      "price_aud": 0.00926350205601442,
+      "usd_to_aud": 1.4184000492095947,
+      "adx14": 28.46475697610652,
+      "relative_volume": 0.975709296385785,
+      "zscore20": -0.8872948798932122,
+      "flow_score": 33.0,
+      "active": false,
+      "candidate": null,
+      "updated_at": "2026-08-13T05:52:54.278596+00:00"
+    },
+    {
+      "symbol": "GMX",
+      "name": "GMX",
+      "status": "ok",
+      "data_status": "LIVE",
+      "data_error": null,
+      "data_source": "CoinGecko fallback",
+      "data_quality": "DAILY_PROXY",
+      "regime": "RANGE",
+      "price_usd": 6.599227633977734,
+      "price_aud": 9.360344800779336,
+      "usd_to_aud": 1.4184000492095947,
+      "adx14": 16.02516794550679,
+      "relative_volume": 0.6234454879330102,
+      "zscore20": 0.5127296654086413,
+      "flow_score": 63.2,
+      "active": false,
+      "candidate": null,
+      "updated_at": "2026-08-13T05:52:55.488967+00:00"
     },
     {
       "symbol": "GNO",
@@ -2679,16 +2759,16 @@
       "data_source": "Yahoo",
       "data_quality": "FULL_OHLCV",
       "regime": "SQUEEZE",
-      "price_usd": 103.88999938964844,
-      "adx14": 45.56889788668348,
-      "relative_volume": 0.6611107429226607,
-      "zscore20": -1.0712395831827275,
-      "flow_score": 35.3,
+      "price_usd": 103.72000122070312,
+      "price_aud": 147.11645483546454,
+      "usd_to_aud": 1.4184000492095947,
+      "adx14": 45.31573429809273,
+      "relative_volume": 0.7497312648552363,
+      "zscore20": -1.1577006272251118,
+      "flow_score": 41.9,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:23:48.753919+00:00",
-      "price_aud": 147.1082400274372,
-      "usd_to_aud": 1.4160000085830688
+      "updated_at": "2026-08-13T05:52:55.501203+00:00"
     },
     {
       "symbol": "GNS",
@@ -2699,16 +2779,16 @@
       "data_source": "Yahoo",
       "data_quality": "FULL_OHLCV",
       "regime": "SQUEEZE",
-      "price_usd": 0.5259630084037781,
-      "adx14": 27.584320234451422,
-      "relative_volume": 0.8606520996724152,
-      "zscore20": 1.0066580844575075,
-      "flow_score": 42.6,
+      "price_usd": 0.5247099995613098,
+      "price_aud": 0.7442486891985283,
+      "usd_to_aud": 1.4184000492095947,
+      "adx14": 27.77214923459857,
+      "relative_volume": 0.909906495824102,
+      "zscore20": 0.9425227944350293,
+      "flow_score": 53.5,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:23:48.769211+00:00",
-      "price_aud": 0.7447636244141265,
-      "usd_to_aud": 1.4160000085830688
+      "updated_at": "2026-08-13T05:52:55.513375+00:00"
     },
     {
       "symbol": "GRASS",
@@ -2719,23 +2799,23 @@
       "data_source": "CoinGecko fallback",
       "data_quality": "DAILY_PROXY",
       "regime": "SQUEEZE",
-      "price_usd": 0.30898531274245256,
-      "adx14": 34.05763339974053,
-      "relative_volume": 0.9679072244840893,
-      "zscore20": -0.3514099505492579,
-      "flow_score": 61.1,
+      "price_usd": 0.3109541176479845,
+      "price_aud": 0.4410573357738273,
+      "usd_to_aud": 1.4184000492095947,
+      "adx14": 33.76726009758045,
+      "relative_volume": 1.0584704511118113,
+      "zscore20": -0.1325392182125905,
+      "flow_score": 63.3,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:23:50.028721+00:00",
-      "price_aud": 0.437523205495355,
-      "usd_to_aud": 1.4160000085830688
+      "updated_at": "2026-08-13T05:54:12.719512+00:00"
     },
     {
       "symbol": "GTC",
       "name": "Gitcoin",
       "status": "ok",
-      "data_status": "LIVE",
-      "data_error": null,
+      "data_status": "STALE",
+      "data_error": "No Yahoo history and no Binance USDT pair | CoinGecko fallback deferred to avoid rate limit",
       "data_source": "CoinGecko fallback",
       "data_quality": "DAILY_PROXY",
       "regime": "UNCLEAR",
@@ -2747,8 +2827,9 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:23:51.259560+00:00",
-      "price_aud": 0.11600410825393116,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.11620072871365274,
+      "usd_to_aud": 1.4184000492095947,
+      "last_attempt_at": "2026-08-13T05:54:12.719556+00:00"
     },
     {
       "symbol": "HBAR",
@@ -2759,23 +2840,23 @@
       "data_source": "Yahoo",
       "data_quality": "FULL_OHLCV",
       "regime": "SQUEEZE",
-      "price_usd": 0.06590999662876129,
-      "adx14": 13.595103009360049,
-      "relative_volume": 0.6609275684697982,
-      "zscore20": -2.213129332488835,
-      "flow_score": 23.4,
+      "price_usd": 0.06633000075817108,
+      "price_aud": 0.09408247633946232,
+      "usd_to_aud": 1.4184000492095947,
+      "adx14": 13.542219357860043,
+      "relative_volume": 0.6791637724406078,
+      "zscore20": -1.9684641461483408,
+      "flow_score": 38.6,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:23:51.279495+00:00",
-      "price_aud": 0.09332855579203603,
-      "usd_to_aud": 1.4160000085830688
+      "updated_at": "2026-08-13T05:54:12.731778+00:00"
     },
     {
       "symbol": "HEI",
       "name": "Heima",
       "status": "ok",
-      "data_status": "LIVE",
-      "data_error": null,
+      "data_status": "STALE",
+      "data_error": "No Yahoo history and no Binance USDT pair | CoinGecko fallback deferred to avoid rate limit",
       "data_source": "CoinGecko fallback",
       "data_quality": "DAILY_PROXY",
       "regime": "UNCLEAR",
@@ -2787,15 +2868,16 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:23:52.507170+00:00",
-      "price_aud": 0.18884492144748816,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.1891650030017535,
+      "usd_to_aud": 1.4184000492095947,
+      "last_attempt_at": "2026-08-13T05:54:12.731798+00:00"
     },
     {
       "symbol": "HFT",
       "name": "Hashflow",
       "status": "ok",
-      "data_status": "LIVE",
-      "data_error": null,
+      "data_status": "STALE",
+      "data_error": "No Yahoo history and no Binance USDT pair | CoinGecko fallback deferred to avoid rate limit",
       "data_source": "CoinGecko fallback",
       "data_quality": "DAILY_PROXY",
       "regime": "UNCLEAR",
@@ -2807,15 +2889,16 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:23:53.904277+00:00",
-      "price_aud": 0.01229812863349952,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.012318973272038876,
+      "usd_to_aud": 1.4184000492095947,
+      "last_attempt_at": "2026-08-13T05:54:12.731807+00:00"
     },
     {
       "symbol": "HIFI",
       "name": "Hifi Finance",
       "status": "ok",
-      "data_status": "LIVE",
-      "data_error": null,
+      "data_status": "STALE",
+      "data_error": "No Yahoo history and no Binance USDT pair | CoinGecko fallback deferred to avoid rate limit",
       "data_source": "CoinGecko fallback",
       "data_quality": "DAILY_PROXY",
       "regime": "UNCLEAR",
@@ -2827,8 +2910,9 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:25:12.308176+00:00",
-      "price_aud": 0.0018843038480773032,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.0018874976374563229,
+      "usd_to_aud": 1.4184000492095947,
+      "last_attempt_at": "2026-08-13T05:54:12.731813+00:00"
     },
     {
       "symbol": "HIGH",
@@ -2839,16 +2923,16 @@
       "data_source": "Yahoo",
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
-      "price_usd": 0.020349999889731407,
+      "price_usd": 0.0203699991106987,
+      "price_aud": 0.028892807741014437,
+      "usd_to_aud": 1.4184000492095947,
       "adx14": 25.323537416473513,
-      "relative_volume": 0.1494015789708332,
-      "zscore20": -1.138000294168033,
-      "flow_score": 23.3,
+      "relative_volume": 0.17066687768420097,
+      "zscore20": -1.1300187704265667,
+      "flow_score": 40.8,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:25:12.322850+00:00",
-      "price_aud": 0.028815600018525123,
-      "usd_to_aud": 1.4160000085830688
+      "updated_at": "2026-08-13T05:54:12.743804+00:00"
     },
     {
       "symbol": "HIVE",
@@ -2859,16 +2943,16 @@
       "data_source": "Yahoo",
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
-      "price_usd": 0.0397724024951458,
-      "adx14": 32.00439404541805,
-      "relative_volume": 0.8860118658553872,
-      "zscore20": -1.3552698786165651,
-      "flow_score": 24.6,
+      "price_usd": 0.03990933299064636,
+      "price_aud": 0.0566073998778549,
+      "usd_to_aud": 1.4184000492095947,
+      "adx14": 32.10918026061782,
+      "relative_volume": 1.0619747945619578,
+      "zscore20": -1.2970695317248275,
+      "flow_score": 32.9,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:25:12.337374+00:00",
-      "price_aud": 0.05631772227449572,
-      "usd_to_aud": 1.4160000085830688
+      "updated_at": "2026-08-13T05:54:12.755973+00:00"
     },
     {
       "symbol": "HMSTR",
@@ -2879,16 +2963,16 @@
       "data_source": "Yahoo",
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
-      "price_usd": 0.00017903404659591615,
-      "adx14": 41.73146388736871,
-      "relative_volume": 0.7030371127523232,
-      "zscore20": -0.11398956296375504,
-      "flow_score": 36.5,
+      "price_usd": 0.00018061645096167922,
+      "price_aud": 0.00025618638293210816,
+      "usd_to_aud": 1.4184000492095947,
+      "adx14": 41.72409902397303,
+      "relative_volume": 0.5817609965243473,
+      "zscore20": -0.004682242682643061,
+      "flow_score": 47.6,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:25:12.351979+00:00",
-      "price_aud": 0.0002535122115164788,
-      "usd_to_aud": 1.4160000085830688
+      "updated_at": "2026-08-13T05:54:12.767891+00:00"
     },
     {
       "symbol": "HNT",
@@ -2899,16 +2983,16 @@
       "data_source": "Yahoo",
       "data_quality": "FULL_OHLCV",
       "regime": "SQUEEZE",
-      "price_usd": 0.1809999942779541,
-      "adx14": 21.327740527088373,
-      "relative_volume": 0.41454682668790976,
-      "zscore20": -0.8435039734875313,
-      "flow_score": 42.3,
+      "price_usd": 0.18299999833106995,
+      "price_aud": 0.25956720663814536,
+      "usd_to_aud": 1.4184000492095947,
+      "adx14": 21.16908612325421,
+      "relative_volume": 0.4510651859128288,
+      "zscore20": -0.544140466866925,
+      "flow_score": 60.3,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:25:12.366779+00:00",
-      "price_aud": 0.2562959934511184,
-      "usd_to_aud": 1.4160000085830688
+      "updated_at": "2026-08-13T05:54:12.780311+00:00"
     },
     {
       "symbol": "HOOK",
@@ -2919,16 +3003,16 @@
       "data_source": "Yahoo",
       "data_quality": "FULL_OHLCV",
       "regime": "RANGE",
-      "price_usd": 0.0034906226210296154,
-      "adx14": 18.249622550402506,
-      "relative_volume": 0.42522568169964453,
-      "zscore20": -1.0447275661455586,
-      "flow_score": 30.9,
+      "price_usd": 0.0034085942897945642,
+      "price_aud": 0.0048347503083801535,
+      "usd_to_aud": 1.4184000492095947,
+      "adx14": 18.267776260445025,
+      "relative_volume": 0.38492059266389944,
+      "zscore20": -1.2489863461998618,
+      "flow_score": 34.1,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:25:12.381313+00:00",
-      "price_aud": 0.00494272166133819,
-      "usd_to_aud": 1.4160000085830688
+      "updated_at": "2026-08-13T05:54:12.792364+00:00"
     },
     {
       "symbol": "HPP",
@@ -2939,16 +3023,16 @@
       "data_source": "Yahoo",
       "data_quality": "FULL_OHLCV",
       "regime": "RANGE",
-      "price_usd": 0.0055928910151124,
-      "adx14": 16.95809310068966,
-      "relative_volume": 0.6720864261562439,
-      "zscore20": -1.1770910139961435,
-      "flow_score": 19.6,
+      "price_usd": 0.005521720740944147,
+      "price_aud": 0.007832008970676818,
+      "usd_to_aud": 1.4184000492095947,
+      "adx14": 16.81879630691678,
+      "relative_volume": 0.7010504406428213,
+      "zscore20": -1.194535994764228,
+      "flow_score": 31.3,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:25:12.395627+00:00",
-      "price_aud": 0.007919533725403327,
-      "usd_to_aud": 1.4160000085830688
+      "updated_at": "2026-08-13T05:54:12.804035+00:00"
     },
     {
       "symbol": "ICP",
@@ -2959,16 +3043,16 @@
       "data_source": "Yahoo",
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
-      "price_usd": 2.171099901199341,
-      "adx14": 22.09728150615622,
-      "relative_volume": 0.8512234718496796,
-      "zscore20": 0.6987666592673297,
-      "flow_score": 37.5,
+      "price_usd": 2.1786999702453613,
+      "price_aud": 3.090268145008963,
+      "usd_to_aud": 1.4184000492095947,
+      "adx14": 21.78332399025032,
+      "relative_volume": 0.8741928766458118,
+      "zscore20": 0.80720716699035,
+      "flow_score": 57.7,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:25:12.410459+00:00",
-      "price_aud": 3.0742774787329665,
-      "usd_to_aud": 1.4160000085830688
+      "updated_at": "2026-08-13T05:54:12.816030+00:00"
     },
     {
       "symbol": "ICX",
@@ -2979,16 +3063,16 @@
       "data_source": "Yahoo",
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
-      "price_usd": 0.019736871123313904,
-      "adx14": 21.004178200770134,
-      "relative_volume": 2.0688741717970207,
-      "zscore20": -2.443447509977316,
-      "flow_score": 50.3,
+      "price_usd": 0.019472507759928703,
+      "price_aud": 0.027619805964917088,
+      "usd_to_aud": 1.4184000492095947,
+      "adx14": 21.306473552999403,
+      "relative_volume": 2.295168673494088,
+      "zscore20": -2.6255790145852447,
+      "flow_score": 63.3,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:25:12.424950+00:00",
-      "price_aud": 0.02794740968001541,
-      "usd_to_aud": 1.4160000085830688
+      "updated_at": "2026-08-13T05:54:12.828177+00:00"
     },
     {
       "symbol": "ID",
@@ -2999,16 +3083,16 @@
       "data_source": "Yahoo",
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
-      "price_usd": 0.010539788752794266,
-      "adx14": 35.875401039608775,
-      "relative_volume": 5.664578983994432,
-      "zscore20": -0.9951349402974318,
-      "flow_score": 95.0,
+      "price_usd": 0.010313497856259346,
+      "price_aud": 0.014628665866841306,
+      "usd_to_aud": 1.4184000492095947,
+      "adx14": 35.96835736589371,
+      "relative_volume": 5.694444444444445,
+      "zscore20": -1.1360301230846588,
+      "flow_score": 75.0,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:25:12.439552+00:00",
-      "price_aud": 0.014924340964420413,
-      "usd_to_aud": 1.4160000085830688
+      "updated_at": "2026-08-13T05:54:12.840207+00:00"
     },
     {
       "symbol": "IDEX",
@@ -3019,16 +3103,16 @@
       "data_source": "Yahoo",
       "data_quality": "FULL_OHLCV",
       "regime": "RANGE",
-      "price_usd": 0.000722662138286978,
-      "adx14": 17.694640055174954,
-      "relative_volume": 0.9385934799492209,
-      "zscore20": -1.2331597946734503,
-      "flow_score": 24.3,
+      "price_usd": 0.0006991080590523779,
+      "price_aud": 0.0009916149053627171,
+      "usd_to_aud": 1.4184000492095947,
+      "adx14": 18.460099266118107,
+      "relative_volume": 0.9712186505875599,
+      "zscore20": -1.2813661253508166,
+      "flow_score": 24.4,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:25:12.454125+00:00",
-      "price_aud": 0.0010232895940170197,
-      "usd_to_aud": 1.4160000085830688
+      "updated_at": "2026-08-13T05:54:12.852274+00:00"
     },
     {
       "symbol": "ILV",
@@ -3039,16 +3123,16 @@
       "data_source": "Yahoo",
       "data_quality": "FULL_OHLCV",
       "regime": "SQUEEZE",
-      "price_usd": 2.890000104904175,
-      "adx14": 19.002546764281874,
-      "relative_volume": 0.7929185223134347,
-      "zscore20": -0.1705611642498907,
-      "flow_score": 33.6,
+      "price_usd": 2.9000000953674316,
+      "price_aud": 4.113360277976994,
+      "usd_to_aud": 1.4184000492095947,
+      "adx14": 18.849087665733993,
+      "relative_volume": 0.8045784004917407,
+      "zscore20": -0.05200948875793781,
+      "flow_score": 52.0,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:25:12.468939+00:00",
-      "price_aud": 4.092240173349381,
-      "usd_to_aud": 1.4160000085830688
+      "updated_at": "2026-08-13T05:54:12.864782+00:00"
     },
     {
       "symbol": "INJ",
@@ -3059,16 +3143,16 @@
       "data_source": "Yahoo",
       "data_quality": "FULL_OHLCV",
       "regime": "RANGE",
-      "price_usd": 4.630000114440918,
-      "adx14": 11.814479507066114,
-      "relative_volume": 1.1173710811020585,
-      "zscore20": -0.5114776238535826,
-      "flow_score": 40.5,
+      "price_usd": 4.623000144958496,
+      "price_aud": 6.557263633105094,
+      "usd_to_aud": 1.4184000492095947,
+      "adx14": 11.861957808568723,
+      "relative_volume": 1.0058631913602272,
+      "zscore20": -0.538081916291499,
+      "flow_score": 25.9,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:25:12.483531+00:00",
-      "price_aud": 6.55608020178795,
-      "usd_to_aud": 1.4160000085830688
+      "updated_at": "2026-08-13T05:54:12.876790+00:00"
     },
     {
       "symbol": "IOST",
@@ -3079,16 +3163,16 @@
       "data_source": "Yahoo",
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
-      "price_usd": 0.0005548878689296544,
-      "adx14": 40.08645928212456,
-      "relative_volume": 0.814758332939658,
-      "zscore20": -2.2702713976782425,
-      "flow_score": 24.8,
+      "price_usd": 0.0005515820812433958,
+      "price_aud": 0.0007823640511787633,
+      "usd_to_aud": 1.4184000492095947,
+      "adx14": 40.23319540715065,
+      "relative_volume": 0.8308171440952039,
+      "zscore20": -2.364557299507525,
+      "flow_score": 37.2,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:25:12.498064+00:00",
-      "price_aud": 0.0007857212271670314,
-      "usd_to_aud": 1.4160000085830688
+      "updated_at": "2026-08-13T05:54:12.888838+00:00"
     },
     {
       "symbol": "IOTA",
@@ -3099,16 +3183,16 @@
       "data_source": "Yahoo",
       "data_quality": "FULL_OHLCV",
       "regime": "SQUEEZE",
-      "price_usd": 0.03422783315181732,
-      "adx14": 12.88490021078942,
-      "relative_volume": 1.3719201901047418,
-      "zscore20": 0.6425969809843894,
-      "flow_score": 51.5,
+      "price_usd": 0.03435326740145683,
+      "price_aud": 0.04872667617273674,
+      "usd_to_aud": 1.4184000492095947,
+      "adx14": 12.479952081087639,
+      "relative_volume": 1.4098858728004686,
+      "zscore20": 0.7553006986374162,
+      "flow_score": 61.4,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:25:12.512829+00:00",
-      "price_aud": 0.048466612036753176,
-      "usd_to_aud": 1.4160000085830688
+      "updated_at": "2026-08-13T05:54:12.901189+00:00"
     },
     {
       "symbol": "IOTX",
@@ -3119,16 +3203,16 @@
       "data_source": "Yahoo",
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
-      "price_usd": 0.006479999981820583,
-      "adx14": 38.57883122149629,
-      "relative_volume": 0.860415437460522,
-      "zscore20": 4.259473708884222,
-      "flow_score": 72.2,
+      "price_usd": 0.006519999820739031,
+      "price_aud": 0.00924796806658279,
+      "usd_to_aud": 1.4184000492095947,
+      "adx14": 38.342740919760054,
+      "relative_volume": 0.6529617853662116,
+      "zscore20": 4.261291019490591,
+      "flow_score": 68.1,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:25:12.527427+00:00",
-      "price_aud": 0.009175680029876232,
-      "usd_to_aud": 1.4160000085830688
+      "updated_at": "2026-08-13T05:54:12.913226+00:00"
     },
     {
       "symbol": "IRIS",
@@ -3139,16 +3223,16 @@
       "data_source": "Yahoo",
       "data_quality": "FULL_OHLCV",
       "regime": "SQUEEZE",
-      "price_usd": 0.00016775971744209528,
+      "price_usd": 0.00016763403255026788,
+      "price_aud": 0.00023777212001850276,
+      "usd_to_aud": 1.4184000492095947,
       "adx14": 11.305237456107083,
-      "relative_volume": 0.07140573377384632,
-      "zscore20": 1.595767914817434,
-      "flow_score": 46.0,
+      "relative_volume": 0.03310197544046983,
+      "zscore20": 1.5834063854649965,
+      "flow_score": 49.7,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:25:12.542339+00:00",
-      "price_aud": 0.00023754776133790012,
-      "usd_to_aud": 1.4160000085830688
+      "updated_at": "2026-08-13T05:54:12.925402+00:00"
     },
     {
       "symbol": "JASMY",
@@ -3159,16 +3243,16 @@
       "data_source": "Yahoo",
       "data_quality": "FULL_OHLCV",
       "regime": "RANGE",
-      "price_usd": 0.004019999876618385,
-      "adx14": 14.853632265760266,
-      "relative_volume": 0.876118272962929,
-      "zscore20": -1.2511645420466098,
-      "flow_score": 35.5,
+      "price_usd": 0.004029999952763319,
+      "price_aud": 0.005716152131314156,
+      "usd_to_aud": 1.4184000492095947,
+      "adx14": 14.717368216196848,
+      "relative_volume": 0.8835517718854814,
+      "zscore20": -1.1933630147971135,
+      "flow_score": 34.0,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:25:12.557013+00:00",
-      "price_aud": 0.005692319859795569,
-      "usd_to_aud": 1.4160000085830688
+      "updated_at": "2026-08-13T05:54:12.937583+00:00"
     },
     {
       "symbol": "JOE",
@@ -3179,16 +3263,16 @@
       "data_source": "Yahoo",
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
-      "price_usd": 0.027410797774791718,
+      "price_usd": 0.027463750913739204,
+      "price_aud": 0.03895458564752774,
+      "usd_to_aud": 1.4184000492095947,
       "adx14": 25.521786304644877,
-      "relative_volume": 0.8085335419364613,
-      "zscore20": 0.826303693206626,
-      "flow_score": 42.8,
+      "relative_volume": 0.8144215544950002,
+      "zscore20": 0.8508182347381436,
+      "flow_score": 47.5,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:25:12.571692+00:00",
-      "price_aud": 0.038813689884373836,
-      "usd_to_aud": 1.4160000085830688
+      "updated_at": "2026-08-13T05:54:12.949747+00:00"
     },
     {
       "symbol": "JST",
@@ -3199,16 +3283,16 @@
       "data_source": "Yahoo",
       "data_quality": "FULL_OHLCV",
       "regime": "SQUEEZE",
-      "price_usd": 0.10042361170053482,
-      "adx14": 21.17881419902912,
-      "relative_volume": 0.8768311851117105,
-      "zscore20": -1.2070789867616523,
-      "flow_score": 27.7,
+      "price_usd": 0.10250099003314972,
+      "price_aud": 0.14538740930705174,
+      "usd_to_aud": 1.4184000492095947,
+      "adx14": 21.37432576100228,
+      "relative_volume": 0.9850329986391276,
+      "zscore20": -0.31944070924490703,
+      "flow_score": 53.6,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:25:12.586553+00:00",
-      "price_aud": 0.14219983502990008,
-      "usd_to_aud": 1.4160000085830688
+      "updated_at": "2026-08-13T05:54:12.962121+00:00"
     },
     {
       "symbol": "JTO",
@@ -3219,16 +3303,16 @@
       "data_source": "Yahoo",
       "data_quality": "FULL_OHLCV",
       "regime": "SQUEEZE",
-      "price_usd": 0.5580999851226807,
-      "adx14": 14.443995007691246,
-      "relative_volume": 1.0095794715435298,
-      "zscore20": 0.7613445155194156,
-      "flow_score": 63.1,
+      "price_usd": 0.5813000202178955,
+      "price_aud": 0.8245159772826014,
+      "usd_to_aud": 1.4184000492095947,
+      "adx14": 14.837230271861372,
+      "relative_volume": 1.3900825275202684,
+      "zscore20": 1.3419345457356158,
+      "flow_score": 77.8,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:25:12.601426+00:00",
-      "price_aud": 0.7902695837239264,
-      "usd_to_aud": 1.4160000085830688
+      "updated_at": "2026-08-13T05:54:12.974438+00:00"
     },
     {
       "symbol": "JUP",
@@ -3239,16 +3323,16 @@
       "data_source": "Yahoo",
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
-      "price_usd": 0.00025988509878516197,
-      "adx14": 71.64393068476173,
-      "relative_volume": 0.5037037037037037,
-      "zscore20": 0.623576495687696,
-      "flow_score": 65.0,
+      "price_usd": 0.00026115431683138013,
+      "price_aud": 0.00037042129584492767,
+      "usd_to_aud": 1.4184000492095947,
+      "adx14": 71.63869807356429,
+      "relative_volume": 1.6968011126564673,
+      "zscore20": 0.633865877722441,
+      "flow_score": 85.9,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:25:12.616178+00:00",
-      "price_aud": 0.00036799730211040105,
-      "usd_to_aud": 1.4160000085830688
+      "updated_at": "2026-08-13T05:54:12.986525+00:00"
     },
     {
       "symbol": "JUV",
@@ -3259,16 +3343,16 @@
       "data_source": "Yahoo",
       "data_quality": "FULL_OHLCV",
       "regime": "SQUEEZE",
-      "price_usd": 0.3041888475418091,
-      "adx14": 21.39373765613383,
-      "relative_volume": 1.182911798539234,
-      "zscore20": -1.437009295409092,
-      "flow_score": 43.0,
+      "price_usd": 0.3049671947956085,
+      "price_aud": 0.4325654841054032,
+      "usd_to_aud": 1.4184000492095947,
+      "adx14": 21.364971111521214,
+      "relative_volume": 0.8883440525343149,
+      "zscore20": -1.3236592482193386,
+      "flow_score": 49.9,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:25:12.630987+00:00",
-      "price_aud": 0.4307314107300755,
-      "usd_to_aud": 1.4160000085830688
+      "updated_at": "2026-08-13T05:54:12.998795+00:00"
     },
     {
       "symbol": "KAIA",
@@ -3279,16 +3363,16 @@
       "data_source": "Yahoo",
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
-      "price_usd": 0.026279980316758156,
-      "adx14": 41.60526116479378,
-      "relative_volume": 0.6284835625202403,
-      "zscore20": -0.6435828905215495,
-      "flow_score": 43.0,
+      "price_usd": 0.02619866281747818,
+      "price_aud": 0.03716018462953663,
+      "usd_to_aud": 1.4184000492095947,
+      "adx14": 41.757493821898805,
+      "relative_volume": 0.6795506902769529,
+      "zscore20": -0.6960374299405625,
+      "flow_score": 61.3,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:25:12.645564+00:00",
-      "price_aud": 0.03721245235409243,
-      "usd_to_aud": 1.4160000085830688
+      "updated_at": "2026-08-13T05:54:13.011031+00:00"
     },
     {
       "symbol": "KAS",
@@ -3299,16 +3383,16 @@
       "data_source": "Yahoo",
       "data_quality": "FULL_OHLCV",
       "regime": "RANGE",
-      "price_usd": 0.02547064609825611,
-      "adx14": 15.919744290242004,
-      "relative_volume": 0.7273045223272162,
-      "zscore20": -1.4333272885663002,
-      "flow_score": 31.5,
+      "price_usd": 0.025477353483438492,
+      "price_aud": 0.036137079434639396,
+      "usd_to_aud": 1.4184000492095947,
+      "adx14": 15.830825379343374,
+      "relative_volume": 0.9755486790775483,
+      "zscore20": -1.4275278443694446,
+      "flow_score": 36.1,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:25:12.660201+00:00",
-      "price_aud": 0.03606643509374696,
-      "usd_to_aud": 1.4160000085830688
+      "updated_at": "2026-08-13T05:54:13.023049+00:00"
     },
     {
       "symbol": "KAVA",
@@ -3319,16 +3403,16 @@
       "data_source": "Yahoo",
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
-      "price_usd": 0.04050000011920929,
-      "adx14": 27.745241186819104,
-      "relative_volume": 0.9694873831465524,
-      "zscore20": -0.8300781025383651,
-      "flow_score": 33.1,
+      "price_usd": 0.040699999779462814,
+      "price_aud": 0.05772888169002055,
+      "usd_to_aud": 1.4184000492095947,
+      "adx14": 28.472182412460256,
+      "relative_volume": 1.0186149016731556,
+      "zscore20": -0.7379516473737145,
+      "flow_score": 49.5,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:25:12.674856+00:00",
-      "price_aud": 0.05734800051641464,
-      "usd_to_aud": 1.4160000085830688
+      "updated_at": "2026-08-13T05:54:13.035153+00:00"
     },
     {
       "symbol": "KITE",
@@ -3339,16 +3423,16 @@
       "data_source": "Yahoo",
       "data_quality": "FULL_OHLCV",
       "regime": "SQUEEZE",
-      "price_usd": 0.1009799987077713,
-      "adx14": 15.402579161747681,
-      "relative_volume": 0.8113702383300015,
-      "zscore20": 0.28812145406349726,
-      "flow_score": 52.2,
+      "price_usd": 0.10117000341415405,
+      "price_aud": 0.14349953782117097,
+      "usd_to_aud": 1.4184000492095947,
+      "adx14": 15.62514415562281,
+      "relative_volume": 0.7660111377349152,
+      "zscore20": 0.32751025989451293,
+      "flow_score": 55.0,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:25:12.689577+00:00",
-      "price_aud": 0.14298767903692244,
-      "usd_to_aud": 1.4160000085830688
+      "updated_at": "2026-08-13T05:54:13.047262+00:00"
     },
     {
       "symbol": "KLAY",
@@ -3359,16 +3443,16 @@
       "data_source": "Yahoo",
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
-      "price_usd": 0.026281341910362244,
+      "price_usd": 0.026112623512744904,
+      "price_aud": 0.03703814647546899,
+      "usd_to_aud": 1.4184000492095947,
       "adx14": 27.95036460408869,
-      "relative_volume": 0.28210838901262064,
-      "zscore20": -0.8304941418776028,
-      "flow_score": 20.3,
+      "relative_volume": 0.28890979408382983,
+      "zscore20": -0.941215310937575,
+      "flow_score": 21.0,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:25:12.704201+00:00",
-      "price_aud": 0.037214380370647504,
-      "usd_to_aud": 1.4160000085830688
+      "updated_at": "2026-08-13T05:54:13.059276+00:00"
     },
     {
       "symbol": "KMD",
@@ -3379,16 +3463,16 @@
       "data_source": "Yahoo",
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
-      "price_usd": 0.0694902092218399,
-      "adx14": 39.02546488282942,
-      "relative_volume": 0.010070493454179255,
-      "zscore20": 2.0650048350332004,
-      "flow_score": 34.7,
+      "price_usd": 0.011033130809664726,
+      "price_aud": 0.015649393283364343,
+      "usd_to_aud": 1.4184000492095947,
+      "adx14": 39.01143538736362,
+      "relative_volume": 0.03352891869237217,
+      "zscore20": -0.28246387479942453,
+      "flow_score": 15.1,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:25:12.718751+00:00",
-      "price_aud": 0.09839813685456456,
-      "usd_to_aud": 1.4160000085830688
+      "updated_at": "2026-08-13T05:54:13.071325+00:00"
     },
     {
       "symbol": "KSM",
@@ -3399,16 +3483,16 @@
       "data_source": "Yahoo",
       "data_quality": "FULL_OHLCV",
       "regime": "SQUEEZE",
-      "price_usd": 2.9100000858306885,
-      "adx14": 13.239083644464554,
-      "relative_volume": 0.5620153948155404,
-      "zscore20": -1.705671938024984,
-      "flow_score": 21.8,
+      "price_usd": 2.880000114440918,
+      "price_aud": 4.0849923040466365,
+      "usd_to_aud": 1.4184000492095947,
+      "adx14": 13.568184776388545,
+      "relative_volume": 0.6278328681822773,
+      "zscore20": -1.9905921335714387,
+      "flow_score": 33.2,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:25:12.733562+00:00",
-      "price_aud": 4.120560146512986,
-      "usd_to_aud": 1.4160000085830688
+      "updated_at": "2026-08-13T05:54:13.083603+00:00"
     },
     {
       "symbol": "LDO",
@@ -3419,16 +3503,16 @@
       "data_source": "Yahoo",
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
-      "price_usd": 0.29100000858306885,
+      "price_usd": 0.2930000126361847,
+      "price_aud": 0.41559123234157624,
+      "usd_to_aud": 1.4184000492095947,
       "adx14": 29.051085985830543,
-      "relative_volume": 0.6795957748227003,
-      "zscore20": -0.9431773006085351,
-      "flow_score": 37.4,
+      "relative_volume": 0.6682097195132947,
+      "zscore20": -0.8950763133712631,
+      "flow_score": 45.8,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:25:12.748203+00:00",
-      "price_aud": 0.4120560146512986,
-      "usd_to_aud": 1.4160000085830688
+      "updated_at": "2026-08-13T05:54:13.095575+00:00"
     },
     {
       "symbol": "LINK",
@@ -3439,16 +3523,16 @@
       "data_source": "Yahoo",
       "data_quality": "FULL_OHLCV",
       "regime": "RANGE",
-      "price_usd": 8.732000350952148,
-      "adx14": 14.900576846869605,
-      "relative_volume": 1.321806548969147,
-      "zscore20": 1.8735921576481576,
-      "flow_score": 58.2,
+      "price_usd": 8.793000221252441,
+      "price_aud": 12.47199194652444,
+      "usd_to_aud": 1.4184000492095947,
+      "adx14": 14.677425487595084,
+      "relative_volume": 1.255422075705108,
+      "zscore20": 2.089348233900675,
+      "flow_score": 79.1,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:25:12.763019+00:00",
-      "price_aud": 12.364512571895602,
-      "usd_to_aud": 1.4160000085830688
+      "updated_at": "2026-08-13T05:54:13.107708+00:00"
     },
     {
       "symbol": "LISTA",
@@ -3459,16 +3543,16 @@
       "data_source": "Yahoo",
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
-      "price_usd": 0.06649941205978394,
+      "price_usd": 0.06537771224975586,
+      "price_aud": 0.09273175027226443,
+      "usd_to_aud": 1.4184000492095947,
       "adx14": 45.42120500484064,
-      "relative_volume": 0.5923919979825891,
-      "zscore20": 2.0224055445335116,
-      "flow_score": 64.6,
+      "relative_volume": 0.589301992608294,
+      "zscore20": 1.8905552458973798,
+      "flow_score": 57.9,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:25:12.777582+00:00",
-      "price_aud": 0.09416316804742308,
-      "usd_to_aud": 1.4160000085830688
+      "updated_at": "2026-08-13T05:54:13.119911+00:00"
     },
     {
       "symbol": "LIT",
@@ -3480,15 +3564,15 @@
       "data_quality": "FULL_OHLCV",
       "regime": "SQUEEZE",
       "price_usd": 0.0001289999927394092,
-      "adx14": 36.89446669951092,
+      "price_aud": 0.00018297359604961538,
+      "usd_to_aud": 1.4184000492095947,
+      "adx14": 36.894466688183265,
       "relative_volume": 0.0,
       "zscore20": 0.5742070775910286,
       "flow_score": 55.0,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:25:12.792285+00:00",
-      "price_aud": 0.00018266399082621926,
-      "usd_to_aud": 1.4160000085830688
+      "updated_at": "2026-08-13T05:54:13.132023+00:00"
     },
     {
       "symbol": "LPT",
@@ -3499,16 +3583,16 @@
       "data_source": "Yahoo",
       "data_quality": "FULL_OHLCV",
       "regime": "RANGE",
-      "price_usd": 1.2200000286102295,
-      "adx14": 15.528289205619943,
-      "relative_volume": 0.33618556784436726,
-      "zscore20": -1.1349734950755472,
-      "flow_score": 32.2,
+      "price_usd": 1.2000000476837158,
+      "price_aud": 1.7020801266860985,
+      "usd_to_aud": 1.4184000492095947,
+      "adx14": 15.82964078175659,
+      "relative_volume": 0.35261066634010796,
+      "zscore20": -1.3677715857945454,
+      "flow_score": 36.4,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:25:12.806815+00:00",
-      "price_aud": 1.7275200509834292,
-      "usd_to_aud": 1.4160000085830688
+      "updated_at": "2026-08-13T05:54:13.144053+00:00"
     },
     {
       "symbol": "LQTY",
@@ -3519,16 +3603,16 @@
       "data_source": "Yahoo",
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
-      "price_usd": 0.20280000567436218,
-      "adx14": 28.948983966912234,
-      "relative_volume": 1.338913539382477,
-      "zscore20": 1.4002089001907145,
-      "flow_score": 63.0,
+      "price_usd": 0.20010000467300415,
+      "price_aud": 0.2838218564750292,
+      "usd_to_aud": 1.4184000492095947,
+      "adx14": 28.539369950946607,
+      "relative_volume": 0.8342914131148008,
+      "zscore20": 1.1951055434338829,
+      "flow_score": 54.4,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:25:12.821316+00:00",
-      "price_aud": 0.28716480977554326,
-      "usd_to_aud": 1.4160000085830688
+      "updated_at": "2026-08-13T05:54:13.156195+00:00"
     },
     {
       "symbol": "LRC",
@@ -3539,16 +3623,16 @@
       "data_source": "Yahoo",
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
-      "price_usd": 0.009155628271400928,
-      "adx14": 21.500039315615783,
-      "relative_volume": 0.9964226309836628,
-      "zscore20": -1.8298228452471856,
-      "flow_score": 26.7,
+      "price_usd": 0.009204929694533348,
+      "price_aud": 0.01305627273169696,
+      "usd_to_aud": 1.4184000492095947,
+      "adx14": 21.64964984660264,
+      "relative_volume": 1.003479247601832,
+      "zscore20": -1.7753461894977038,
+      "flow_score": 41.1,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:25:12.835982+00:00",
-      "price_aud": 0.012964369710887103,
-      "usd_to_aud": 1.4160000085830688
+      "updated_at": "2026-08-13T05:54:13.168381+00:00"
     },
     {
       "symbol": "LSK",
@@ -3559,16 +3643,16 @@
       "data_source": "Yahoo",
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
-      "price_usd": 0.08107656240463257,
+      "price_usd": 0.07971145957708359,
+      "price_aud": 0.11306273818670398,
+      "usd_to_aud": 1.4184000492095947,
       "adx14": 30.54355177401922,
-      "relative_volume": 8.28312634448772,
-      "zscore20": 1.5358715666349743,
-      "flow_score": 56.6,
+      "relative_volume": 6.600279836775846,
+      "zscore20": 1.1981962229224763,
+      "flow_score": 62.2,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:25:12.850495+00:00",
-      "price_aud": 0.11480441306084543,
-      "usd_to_aud": 1.4160000085830688
+      "updated_at": "2026-08-13T05:54:13.180483+00:00"
     },
     {
       "symbol": "LTC",
@@ -3579,16 +3663,16 @@
       "data_source": "Yahoo",
       "data_quality": "FULL_OHLCV",
       "regime": "SQUEEZE",
-      "price_usd": 44.810001373291016,
-      "adx14": 10.747008644681591,
-      "relative_volume": 0.875390118291247,
-      "zscore20": -0.7425624333413506,
-      "flow_score": 46.1,
+      "price_usd": 45.0099983215332,
+      "price_aud": 63.84218383418647,
+      "usd_to_aud": 1.4184000492095947,
+      "adx14": 10.76742427942645,
+      "relative_volume": 0.9204814125648582,
+      "zscore20": -0.5237724916131418,
+      "flow_score": 64.9,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:25:12.865314+00:00",
-      "price_aud": 63.450962329187405,
-      "usd_to_aud": 1.4160000085830688
+      "updated_at": "2026-08-13T05:54:13.193210+00:00"
     },
     {
       "symbol": "LUMIA",
@@ -3599,16 +3683,16 @@
       "data_source": "Yahoo",
       "data_quality": "FULL_OHLCV",
       "regime": "SQUEEZE",
-      "price_usd": 0.07445836812257767,
-      "adx14": 19.24703500232597,
-      "relative_volume": 0.5209613931084129,
-      "zscore20": 0.2303925329048679,
-      "flow_score": 25.6,
+      "price_usd": 0.07797913253307343,
+      "price_aud": 0.11060560542223286,
+      "usd_to_aud": 1.4184000492095947,
+      "adx14": 19.35853187496305,
+      "relative_volume": 0.5623722421534085,
+      "zscore20": 1.1650258821563366,
+      "flow_score": 44.0,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:25:12.880374+00:00",
-      "price_aud": 0.10543304990065128,
-      "usd_to_aud": 1.4160000085830688
+      "updated_at": "2026-08-13T05:54:13.205460+00:00"
     },
     {
       "symbol": "MANA",
@@ -3619,16 +3703,16 @@
       "data_source": "Yahoo",
       "data_quality": "FULL_OHLCV",
       "regime": "SQUEEZE",
-      "price_usd": 0.06509999930858612,
-      "adx14": 10.414029820646034,
-      "relative_volume": 0.7597975563095284,
-      "zscore20": -1.9510159239362928,
-      "flow_score": 32.0,
+      "price_usd": 0.06419999897480011,
+      "price_aud": 0.0910612817051124,
+      "usd_to_aud": 1.4184000492095947,
+      "adx14": 11.06364950417046,
+      "relative_volume": 0.7946214506653825,
+      "zscore20": -2.607341709910531,
+      "flow_score": 50.4,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:25:12.895264+00:00",
-      "price_aud": 0.09218159957971572,
-      "usd_to_aud": 1.4160000085830688
+      "updated_at": "2026-08-13T05:54:13.217848+00:00"
     },
     {
       "symbol": "MATIC",
@@ -3640,15 +3724,15 @@
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
       "price_usd": 0.21641500294208527,
-      "adx14": 44.64358090064655,
+      "price_aud": 0.30696305082274833,
+      "usd_to_aud": 1.4184000492095947,
+      "adx14": 44.64357710616345,
       "relative_volume": 0.14344177181940054,
       "zscore20": -0.2847384908563979,
       "flow_score": 60.1,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:25:12.909499+00:00",
-      "price_aud": 0.3064436460234976,
-      "usd_to_aud": 1.4160000085830688
+      "updated_at": "2026-08-13T05:54:13.229817+00:00"
     },
     {
       "symbol": "MBL",
@@ -3659,16 +3743,16 @@
       "data_source": "Yahoo",
       "data_quality": "FULL_OHLCV",
       "regime": "RANGE",
-      "price_usd": 0.0006031972588971257,
-      "adx14": 16.605441464032115,
-      "relative_volume": 0.625469298861246,
-      "zscore20": -1.5825301434265857,
-      "flow_score": 18.0,
+      "price_usd": 0.0005983993760310113,
+      "price_aud": 0.0008487697044093773,
+      "usd_to_aud": 1.4184000492095947,
+      "adx14": 16.195314887065866,
+      "relative_volume": 0.5650532686411305,
+      "zscore20": -1.7128859930041893,
+      "flow_score": 26.2,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:25:12.924170+00:00",
-      "price_aud": 0.0008541273237756136,
-      "usd_to_aud": 1.4160000085830688
+      "updated_at": "2026-08-13T05:54:13.241907+00:00"
     },
     {
       "symbol": "MBOX",
@@ -3679,16 +3763,16 @@
       "data_source": "Yahoo",
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
-      "price_usd": 0.0006036295089870691,
-      "adx14": 34.8612057566578,
-      "relative_volume": 0.2353922003466987,
-      "zscore20": -1.2489989336399605,
-      "flow_score": 34.6,
+      "price_usd": 0.0006007155170664191,
+      "price_aud": 0.000852054918967976,
+      "usd_to_aud": 1.4184000492095947,
+      "adx14": 34.83957803631271,
+      "relative_volume": 0.236969832740201,
+      "zscore20": -1.3122215438271423,
+      "flow_score": 39.8,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:25:12.938863+00:00",
-      "price_aud": 0.0008547393899066835,
-      "usd_to_aud": 1.4160000085830688
+      "updated_at": "2026-08-13T05:54:13.253985+00:00"
     },
     {
       "symbol": "MDT",
@@ -3699,16 +3783,16 @@
       "data_source": "Yahoo",
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
-      "price_usd": 0.0028800000436604023,
-      "adx14": 41.243080548645516,
-      "relative_volume": 1.9754636072997596,
-      "zscore20": -1.2660150347091574,
-      "flow_score": 57.3,
+      "price_usd": 0.0028299998957663774,
+      "price_aud": 0.004014071991418178,
+      "usd_to_aud": 1.4184000492095947,
+      "adx14": 41.12484910130245,
+      "relative_volume": 1.954991836301588,
+      "zscore20": -1.3521378971202054,
+      "flow_score": 63.0,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:25:12.953480+00:00",
-      "price_aud": 0.004078080086542368,
-      "usd_to_aud": 1.4160000085830688
+      "updated_at": "2026-08-13T05:54:13.266086+00:00"
     },
     {
       "symbol": "MELANIA",
@@ -3720,15 +3804,15 @@
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
       "price_usd": 0.0013578222133219242,
+      "price_aud": 0.0019259350941936981,
+      "usd_to_aud": 1.4184000492095947,
       "adx14": 30.819190212747362,
       "relative_volume": 20.0,
       "zscore20": -2.797793226017397,
       "flow_score": 55.0,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:25:12.968153+00:00",
-      "price_aud": 0.0019226762657181262,
-      "usd_to_aud": 1.4160000085830688
+      "updated_at": "2026-08-13T05:54:13.278386+00:00"
     },
     {
       "symbol": "MERL",
@@ -3739,16 +3823,16 @@
       "data_source": "Yahoo",
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
-      "price_usd": 0.018126998096704483,
-      "adx14": 22.67188333327521,
-      "relative_volume": 0.8918287794596667,
-      "zscore20": 0.3798996774945802,
-      "flow_score": 42.3,
+      "price_usd": 0.018272193148732185,
+      "price_aud": 0.02591727966132895,
+      "usd_to_aud": 1.4184000492095947,
+      "adx14": 22.72711592979512,
+      "relative_volume": 0.7583273336045592,
+      "zscore20": 0.5274590459414684,
+      "flow_score": 50.1,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:25:12.982767+00:00",
-      "price_aud": 0.02566782946051882,
-      "usd_to_aud": 1.4160000085830688
+      "updated_at": "2026-08-13T05:54:13.290428+00:00"
     },
     {
       "symbol": "MET",
@@ -3759,16 +3843,16 @@
       "data_source": "Yahoo",
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
-      "price_usd": 0.5090476870536804,
-      "adx14": 57.22533126229383,
-      "relative_volume": 0.32027326259613437,
-      "zscore20": -0.8278912430703641,
-      "flow_score": 24.9,
+      "price_usd": 0.48128435015678406,
+      "price_aud": 0.6826537459461903,
+      "usd_to_aud": 1.4184000492095947,
+      "adx14": 57.69162655603799,
+      "relative_volume": 1.3341504621194553,
+      "zscore20": -0.9367066013080132,
+      "flow_score": 35.1,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:25:12.997401+00:00",
-      "price_aud": 0.7208115292372028,
-      "usd_to_aud": 1.4160000085830688
+      "updated_at": "2026-08-13T05:54:13.302598+00:00"
     },
     {
       "symbol": "METIS",
@@ -3780,15 +3864,15 @@
       "data_quality": "FULL_OHLCV",
       "regime": "SQUEEZE",
       "price_usd": 2.430000066757202,
-      "adx14": 12.988186816776949,
-      "relative_volume": 0.7666845028838694,
+      "price_aud": 3.446712214267734,
+      "usd_to_aud": 1.4184000492095947,
+      "adx14": 13.22941571230457,
+      "relative_volume": 0.8219685013739452,
       "zscore20": -0.8026400247204998,
-      "flow_score": 33.0,
+      "flow_score": 49.1,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:25:13.012390+00:00",
-      "price_aud": 3.440880115385056,
-      "usd_to_aud": 1.4160000085830688
+      "updated_at": "2026-08-13T05:54:13.314964+00:00"
     },
     {
       "symbol": "MKR",
@@ -3799,16 +3883,16 @@
       "data_source": "Yahoo",
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
-      "price_usd": 1284.2371826171875,
-      "adx14": 26.120301505219043,
-      "relative_volume": 2.4691553728220206,
-      "zscore20": -1.63922457968491,
-      "flow_score": 89.6,
+      "price_usd": 1288.226806640625,
+      "price_aud": 1827.2209659321816,
+      "usd_to_aud": 1.4184000492095947,
+      "adx14": 26.56013857881362,
+      "relative_volume": 2.5181840002429388,
+      "zscore20": -1.6009107657578059,
+      "flow_score": 90.1,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:25:13.027004+00:00",
-      "price_aud": 1818.4798616086337,
-      "usd_to_aud": 1.4160000085830688
+      "updated_at": "2026-08-13T05:54:13.326974+00:00"
     },
     {
       "symbol": "MLN",
@@ -3819,16 +3903,16 @@
       "data_source": "Yahoo",
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
-      "price_usd": 1.2400000095367432,
-      "adx14": 73.87600642424414,
-      "relative_volume": 0.8806862709402641,
-      "zscore20": -1.1066095587341775,
-      "flow_score": 44.4,
+      "price_usd": 1.2699999809265137,
+      "price_aud": 1.8013680354423514,
+      "usd_to_aud": 1.4184000492095947,
+      "adx14": 74.12458918277589,
+      "relative_volume": 0.8579531784330001,
+      "zscore20": -0.5274396165413805,
+      "flow_score": 45.0,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:25:13.041659+00:00",
-      "price_aud": 1.7558400241470338,
-      "usd_to_aud": 1.4160000085830688
+      "updated_at": "2026-08-13T05:54:13.338974+00:00"
     },
     {
       "symbol": "MOG",
@@ -3839,16 +3923,16 @@
       "data_source": "Yahoo",
       "data_quality": "FULL_OHLCV",
       "regime": "UNCLEAR",
-      "price_usd": 1.0000000116860974e-07,
-      "adx14": 49.38058728397544,
-      "relative_volume": 1.0114256345494532,
-      "zscore20": 4.358898943540673,
-      "flow_score": 50.5,
+      "price_usd": 9.000000034120603e-08,
+      "price_aud": 1.2765600491283018e-07,
+      "usd_to_aud": 1.4184000492095947,
+      "adx14": 49.3805872833717,
+      "relative_volume": 0.9514146038372137,
+      "zscore20": 4.358898943540674,
+      "flow_score": 41.9,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:25:13.056334+00:00",
-      "price_aud": 1.416000025130583e-07,
-      "usd_to_aud": 1.4160000085830688
+      "updated_at": "2026-08-13T05:54:13.351079+00:00"
     },
     {
       "symbol": "MON",
@@ -3859,16 +3943,16 @@
       "data_source": "Yahoo",
       "data_quality": "FULL_OHLCV",
       "regime": "SQUEEZE",
-      "price_usd": 0.021764980629086494,
+      "price_usd": 0.021818136796355247,
+      "price_aud": 0.030946846305611952,
+      "usd_to_aud": 1.4184000492095947,
       "adx14": 15.706545307860594,
-      "relative_volume": 0.9724053529750538,
-      "zscore20": 1.4157868653437877,
-      "flow_score": 59.9,
+      "relative_volume": 1.015850634327794,
+      "zscore20": 1.5047083142028568,
+      "flow_score": 63.4,
       "active": false,
       "candidate": null,
-      "updated_at": "2026-08-12T21:25:13.071324+00:00",
-      "price_aud": 0.030819212757596803,
-      "usd_to_aud": 1.4160000085830688
+      "updated_at": "2026-08-13T05:54:13.363380+00:00"
     },
     {
       "symbol": "MOVR",
@@ -3887,8 +3971,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:25:13.085990+00:00",
-      "price_aud": 1.1916874624007079,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 1.1937073058375347,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "MPLX",
@@ -3907,8 +3991,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:25:13.100983+00:00",
-      "price_aud": 0.033601680884785656,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.03365863385000756,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "MTL",
@@ -3927,8 +4011,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:25:13.115636+00:00",
-      "price_aud": 0.28047295180098253,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.28094833772957273,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "NAKA",
@@ -3947,8 +4031,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:25:13.130267+00:00",
-      "price_aud": 0.043504340524922025,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.04357807794304147,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "NAVX",
@@ -3967,8 +4051,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:25:13.144954+00:00",
-      "price_aud": 0.010867632585327802,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.01088605261326625,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "NEAR",
@@ -3987,8 +4071,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:25:13.159545+00:00",
-      "price_aud": 2.30609761586895,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 2.3100063220365143,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "NEO",
@@ -4007,8 +4091,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:26:39.501244+00:00",
-      "price_aud": 2.4115036471627747,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 2.4155910106437943,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "NEXO",
@@ -4027,8 +4111,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:26:39.511495+00:00",
-      "price_aud": 1.0272821622174604,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 1.0290233478878577,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "NFP",
@@ -4047,8 +4131,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:26:40.750738+00:00",
-      "price_aud": 0.000698428955416803,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.000699612753338824,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "NKN",
@@ -4067,8 +4151,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:26:40.761235+00:00",
-      "price_aud": 0.007929599765324591,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.007943039992353906,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "NMR",
@@ -4087,8 +4171,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:26:40.771531+00:00",
-      "price_aud": 11.823600611829761,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 11.843640951976795,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "NMT",
@@ -4107,8 +4191,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:26:42.010895+00:00",
-      "price_aud": 0.057697800191672435,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.05779559472817089,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "NOM",
@@ -4127,8 +4211,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:26:43.250559+00:00",
-      "price_aud": 0.002231993061068854,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.002235776164170703,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "NOT",
@@ -4147,8 +4231,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:26:43.260923+00:00",
-      "price_aud": 0.0005091436175291876,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.0005100065874157692,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "NTRN",
@@ -4167,8 +4251,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:26:44.540883+00:00",
-      "price_aud": 0.0002953913131793006,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.00029589198489402935,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "NYAN",
@@ -4187,8 +4271,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:28:02.477076+00:00",
-      "price_aud": 0.000652873068159112,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.0006539796514063215,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "OG",
@@ -4207,8 +4291,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:28:02.487752+00:00",
-      "price_aud": 3.5008737871659434,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 3.5068075719587455,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "OGN",
@@ -4227,8 +4311,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:28:02.498010+00:00",
-      "price_aud": 0.023024160062756538,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.02306318472321367,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "OMG",
@@ -4247,8 +4331,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:28:02.508062+00:00",
-      "price_aud": 0.06290329405051143,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.06300991160725467,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "OMNI",
@@ -4267,8 +4351,8 @@
       "data_status": "STALE",
       "data_error": "No Yahoo history and no Binance USDT pair | CoinGecko fallback deferred to avoid rate limit",
       "last_attempt_at": "2026-08-12T21:28:02.508081+00:00",
-      "price_aud": 0.2731571204925646,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.273620106497249,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "ONDO",
@@ -4287,8 +4371,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:28:02.518021+00:00",
-      "price_aud": 0.4632019314232636,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.46398703272761566,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "ONE",
@@ -4307,8 +4391,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:28:02.527609+00:00",
-      "price_aud": 0.000519739013055999,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.0005206199415439677,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "ONT",
@@ -4327,8 +4411,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:28:02.537329+00:00",
-      "price_aud": 0.05043949256118774,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.050524984673189444,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "OP",
@@ -4347,8 +4431,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:28:02.547278+00:00",
-      "price_aud": 0.12523104219051362,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.12544330178594976,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "ORDI",
@@ -4367,8 +4451,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:28:02.557002+00:00",
-      "price_aud": 4.876495738024403,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 4.884761124899683,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "OSMO",
@@ -4387,8 +4471,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:28:02.566798+00:00",
-      "price_aud": 0.042196799787354466,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.04226832099723099,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "PAAL",
@@ -4407,8 +4491,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:28:02.576727+00:00",
-      "price_aud": 0.007026312140496982,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.007038221345645024,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "PDA",
@@ -4427,8 +4511,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:28:02.586558+00:00",
-      "price_aud": 0.0012451755177268695,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.001247286020418667,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "PEAQ",
@@ -4447,8 +4531,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:28:02.596891+00:00",
-      "price_aud": 0.024269537432079824,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.024310672937355893,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "PENDLE",
@@ -4467,8 +4551,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:28:02.607109+00:00",
-      "price_aud": 1.8705359829797743,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 1.873706436599349,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "PEOPLE",
@@ -4487,8 +4571,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:28:02.617090+00:00",
-      "price_aud": 0.011309551255412331,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.011328720310720408,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "PERP",
@@ -4507,8 +4591,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:28:02.627094+00:00",
-      "price_aud": 0.026479200017023086,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.02652408077649593,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "PLUME",
@@ -4527,8 +4611,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:28:02.636845+00:00",
-      "price_aud": 0.016199039482913014,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.01622649594663761,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "PNUT",
@@ -4547,8 +4631,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:28:02.646575+00:00",
-      "price_aud": 0.05706480099577904,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.05716152263412955,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "POLS",
@@ -4567,8 +4651,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:28:02.656349+00:00",
-      "price_aud": 0.07193279956669807,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.07205472162905213,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "POLYX",
@@ -4587,8 +4671,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:28:02.666271+00:00",
-      "price_aud": 0.042310394513771055,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.04238210826034017,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "POND",
@@ -4607,8 +4691,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:28:02.676652+00:00",
-      "price_aud": 0.001047839990183562,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.0010496160202197874,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "PONKE",
@@ -4627,8 +4711,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:28:02.687453+00:00",
-      "price_aud": 0.020597682653050398,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.020632594570338503,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "POWR",
@@ -4647,8 +4731,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:28:02.697237+00:00",
-      "price_aud": 0.05324159955468177,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.05333184108093736,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "PRCL",
@@ -4667,8 +4751,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:28:02.707028+00:00",
-      "price_aud": 0.007221600304359199,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.007233840511996159,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "PROM",
@@ -4687,8 +4771,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:28:02.717433+00:00",
-      "price_aud": 3.7174281002309044,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 3.7237289324432368,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "PSG",
@@ -4707,8 +4791,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:28:02.727348+00:00",
-      "price_aud": 0.7020164537067117,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.7032063322372011,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "PUNDIX",
@@ -4727,8 +4811,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:28:02.737078+00:00",
-      "price_aud": 0.10605840246591569,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.10623816551193244,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "PYR",
@@ -4747,8 +4831,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:28:02.747373+00:00",
-      "price_aud": 0.08495999861598014,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.08510400105035298,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "PYTH",
@@ -4767,8 +4851,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:28:02.757372+00:00",
-      "price_aud": 0.05663999907732009,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.05673600070023532,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "QKC",
@@ -4787,8 +4871,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:28:02.767245+00:00",
-      "price_aud": 0.002757918225554601,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.0027625927423242658,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "QNT",
@@ -4807,8 +4891,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:28:02.777023+00:00",
-      "price_aud": 82.18464179454804,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 82.32394015470891,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "QTUM",
@@ -4827,8 +4911,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:28:02.787056+00:00",
-      "price_aud": 0.9252058023267224,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.9267739742900147,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "QUICK",
@@ -4847,8 +4931,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:28:02.797225+00:00",
-      "price_aud": 12.777972161498951,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 12.799630107915846,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "RAD",
@@ -4867,8 +4951,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:28:02.807139+00:00",
-      "price_aud": 0.3341760040512085,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.3347424136425019,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "RAY",
@@ -4887,8 +4971,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:28:02.826215+00:00",
-      "price_aud": 0.9002928111288071,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.9018187569687655,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "RBNT",
@@ -4907,8 +4991,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:28:02.836146+00:00",
-      "price_aud": 0.004212928492035473,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.0042200691696316905,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "RDNT",
@@ -4927,8 +5011,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:28:02.846044+00:00",
-      "price_aud": 0.0006010499709862456,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.0006020687169892083,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "REN",
@@ -4947,8 +5031,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:28:02.856101+00:00",
-      "price_aud": 0.004695261989309446,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.004703220195141522,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "RENDER",
@@ -4967,8 +5051,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:28:02.865852+00:00",
-      "price_aud": 1.762920017437935,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 1.765908068029404,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "REP",
@@ -4987,8 +5071,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:28:02.875522+00:00",
-      "price_aud": 1.1342671520322085,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 1.1361896712622297,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "REQ",
@@ -5007,8 +5091,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:28:02.885371+00:00",
-      "price_aud": 0.07249919860796927,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.07262208068494314,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "REZ",
@@ -5027,8 +5111,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:28:02.895349+00:00",
-      "price_aud": 0.003851520008470416,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.003858048118949353,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "RLC",
@@ -5047,8 +5131,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:28:02.905290+00:00",
-      "price_aud": 0.3743904098316193,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.37502498058609035,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "ROSE",
@@ -5067,8 +5151,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:28:02.915448+00:00",
-      "price_aud": 0.007504799824994801,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.007517520039941661,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "RPL",
@@ -5087,8 +5171,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:28:02.925599+00:00",
-      "price_aud": 1.9965599648380277,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 1.9999440220413192,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "RSR",
@@ -5107,8 +5191,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:28:02.935492+00:00",
-      "price_aud": 0.0016977840802166466,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.001700661729046371,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "RSS3",
@@ -5127,8 +5211,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:28:02.945392+00:00",
-      "price_aud": 0.006439246924509923,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.00645016108703067,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "RUNE",
@@ -5147,8 +5231,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:28:02.955285+00:00",
-      "price_aud": 0.5990497563433834,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.6000651120946685,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "RVN",
@@ -5204,16 +5288,16 @@
         "rejection_reasons": [
           "20d dollar volume $11,581"
         ],
-        "entry_price_aud": 0.0037580807697580876,
-        "stop_loss_aud": 0.003387579497729134,
-        "profit_target_aud": 0.0043879329322073085,
-        "atr14_aud": 0.00024700084801930244,
-        "risk_per_unit_aud": 0.00037050127202895364,
-        "usd_to_aud": 1.4160000085830688
+        "entry_price_aud": 0.003764450505966077,
+        "stop_loss_aud": 0.0033933212550531834,
+        "profit_target_aud": 0.004395370232517996,
+        "atr14_aud": 0.0002474195006085958,
+        "risk_per_unit_aud": 0.00037112925091289364,
+        "usd_to_aud": 1.4184000492095947
       },
       "updated_at": "2026-08-12T21:28:02.965266+00:00",
-      "price_aud": 0.0037580807697580876,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.003764450505966077,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "SAND",
@@ -5232,8 +5316,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:28:02.975201+00:00",
-      "price_aud": 0.05423280051441193,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.054324722070722586,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "SC",
@@ -5252,8 +5336,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:28:02.984998+00:00",
-      "price_aud": 0.0006619218681548737,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.0006630437886107551,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "SCA",
@@ -5273,7 +5357,7 @@
       "candidate": null,
       "updated_at": "2026-08-12T21:28:02.994653+00:00",
       "price_aud": 0.0,
-      "usd_to_aud": 1.4160000085830688
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "SCR",
@@ -5292,8 +5376,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:28:03.004483+00:00",
-      "price_aud": 0.0005924627062455085,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.0005934668973161805,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "SCRT",
@@ -5312,8 +5396,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:30:35.189751+00:00",
-      "price_aud": 0.040912007535132355,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.040981351094173224,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "SEI",
@@ -5332,8 +5416,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:30:35.204740+00:00",
-      "price_aud": 0.05637096296147348,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.05646650858325586,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "SFP",
@@ -5352,8 +5436,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:30:36.432985+00:00",
-      "price_aud": 0.3387830088408297,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.3393572270469498,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "SHIB",
@@ -5372,8 +5456,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:30:36.447444+00:00",
-      "price_aud": 6.2020801281822665e-06,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 6.212592306279992e-06,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "SKL",
@@ -5392,8 +5476,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:30:36.462174+00:00",
-      "price_aud": 0.004992816133886219,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.005001278677310983,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "SKY",
@@ -5412,8 +5496,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:30:36.477070+00:00",
-      "price_aud": 0.020035224045066857,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.020069182626548665,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "SLERF",
@@ -5432,8 +5516,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:30:36.492101+00:00",
-      "price_aud": 0.020531515551385326,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.020566315319145767,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "SLF",
@@ -5452,8 +5536,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:30:37.715724+00:00",
-      "price_aud": 0.0005246916660875939,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.0005255809890447809,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "SLP",
@@ -5472,8 +5556,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:30:37.730221+00:00",
-      "price_aud": 0.0007257872104866128,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.0007270173791171369,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "SNEK",
@@ -5492,8 +5576,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:30:39.033596+00:00",
-      "price_aud": 0.0004577518103686757,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.0004585276740234012,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "SNT",
@@ -5512,8 +5596,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:30:39.048111+00:00",
-      "price_aud": 0.007125479052193462,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.007137556339697038,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "SOL",
@@ -5532,8 +5616,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:30:39.062838+00:00",
-      "price_aud": 106.72392453606608,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 106.90481560467924,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "SPELL",
@@ -5552,8 +5636,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:30:39.077512+00:00",
-      "price_aud": 0.0001094567995983146,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.00010964232273693968,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "SPX",
@@ -5572,8 +5656,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:30:40.380655+00:00",
-      "price_aud": 0.44106521523079656,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.4418127960422971,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "SSV",
@@ -5592,8 +5676,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:30:40.395757+00:00",
-      "price_aud": 2.895801487355726,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 2.9007097085237206,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "STARGATE",
@@ -5612,8 +5696,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:31:57.024457+00:00",
-      "price_aud": 3.720594075729694e-05,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 3.7269002740929965e-05,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "STEEM",
@@ -5632,8 +5716,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:31:57.038836+00:00",
-      "price_aud": 0.05071320233686416,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.0507991583715901,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "STMX",
@@ -5652,8 +5736,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:31:57.053237+00:00",
-      "price_aud": 1.197028544245595e-05,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 1.1990574405167011e-05,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "STORJ",
@@ -5672,8 +5756,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:31:57.067680+00:00",
-      "price_aud": 0.06032159812059401,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.06042383984747879,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "STRAX",
@@ -5692,8 +5776,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:31:57.082086+00:00",
-      "price_aud": 0.011982464639458401,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.012002774245225556,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "STRK",
@@ -5712,8 +5796,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:31:57.096446+00:00",
-      "price_aud": 0.0322977983674122,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.03235254132486931,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "SUNDOG",
@@ -5732,8 +5816,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:31:57.110938+00:00",
-      "price_aud": 0.0055471264981695745,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.0055565285665843955,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "SWELL",
@@ -5752,8 +5836,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:31:57.125238+00:00",
-      "price_aud": 0.0009062399825996159,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.0009077760085617892,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "SXP",
@@ -5772,8 +5856,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:31:57.139748+00:00",
-      "price_aud": 1.5271219574988208,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 1.5297103435987083,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "SYRUP",
@@ -5792,8 +5876,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:31:57.154137+00:00",
-      "price_aud": 0.21112560924711232,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.2114834553180316,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "SYS",
@@ -5812,8 +5896,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:31:57.168494+00:00",
-      "price_aud": 0.0027212516234360606,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.002725863992370847,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "TAIKO",
@@ -5832,8 +5916,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:31:57.182870+00:00",
-      "price_aud": 0.09698225002661953,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.09714662950310604,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "TFUEL",
@@ -5852,8 +5936,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:31:57.197323+00:00",
-      "price_aud": 0.010310189853518836,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.010327665047279888,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "TIA",
@@ -5872,8 +5956,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:31:57.212132+00:00",
-      "price_aud": 0.4262160012331009,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.4269384134593963,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "TKO",
@@ -5892,8 +5976,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:31:57.226536+00:00",
-      "price_aud": 0.07321862044608363,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.07334272190273872,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "TLM",
@@ -5912,8 +5996,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:31:57.241029+00:00",
-      "price_aud": 0.0022074294419651835,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.002211170911109811,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "TNSR",
@@ -5932,8 +6016,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:31:57.255488+00:00",
-      "price_aud": 0.04494383830252646,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.04502001558867352,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "TRAC",
@@ -5952,8 +6036,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:31:57.270478+00:00",
-      "price_aud": 0.3749568194229127,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.37559235020988524,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "TRB",
@@ -5972,8 +6056,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:31:57.285421+00:00",
-      "price_aud": 19.144320764236454,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 19.176769314605735,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "TROY",
@@ -5992,8 +6076,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:31:57.300056+00:00",
-      "price_aud": 3.5648740047315524e-06,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 3.5709162663049568e-06,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "TRU",
@@ -6012,8 +6096,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:31:57.314719+00:00",
-      "price_aud": 0.01144785809005433,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.011467261567692955,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "TRX",
@@ -6032,8 +6116,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:31:57.329723+00:00",
-      "price_aud": 0.4749836476030005,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.47578871825573543,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "TURBO",
@@ -6052,8 +6136,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:31:57.344461+00:00",
-      "price_aud": 0.0011186400351865591,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.001120536067329661,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "TWT",
@@ -6072,8 +6156,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:31:57.359049+00:00",
-      "price_aud": 0.5714420784779044,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.5724106407630316,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "UMA",
@@ -6092,8 +6176,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:31:57.373917+00:00",
-      "price_aud": 0.45878400413131715,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.4595616172966004,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "UNI",
@@ -6112,8 +6196,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:31:57.388247+00:00",
-      "price_aud": 0.00023080800741650913,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.00023119921404883212,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "USTC",
@@ -6132,8 +6216,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:31:57.403103+00:00",
-      "price_aud": 0.00706404231672747,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.007076015472408881,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "UTK",
@@ -6152,8 +6236,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:31:57.418359+00:00",
-      "price_aud": 0.011245157876227818,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.011264217788368391,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "VANRY",
@@ -6212,16 +6296,16 @@
           "20d dollar volume $44,125",
           "ATR% 30.4"
         ],
-        "entry_price_aud": 0.0029710735113706033,
-        "stop_loss_aud": 0.0016175109860627867,
-        "profit_target_aud": 0.005272129804393891,
-        "atr14_aud": 0.0009023750168718776,
-        "risk_per_unit_aud": 0.0013535625253078163,
-        "usd_to_aud": 1.4160000085830688
+        "entry_price_aud": 0.002976109314399178,
+        "stop_loss_aud": 0.0016202525764984304,
+        "profit_target_aud": 0.005281065768830449,
+        "atr14_aud": 0.0009039044919338315,
+        "risk_per_unit_aud": 0.0013558567379007474,
+        "usd_to_aud": 1.4184000492095947
       },
       "updated_at": "2026-08-12T21:31:57.433280+00:00",
-      "price_aud": 0.0029710735113706033,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.002976109314399178,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "VET",
@@ -6240,8 +6324,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:31:57.448200+00:00",
-      "price_aud": 0.006400319980137348,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.0064111681636698226,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "VIC",
@@ -6260,8 +6344,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:31:57.463058+00:00",
-      "price_aud": 0.03608013693506518,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.036141290744337695,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "VIRTUAL",
@@ -6280,8 +6364,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:31:57.478038+00:00",
-      "price_aud": 0.8342293317816782,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.8356433037279913,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "VRA",
@@ -6300,8 +6384,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:31:57.492936+00:00",
-      "price_aud": 1.341822061060895e-05,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 1.3440963742251564e-05,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "VTHO",
@@ -6320,8 +6404,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:31:57.507971+00:00",
-      "price_aud": 0.00045878399325160676,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.0004595616063984495,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "W",
@@ -6340,8 +6424,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:31:57.522881+00:00",
-      "price_aud": 0.011384639719591139,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.011403936045636165,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "WAN",
@@ -6360,8 +6444,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:31:57.537395+00:00",
-      "price_aud": 0.07531973649022783,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.0754473992207787,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "WAVES",
@@ -6380,8 +6464,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:31:57.552033+00:00",
-      "price_aud": 0.28169827357812416,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.28217573635842896,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "WBTC",
@@ -6400,8 +6484,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:31:57.566762+00:00",
-      "price_aud": 89827.7107319897,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 89979.96366549097,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "WEMIX",
@@ -6420,8 +6504,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:31:57.581411+00:00",
-      "price_aud": 0.2851860687137826,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.28566944311129916,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "WIN",
@@ -6440,8 +6524,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:31:57.596082+00:00",
-      "price_aud": 4.4016943725508784e-05,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 4.409154997731413e-05,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "WLD",
@@ -6460,8 +6544,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:31:57.610818+00:00",
-      "price_aud": 0.4657224161244393,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.4665117895090489,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "WNXM",
@@ -6480,8 +6564,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:31:57.639145+00:00",
-      "price_aud": 71.61599484938279,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 71.73737994550265,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "WOO",
@@ -6500,8 +6584,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:31:57.653750+00:00",
-      "price_aud": 0.014976928868775219,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.015002313923526467,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "WRX",
@@ -6520,8 +6604,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:31:57.668254+00:00",
-      "price_aud": 0.022000528334816805,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.02203781799688498,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "XAI",
@@ -6540,8 +6624,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:31:57.682761+00:00",
-      "price_aud": 0.09624974088597948,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.09641287880054072,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "XAUT",
@@ -6560,8 +6644,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:31:57.697209+00:00",
-      "price_aud": 6212.2616860930575,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 6222.791121360613,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "XCH",
@@ -6580,8 +6664,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:31:57.711685+00:00",
-      "price_aud": 1.8694581927129263,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 1.872626819538425,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "XDC",
@@ -6600,8 +6684,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:31:57.740055+00:00",
-      "price_aud": 0.03769939917825682,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.03776329754624763,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "XEC",
@@ -6620,8 +6704,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:31:57.754644+00:00",
-      "price_aud": 9.189740293774466e-06,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 9.205316388349741e-06,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "XEM",
@@ -6640,8 +6724,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:31:57.769235+00:00",
-      "price_aud": 0.0006664849175957964,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.0006676145721646529,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "XNO",
@@ -6660,8 +6744,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:31:57.784050+00:00",
-      "price_aud": 0.5414868518749749,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.5424046417304496,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "XPL",
@@ -6680,8 +6764,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:31:57.798503+00:00",
-      "price_aud": 0.10438752160165787,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.10456445259828762,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "XRD",
@@ -6700,8 +6784,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:31:57.812933+00:00",
-      "price_aud": 0.0013805449129876135,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.0013828848592148946,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "XRP",
@@ -6720,8 +6804,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:31:57.827751+00:00",
-      "price_aud": 1.4206727400109287,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 1.4230807006552482,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "XTZ",
@@ -6740,8 +6824,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:04.461085+00:00",
-      "price_aud": 0.27484561216535575,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.2753114600687603,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "XVG",
@@ -6760,8 +6844,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:04.473650+00:00",
-      "price_aud": 0.0029988108384587653,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.0030038936547016615,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "XVS",
@@ -6780,8 +6864,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:04.485795+00:00",
-      "price_aud": 3.8136648962396578,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 3.82012884442571,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "YFI",
@@ -6800,8 +6884,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:04.497915+00:00",
-      "price_aud": 2746.4594082491967,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 2751.1145029659674,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "YFII",
@@ -6820,8 +6904,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:04.532279+00:00",
-      "price_aud": 34.851766370311225,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 34.910838160345065,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "YGG",
@@ -6840,8 +6924,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:04.544770+00:00",
-      "price_aud": 0.026512891512884273,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.026557829377553688,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "ZBCN",
@@ -6860,8 +6944,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:04.557079+00:00",
-      "price_aud": 0.0022408792763806,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.002244677441119197,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "ZBU",
@@ -6880,8 +6964,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:04.569198+00:00",
-      "price_aud": 0.17648012762946674,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.17677925155144258,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "ZCX",
@@ -6900,8 +6984,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:04.581337+00:00",
-      "price_aud": 0.0007487629334193696,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.0007500320446121311,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "ZEC",
@@ -6920,8 +7004,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:04.593765+00:00",
-      "price_aud": 692.1832651819896,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 693.3564770092271,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "ZEN",
@@ -6940,8 +7024,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:04.606113+00:00",
-      "price_aud": 5.722055878037452,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 5.731754441943735,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "ZETA",
@@ -6960,8 +7044,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:04.618205+00:00",
-      "price_aud": 0.03894000002503395,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.03900600114190578,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "ZEUS",
@@ -6980,8 +7064,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:05.781888+00:00",
-      "price_aud": 0.0032393264532101875,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.0032448169299355823,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "ZIL",
@@ -7000,8 +7084,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:05.793997+00:00",
-      "price_aud": 0.0033235392026893518,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.003329172415303727,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "ZK",
@@ -7020,8 +7104,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:06.985252+00:00",
-      "price_aud": 0.010348168489852172,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.010365708055272538,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "ZORA",
@@ -7040,8 +7124,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:08.152771+00:00",
-      "price_aud": 0.006883696991481585,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.006895364471947762,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "ZRO",
@@ -7060,8 +7144,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:09.277058+00:00",
-      "price_aud": 1.1579613599668135,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 1.1599240395508685,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "ZRX",
@@ -7080,8 +7164,8 @@
       "active": false,
       "candidate": null,
       "updated_at": "2026-08-12T21:33:09.289756+00:00",
-      "price_aud": 0.11094218708767034,
-      "usd_to_aud": 1.4160000085830688
+      "price_aud": 0.11113022787481164,
+      "usd_to_aud": 1.4184000492095947
     },
     {
       "symbol": "ACE",
@@ -7237,49 +7321,13 @@
       "last_attempt_at": "2026-08-12T21:35:10.822241+00:00"
     },
     {
-      "symbol": "FWOG",
-      "name": "Fwog",
-      "status": "error",
-      "data_status": "ERROR",
-      "data_error": "No Yahoo history and no Binance USDT pair | CoinGecko fallback deferred to avoid rate limit",
-      "reason": "No Yahoo history and no Binance USDT pair | CoinGecko fallback deferred to avoid rate limit",
-      "last_attempt_at": "2026-08-12T21:21:03.423700+00:00"
-    },
-    {
-      "symbol": "GENI",
-      "name": "Genius",
-      "status": "error",
-      "data_status": "ERROR",
-      "data_error": "No Yahoo history and no Binance USDT pair | CoinGecko fallback deferred to avoid rate limit",
-      "reason": "No Yahoo history and no Binance USDT pair | CoinGecko fallback deferred to avoid rate limit",
-      "last_attempt_at": "2026-08-12T21:21:03.438091+00:00"
-    },
-    {
-      "symbol": "GMT",
-      "name": "GMT",
-      "status": "error",
-      "data_status": "ERROR",
-      "data_error": "No Yahoo history and no Binance USDT pair | CoinGecko fallback deferred to avoid rate limit",
-      "reason": "No Yahoo history and no Binance USDT pair | CoinGecko fallback deferred to avoid rate limit",
-      "last_attempt_at": "2026-08-12T21:21:03.496200+00:00"
-    },
-    {
-      "symbol": "GMX",
-      "name": "GMX",
-      "status": "error",
-      "data_status": "ERROR",
-      "data_error": "No Yahoo history and no Binance USDT pair | CoinGecko fallback deferred to avoid rate limit",
-      "reason": "No Yahoo history and no Binance USDT pair | CoinGecko fallback deferred to avoid rate limit",
-      "last_attempt_at": "2026-08-12T21:21:03.496207+00:00"
-    },
-    {
       "symbol": "HYPE",
       "name": "Hyperliquid",
       "status": "error",
       "data_status": "ERROR",
       "data_error": "No Yahoo history and no Binance USDT pair | CoinGecko fallback deferred to avoid rate limit",
       "reason": "No Yahoo history and no Binance USDT pair | CoinGecko fallback deferred to avoid rate limit",
-      "last_attempt_at": "2026-08-12T21:25:12.395642+00:00"
+      "last_attempt_at": "2026-08-13T05:54:12.804051+00:00"
     },
     {
       "symbol": "IMX",
@@ -7288,7 +7336,7 @@
       "data_status": "ERROR",
       "data_error": "No Yahoo history and no Binance USDT pair | CoinGecko fallback deferred to avoid rate limit",
       "reason": "No Yahoo history and no Binance USDT pair | CoinGecko fallback deferred to avoid rate limit",
-      "last_attempt_at": "2026-08-12T21:25:12.468953+00:00"
+      "last_attempt_at": "2026-08-13T05:54:12.864800+00:00"
     },
     {
       "symbol": "IO",
@@ -7297,7 +7345,7 @@
       "data_status": "ERROR",
       "data_error": "No Yahoo history and no Binance USDT pair | CoinGecko fallback deferred to avoid rate limit",
       "reason": "No Yahoo history and no Binance USDT pair | CoinGecko fallback deferred to avoid rate limit",
-      "last_attempt_at": "2026-08-12T21:25:12.483544+00:00"
+      "last_attempt_at": "2026-08-13T05:54:12.876805+00:00"
     },
     {
       "symbol": "KNCL",
@@ -7306,7 +7354,7 @@
       "data_status": "ERROR",
       "data_error": "No Yahoo history and no Binance USDT pair | CoinGecko fallback deferred to avoid rate limit",
       "reason": "No Yahoo history and no Binance USDT pair | CoinGecko fallback deferred to avoid rate limit",
-      "last_attempt_at": "2026-08-12T21:25:12.718764+00:00"
+      "last_attempt_at": "2026-08-13T05:54:13.071344+00:00"
     },
     {
       "symbol": "L3",
@@ -7315,7 +7363,7 @@
       "data_status": "ERROR",
       "data_error": "No Yahoo history and no Binance USDT pair | CoinGecko fallback deferred to avoid rate limit",
       "reason": "No Yahoo history and no Binance USDT pair | CoinGecko fallback deferred to avoid rate limit",
-      "last_attempt_at": "2026-08-12T21:25:12.733574+00:00"
+      "last_attempt_at": "2026-08-13T05:54:13.083619+00:00"
     },
     {
       "symbol": "LUNA",
@@ -7324,7 +7372,7 @@
       "data_status": "ERROR",
       "data_error": "No Yahoo history and no Binance USDT pair | CoinGecko fallback deferred to avoid rate limit",
       "reason": "No Yahoo history and no Binance USDT pair | CoinGecko fallback deferred to avoid rate limit",
-      "last_attempt_at": "2026-08-12T21:25:12.880386+00:00"
+      "last_attempt_at": "2026-08-13T05:54:13.205476+00:00"
     },
     {
       "symbol": "MAGIC",
@@ -7333,7 +7381,7 @@
       "data_status": "ERROR",
       "data_error": "No Yahoo history and no Binance USDT pair | CoinGecko fallback deferred to avoid rate limit",
       "reason": "No Yahoo history and no Binance USDT pair | CoinGecko fallback deferred to avoid rate limit",
-      "last_attempt_at": "2026-08-12T21:25:12.880393+00:00"
+      "last_attempt_at": "2026-08-13T05:54:13.205501+00:00"
     },
     {
       "symbol": "MANTRA",
@@ -7342,7 +7390,7 @@
       "data_status": "ERROR",
       "data_error": "No Yahoo history and no Binance USDT pair | CoinGecko fallback deferred to avoid rate limit",
       "reason": "No Yahoo history and no Binance USDT pair | CoinGecko fallback deferred to avoid rate limit",
-      "last_attempt_at": "2026-08-12T21:25:12.895276+00:00"
+      "last_attempt_at": "2026-08-13T05:54:13.217864+00:00"
     },
     {
       "symbol": "MASK",
@@ -7351,7 +7399,7 @@
       "data_status": "ERROR",
       "data_error": "No Yahoo history and no Binance USDT pair | CoinGecko fallback deferred to avoid rate limit",
       "reason": "No Yahoo history and no Binance USDT pair | CoinGecko fallback deferred to avoid rate limit",
-      "last_attempt_at": "2026-08-12T21:25:12.895283+00:00"
+      "last_attempt_at": "2026-08-13T05:54:13.217872+00:00"
     },
     {
       "symbol": "MEW",
@@ -7360,7 +7408,7 @@
       "data_status": "ERROR",
       "data_error": "No Yahoo history and no Binance USDT pair | CoinGecko fallback deferred to avoid rate limit",
       "reason": "No Yahoo history and no Binance USDT pair | CoinGecko fallback deferred to avoid rate limit",
-      "last_attempt_at": "2026-08-12T21:25:13.012402+00:00"
+      "last_attempt_at": "2026-08-13T05:54:13.314981+00:00"
     },
     {
       "symbol": "MNT",
@@ -7369,7 +7417,7 @@
       "data_status": "ERROR",
       "data_error": "No Yahoo history and no Binance USDT pair | CoinGecko fallback deferred to avoid rate limit",
       "reason": "No Yahoo history and no Binance USDT pair | CoinGecko fallback deferred to avoid rate limit",
-      "last_attempt_at": "2026-08-12T21:25:13.041672+00:00"
+      "last_attempt_at": "2026-08-13T05:54:13.338990+00:00"
     },
     {
       "symbol": "MOODENG",
