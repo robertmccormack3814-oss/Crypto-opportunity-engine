@@ -1,5 +1,50 @@
 {
-  "active_trades": {},
+  "active_trades": {
+    "KSM": {
+      "symbol": "KSM",
+      "name": "Kusama",
+      "strategy": "MEAN_REVERSION",
+      "direction": "LONG",
+      "regime": "RANGE",
+      "signal_score": 83.0,
+      "flow_score": 15.0,
+      "reasons": [
+        "z-score -2.26",
+        "RSI5 18.3",
+        "range ADX",
+        "selling pressure moderating"
+      ],
+      "regime_details": {
+        "adx": 14.841904072051607
+      },
+      "execution_risk": {
+        "pass": true,
+        "reasons": [],
+        "average_dollar_volume_20d": 10876652.543223966,
+        "atr_pct": 4.279214814082224,
+        "gap_pct": 0.05384845222060619
+      },
+      "entry_price": 2.809999942779541,
+      "atr14": 0.12024593382712416,
+      "stop_loss": 2.629631042038855,
+      "profit_target": 3.1166270740387074,
+      "risk_per_unit": 0.18036890074068623,
+      "target_r": 1.7,
+      "data_source": "Yahoo",
+      "data_quality": "FULL_OHLCV",
+      "signal_date": "2026-08-14",
+      "timestamp": "2026-08-14T05:52:12.756346+00:00",
+      "entry_price_aud": 3.9755880535716983,
+      "stop_loss_aud": 3.7204021241687135,
+      "profit_target_aud": 4.409404133556772,
+      "atr14_aud": 0.17012395293532329,
+      "risk_per_unit_aud": 0.2551859294029849,
+      "usd_to_aud": 1.4148000478744507,
+      "entry_date": "2026-08-14",
+      "peak_price": 2.809999942779541,
+      "trailing_stop": 2.629631042038855
+    }
+  },
   "closed_trades": [],
-  "updated_at": "2026-08-13T23:26:16.629472+00:00"
+  "updated_at": "2026-08-14T05:52:15.096557+00:00"
 }
