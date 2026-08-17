@@ -6,7 +6,7 @@
     "binance_symbol": "1INCHUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/1inch",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.500044+00:00"
+    "discovered_at": "2026-08-17T21:59:54.296317+00:00"
   },
   {
     "symbol": "A",
@@ -15,7 +15,7 @@
     "binance_symbol": "AUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/vaulta",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.503452+00:00"
+    "discovered_at": "2026-08-17T21:59:54.299728+00:00"
   },
   {
     "symbol": "AAVE",
@@ -24,7 +24,7 @@
     "binance_symbol": "AAVEUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/aave",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.500057+00:00"
+    "discovered_at": "2026-08-17T21:59:54.296329+00:00"
   },
   {
     "symbol": "ACE",
@@ -33,7 +33,7 @@
     "binance_symbol": "ACEUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/fusionist",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501364+00:00"
+    "discovered_at": "2026-08-17T21:59:54.297669+00:00"
   },
   {
     "symbol": "ACM",
@@ -42,7 +42,7 @@
     "binance_symbol": "ACMUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/ac-milan-fan-token",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.500074+00:00"
+    "discovered_at": "2026-08-17T21:59:54.296347+00:00"
   },
   {
     "symbol": "ACT",
@@ -51,7 +51,7 @@
     "binance_symbol": "ACTUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/act-i-the-ai-prophecy",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.500084+00:00"
+    "discovered_at": "2026-08-17T21:59:54.296357+00:00"
   },
   {
     "symbol": "ADA",
@@ -60,7 +60,7 @@
     "binance_symbol": "ADAUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/cardano",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.500732+00:00"
+    "discovered_at": "2026-08-17T21:59:54.297041+00:00"
   },
   {
     "symbol": "ADX",
@@ -69,7 +69,7 @@
     "binance_symbol": "ADXUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/adex",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.500093+00:00"
+    "discovered_at": "2026-08-17T21:59:54.296366+00:00"
   },
   {
     "symbol": "AERGO",
@@ -78,7 +78,7 @@
     "binance_symbol": "AERGOUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/aergo",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.500117+00:00"
+    "discovered_at": "2026-08-17T21:59:54.296391+00:00"
   },
   {
     "symbol": "AERO",
@@ -87,7 +87,7 @@
     "binance_symbol": "AEROUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/aerodrome-finance",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.500124+00:00"
+    "discovered_at": "2026-08-17T21:59:54.296398+00:00"
   },
   {
     "symbol": "AEVO",
@@ -96,7 +96,7 @@
     "binance_symbol": "AEVOUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/aevo",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.500143+00:00"
+    "discovered_at": "2026-08-17T21:59:54.296414+00:00"
   },
   {
     "symbol": "AGLD",
@@ -105,7 +105,7 @@
     "binance_symbol": "AGLDUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/adventure-gold",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.500100+00:00"
+    "discovered_at": "2026-08-17T21:59:54.296373+00:00"
   },
   {
     "symbol": "AI",
@@ -114,7 +114,7 @@
     "binance_symbol": "AIUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/sleepless-ai",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.502964+00:00"
+    "discovered_at": "2026-08-17T21:59:54.299263+00:00"
   },
   {
     "symbol": "AIOZ",
@@ -123,7 +123,7 @@
     "binance_symbol": "AIOZUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/aioz-network",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.500150+00:00"
+    "discovered_at": "2026-08-17T21:59:54.296422+00:00"
   },
   {
     "symbol": "AKT",
@@ -132,7 +132,7 @@
     "binance_symbol": "AKTUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/akash-network",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.500159+00:00"
+    "discovered_at": "2026-08-17T21:59:54.296430+00:00"
   },
   {
     "symbol": "ALCX",
@@ -141,7 +141,7 @@
     "binance_symbol": "ALCXUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/alchemix",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.500173+00:00"
+    "discovered_at": "2026-08-17T21:59:54.296445+00:00"
   },
   {
     "symbol": "ALGO",
@@ -150,7 +150,7 @@
     "binance_symbol": "ALGOUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/algorand",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.500187+00:00"
+    "discovered_at": "2026-08-17T21:59:54.296461+00:00"
   },
   {
     "symbol": "ALICE",
@@ -159,7 +159,7 @@
     "binance_symbol": "ALICEUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/my-neighbor-alice",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.502159+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298454+00:00"
   },
   {
     "symbol": "ALLO",
@@ -168,7 +168,7 @@
     "binance_symbol": "ALLOUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/allora",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.500203+00:00"
+    "discovered_at": "2026-08-17T21:59:54.296475+00:00"
   },
   {
     "symbol": "ALPACA",
@@ -177,7 +177,7 @@
     "binance_symbol": "ALPACAUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/alpaca-finance",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.500210+00:00"
+    "discovered_at": "2026-08-17T21:59:54.296482+00:00"
   },
   {
     "symbol": "ALT",
@@ -186,7 +186,7 @@
     "binance_symbol": "ALTUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/altlayer",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.500224+00:00"
+    "discovered_at": "2026-08-17T21:59:54.296499+00:00"
   },
   {
     "symbol": "AMP",
@@ -195,7 +195,7 @@
     "binance_symbol": "AMPUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/amp",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.500241+00:00"
+    "discovered_at": "2026-08-17T21:59:54.296516+00:00"
   },
   {
     "symbol": "ANKR",
@@ -204,7 +204,7 @@
     "binance_symbol": "ANKRUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/ankr",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.500263+00:00"
+    "discovered_at": "2026-08-17T21:59:54.296539+00:00"
   },
   {
     "symbol": "APE",
@@ -213,7 +213,7 @@
     "binance_symbol": "APEUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/apecoin",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.500270+00:00"
+    "discovered_at": "2026-08-17T21:59:54.296547+00:00"
   },
   {
     "symbol": "API3",
@@ -222,7 +222,7 @@
     "binance_symbol": "API3USDT",
     "swyftx_url": "https://swyftx.com/au/buy/api3",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.500276+00:00"
+    "discovered_at": "2026-08-17T21:59:54.296555+00:00"
   },
   {
     "symbol": "APT",
@@ -231,7 +231,7 @@
     "binance_symbol": "APTUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/aptos",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.500283+00:00"
+    "discovered_at": "2026-08-17T21:59:54.296562+00:00"
   },
   {
     "symbol": "AR",
@@ -240,7 +240,7 @@
     "binance_symbol": "ARUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/arweave",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.500336+00:00"
+    "discovered_at": "2026-08-17T21:59:54.296616+00:00"
   },
   {
     "symbol": "ARB",
@@ -249,7 +249,7 @@
     "binance_symbol": "ARBUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/arbitrum",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.500291+00:00"
+    "discovered_at": "2026-08-17T21:59:54.296570+00:00"
   },
   {
     "symbol": "ARDR",
@@ -258,7 +258,7 @@
     "binance_symbol": "ARDRUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/ardor",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.500298+00:00"
+    "discovered_at": "2026-08-17T21:59:54.296577+00:00"
   },
   {
     "symbol": "ARK",
@@ -267,7 +267,7 @@
     "binance_symbol": "ARKUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/ark",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.500305+00:00"
+    "discovered_at": "2026-08-17T21:59:54.296584+00:00"
   },
   {
     "symbol": "ARKM",
@@ -276,7 +276,7 @@
     "binance_symbol": "ARKMUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/arkham",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.500312+00:00"
+    "discovered_at": "2026-08-17T21:59:54.296591+00:00"
   },
   {
     "symbol": "ARPA",
@@ -285,7 +285,7 @@
     "binance_symbol": "ARPAUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/arpa",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.500318+00:00"
+    "discovered_at": "2026-08-17T21:59:54.296598+00:00"
   },
   {
     "symbol": "ASR",
@@ -294,7 +294,7 @@
     "binance_symbol": "ASRUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/as-roma-fan-token",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.500343+00:00"
+    "discovered_at": "2026-08-17T21:59:54.296623+00:00"
   },
   {
     "symbol": "ASTER",
@@ -303,7 +303,7 @@
     "binance_symbol": "ASTERUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/aster",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.500359+00:00"
+    "discovered_at": "2026-08-17T21:59:54.296641+00:00"
   },
   {
     "symbol": "ATH",
@@ -312,7 +312,7 @@
     "binance_symbol": "ATHUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/aethir",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.500132+00:00"
+    "discovered_at": "2026-08-17T21:59:54.296405+00:00"
   },
   {
     "symbol": "ATM",
@@ -321,7 +321,7 @@
     "binance_symbol": "ATMUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/atletico-madrid-fan-token",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.500368+00:00"
+    "discovered_at": "2026-08-17T21:59:54.296652+00:00"
   },
   {
     "symbol": "ATOM",
@@ -330,7 +330,7 @@
     "binance_symbol": "ATOMUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/cosmos",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.500938+00:00"
+    "discovered_at": "2026-08-17T21:59:54.297253+00:00"
   },
   {
     "symbol": "AUDD",
@@ -339,7 +339,7 @@
     "binance_symbol": "AUDDUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/australian-digital-dollar",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.500409+00:00"
+    "discovered_at": "2026-08-17T21:59:54.296692+00:00"
   },
   {
     "symbol": "AUDF",
@@ -348,7 +348,7 @@
     "binance_symbol": "AUDFUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/forte-aud",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501310+00:00"
+    "discovered_at": "2026-08-17T21:59:54.297615+00:00"
   },
   {
     "symbol": "AUDIO",
@@ -357,7 +357,7 @@
     "binance_symbol": "AUDIOUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/audius",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.500377+00:00"
+    "discovered_at": "2026-08-17T21:59:54.296661+00:00"
   },
   {
     "symbol": "AUDX",
@@ -366,7 +366,7 @@
     "binance_symbol": "AUDXUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/aussie-dollar-token",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.500399+00:00"
+    "discovered_at": "2026-08-17T21:59:54.296681+00:00"
   },
   {
     "symbol": "AVA",
@@ -375,7 +375,7 @@
     "binance_symbol": "AVAUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/avaai",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.500419+00:00"
+    "discovered_at": "2026-08-17T21:59:54.296704+00:00"
   },
   {
     "symbol": "AVNT",
@@ -384,7 +384,7 @@
     "binance_symbol": "AVNTUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/avantis",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.500432+00:00"
+    "discovered_at": "2026-08-17T21:59:54.296717+00:00"
   },
   {
     "symbol": "AWE",
@@ -393,7 +393,7 @@
     "binance_symbol": "AWEUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/awe-network",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.500441+00:00"
+    "discovered_at": "2026-08-17T21:59:54.296728+00:00"
   },
   {
     "symbol": "AXL",
@@ -402,7 +402,7 @@
     "binance_symbol": "AXLUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/axelar",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.500450+00:00"
+    "discovered_at": "2026-08-17T21:59:54.296736+00:00"
   },
   {
     "symbol": "AXS",
@@ -411,7 +411,7 @@
     "binance_symbol": "AXSUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/axie-infinity",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.500457+00:00"
+    "discovered_at": "2026-08-17T21:59:54.296743+00:00"
   },
   {
     "symbol": "BADGER",
@@ -420,7 +420,7 @@
     "binance_symbol": "BADGERUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/badger-dao",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.500470+00:00"
+    "discovered_at": "2026-08-17T21:59:54.296759+00:00"
   },
   {
     "symbol": "BAKE",
@@ -429,7 +429,7 @@
     "binance_symbol": "BAKEUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/bakerytoken",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.500477+00:00"
+    "discovered_at": "2026-08-17T21:59:54.296766+00:00"
   },
   {
     "symbol": "BAL",
@@ -438,7 +438,7 @@
     "binance_symbol": "BALUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/balancer",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.500484+00:00"
+    "discovered_at": "2026-08-17T21:59:54.296775+00:00"
   },
   {
     "symbol": "BANANA",
@@ -447,7 +447,7 @@
     "binance_symbol": "BANANAUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/banana-gun",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.500492+00:00"
+    "discovered_at": "2026-08-17T21:59:54.296781+00:00"
   },
   {
     "symbol": "BAND",
@@ -456,7 +456,7 @@
     "binance_symbol": "BANDUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/band-protocol",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.500505+00:00"
+    "discovered_at": "2026-08-17T21:59:54.296795+00:00"
   },
   {
     "symbol": "BAR",
@@ -465,7 +465,7 @@
     "binance_symbol": "BARUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/fc-barcelona-fan-token",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501257+00:00"
+    "discovered_at": "2026-08-17T21:59:54.297566+00:00"
   },
   {
     "symbol": "BARD",
@@ -474,7 +474,7 @@
     "binance_symbol": "BARDUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/lombard",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501872+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298199+00:00"
   },
   {
     "symbol": "BAT",
@@ -483,7 +483,7 @@
     "binance_symbol": "BATUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/basic-attention-token",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.500519+00:00"
+    "discovered_at": "2026-08-17T21:59:54.296809+00:00"
   },
   {
     "symbol": "BB",
@@ -492,7 +492,7 @@
     "binance_symbol": "BBUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/bouncebit",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.500686+00:00"
+    "discovered_at": "2026-08-17T21:59:54.296985+00:00"
   },
   {
     "symbol": "BCH",
@@ -501,7 +501,7 @@
     "binance_symbol": "BCHUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/bitcoin-cash",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.500603+00:00"
+    "discovered_at": "2026-08-17T21:59:54.296898+00:00"
   },
   {
     "symbol": "BEAM",
@@ -510,7 +510,7 @@
     "binance_symbol": "BEAMUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/beam",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.500526+00:00"
+    "discovered_at": "2026-08-17T21:59:54.296817+00:00"
   },
   {
     "symbol": "BEL",
@@ -519,7 +519,7 @@
     "binance_symbol": "BELUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/bella-protocol",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.500532+00:00"
+    "discovered_at": "2026-08-17T21:59:54.296824+00:00"
   },
   {
     "symbol": "BERA",
@@ -528,7 +528,7 @@
     "binance_symbol": "BERAUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/berachain",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.500549+00:00"
+    "discovered_at": "2026-08-17T21:59:54.296842+00:00"
   },
   {
     "symbol": "BICO",
@@ -537,7 +537,7 @@
     "binance_symbol": "BICOUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/biconomy",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.500556+00:00"
+    "discovered_at": "2026-08-17T21:59:54.296851+00:00"
   },
   {
     "symbol": "BIGTIME",
@@ -546,7 +546,7 @@
     "binance_symbol": "BIGTIMEUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/big-time",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.500563+00:00"
+    "discovered_at": "2026-08-17T21:59:54.296858+00:00"
   },
   {
     "symbol": "BILLY",
@@ -555,7 +555,7 @@
     "binance_symbol": "BILLYUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/billy",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.500570+00:00"
+    "discovered_at": "2026-08-17T21:59:54.296867+00:00"
   },
   {
     "symbol": "BLAST",
@@ -564,7 +564,7 @@
     "binance_symbol": "BLASTUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/blast",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.500631+00:00"
+    "discovered_at": "2026-08-17T21:59:54.296927+00:00"
   },
   {
     "symbol": "BLUR",
@@ -573,7 +573,7 @@
     "binance_symbol": "BLURUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/blur",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.500638+00:00"
+    "discovered_at": "2026-08-17T21:59:54.296934+00:00"
   },
   {
     "symbol": "BLZ",
@@ -582,7 +582,7 @@
     "binance_symbol": "BLZUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/bluzelle",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.500645+00:00"
+    "discovered_at": "2026-08-17T21:59:54.296940+00:00"
   },
   {
     "symbol": "BOME",
@@ -591,7 +591,7 @@
     "binance_symbol": "BOMEUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/book-of-meme",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.500674+00:00"
+    "discovered_at": "2026-08-17T21:59:54.296973+00:00"
   },
   {
     "symbol": "BOND",
@@ -600,7 +600,7 @@
     "binance_symbol": "BONDUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/barnbridge",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.500512+00:00"
+    "discovered_at": "2026-08-17T21:59:54.296802+00:00"
   },
   {
     "symbol": "BONE",
@@ -609,7 +609,7 @@
     "binance_symbol": "BONEUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/bone",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.500658+00:00"
+    "discovered_at": "2026-08-17T21:59:54.296958+00:00"
   },
   {
     "symbol": "BONK",
@@ -618,7 +618,7 @@
     "binance_symbol": "BONKUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/bonk",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.500665+00:00"
+    "discovered_at": "2026-08-17T21:59:54.296966+00:00"
   },
   {
     "symbol": "BRETT",
@@ -627,7 +627,7 @@
     "binance_symbol": "BRETTUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/brett",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.500695+00:00"
+    "discovered_at": "2026-08-17T21:59:54.296995+00:00"
   },
   {
     "symbol": "BSV",
@@ -636,7 +636,7 @@
     "binance_symbol": "BSVUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/bitcoin-sv",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.500612+00:00"
+    "discovered_at": "2026-08-17T21:59:54.296906+00:00"
   },
   {
     "symbol": "BSW",
@@ -645,7 +645,7 @@
     "binance_symbol": "BSWUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/biswap",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.500589+00:00"
+    "discovered_at": "2026-08-17T21:59:54.296884+00:00"
   },
   {
     "symbol": "BTC",
@@ -654,7 +654,7 @@
     "binance_symbol": "BTCUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/bitcoin",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.500596+00:00"
+    "discovered_at": "2026-08-17T21:59:54.296891+00:00"
   },
   {
     "symbol": "BTT",
@@ -663,7 +663,7 @@
     "binance_symbol": "BTTUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/bittorrent",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.500625+00:00"
+    "discovered_at": "2026-08-17T21:59:54.296920+00:00"
   },
   {
     "symbol": "C98",
@@ -672,7 +672,7 @@
     "binance_symbol": "C98USDT",
     "swyftx_url": "https://swyftx.com/au/buy/coin-98",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.500864+00:00"
+    "discovered_at": "2026-08-17T21:59:54.297178+00:00"
   },
   {
     "symbol": "CAKE",
@@ -681,7 +681,7 @@
     "binance_symbol": "CAKEUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/pancakeswap",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.502441+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298744+00:00"
   },
   {
     "symbol": "CAT",
@@ -690,7 +690,7 @@
     "binance_symbol": "CATUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/simons-cat",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.502944+00:00"
+    "discovered_at": "2026-08-17T21:59:54.299240+00:00"
   },
   {
     "symbol": "CATI",
@@ -699,7 +699,7 @@
     "binance_symbol": "CATIUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/catizen",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.500759+00:00"
+    "discovered_at": "2026-08-17T21:59:54.297072+00:00"
   },
   {
     "symbol": "CC",
@@ -708,7 +708,7 @@
     "binance_symbol": "CCUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/canton",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.500723+00:00"
+    "discovered_at": "2026-08-17T21:59:54.297033+00:00"
   },
   {
     "symbol": "CELO",
@@ -717,7 +717,7 @@
     "binance_symbol": "CELOUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/celo",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.500784+00:00"
+    "discovered_at": "2026-08-17T21:59:54.297094+00:00"
   },
   {
     "symbol": "CETUS",
@@ -726,7 +726,7 @@
     "binance_symbol": "CETUSUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/cetus-protocol",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.500792+00:00"
+    "discovered_at": "2026-08-17T21:59:54.297100+00:00"
   },
   {
     "symbol": "CHEEL",
@@ -735,7 +735,7 @@
     "binance_symbol": "CHEELUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/cheelee",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.500804+00:00"
+    "discovered_at": "2026-08-17T21:59:54.297114+00:00"
   },
   {
     "symbol": "CHEQ",
@@ -744,7 +744,7 @@
     "binance_symbol": "CHEQUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/cheqd-network",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.500811+00:00"
+    "discovered_at": "2026-08-17T21:59:54.297121+00:00"
   },
   {
     "symbol": "CHILLGUY",
@@ -753,7 +753,7 @@
     "binance_symbol": "CHILLGUYUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/just-a-chill-guy",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501718+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298045+00:00"
   },
   {
     "symbol": "CHR",
@@ -762,7 +762,7 @@
     "binance_symbol": "CHRUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/chromia",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.500841+00:00"
+    "discovered_at": "2026-08-17T21:59:54.297150+00:00"
   },
   {
     "symbol": "CHZ",
@@ -771,7 +771,7 @@
     "binance_symbol": "CHZUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/chiliz",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.500826+00:00"
+    "discovered_at": "2026-08-17T21:59:54.297136+00:00"
   },
   {
     "symbol": "CKB",
@@ -780,7 +780,7 @@
     "binance_symbol": "CKBUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/nervos-network",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.502221+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298520+00:00"
   },
   {
     "symbol": "CLV",
@@ -789,7 +789,7 @@
     "binance_symbol": "CLVUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/clover-finance",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.500856+00:00"
+    "discovered_at": "2026-08-17T21:59:54.297168+00:00"
   },
   {
     "symbol": "CMCX",
@@ -798,7 +798,7 @@
     "binance_symbol": "CMCXUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/core",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.500922+00:00"
+    "discovered_at": "2026-08-17T21:59:54.297236+00:00"
   },
   {
     "symbol": "COMP",
@@ -807,7 +807,7 @@
     "binance_symbol": "COMPUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/compound",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.500874+00:00"
+    "discovered_at": "2026-08-17T21:59:54.297187+00:00"
   },
   {
     "symbol": "COQ",
@@ -816,7 +816,7 @@
     "binance_symbol": "COQUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/coq-inu",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.500915+00:00"
+    "discovered_at": "2026-08-17T21:59:54.297228+00:00"
   },
   {
     "symbol": "COS",
@@ -825,7 +825,7 @@
     "binance_symbol": "COSUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/contentos",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.500899+00:00"
+    "discovered_at": "2026-08-17T21:59:54.297212+00:00"
   },
   {
     "symbol": "COTI",
@@ -834,7 +834,7 @@
     "binance_symbol": "COTIUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/coti",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.500946+00:00"
+    "discovered_at": "2026-08-17T21:59:54.297261+00:00"
   },
   {
     "symbol": "CRV",
@@ -843,7 +843,7 @@
     "binance_symbol": "CRVUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/curve-dao",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.500957+00:00"
+    "discovered_at": "2026-08-17T21:59:54.297271+00:00"
   },
   {
     "symbol": "CSPR",
@@ -852,7 +852,7 @@
     "binance_symbol": "CSPRUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/casper-network",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.500746+00:00"
+    "discovered_at": "2026-08-17T21:59:54.297055+00:00"
   },
   {
     "symbol": "CTK",
@@ -861,7 +861,7 @@
     "binance_symbol": "CTKUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/shentu",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.502911+00:00"
+    "discovered_at": "2026-08-17T21:59:54.299218+00:00"
   },
   {
     "symbol": "CTSI",
@@ -870,7 +870,7 @@
     "binance_symbol": "CTSIUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/cartesi",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.500739+00:00"
+    "discovered_at": "2026-08-17T21:59:54.297048+00:00"
   },
   {
     "symbol": "CTXC",
@@ -879,7 +879,7 @@
     "binance_symbol": "CTXCUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/cortex",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.500929+00:00"
+    "discovered_at": "2026-08-17T21:59:54.297244+00:00"
   },
   {
     "symbol": "CVC",
@@ -888,7 +888,7 @@
     "binance_symbol": "CVCUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/civic",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.500850+00:00"
+    "discovered_at": "2026-08-17T21:59:54.297160+00:00"
   },
   {
     "symbol": "CVX",
@@ -897,7 +897,7 @@
     "binance_symbol": "CVXUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/convex-finance",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.500907+00:00"
+    "discovered_at": "2026-08-17T21:59:54.297219+00:00"
   },
   {
     "symbol": "CYBER",
@@ -906,7 +906,7 @@
     "binance_symbol": "CYBERUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/cyberconnect",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.500965+00:00"
+    "discovered_at": "2026-08-17T21:59:54.297279+00:00"
   },
   {
     "symbol": "DCR",
@@ -915,7 +915,7 @@
     "binance_symbol": "DCRUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/decred",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.500995+00:00"
+    "discovered_at": "2026-08-17T21:59:54.297300+00:00"
   },
   {
     "symbol": "DEGO",
@@ -924,7 +924,7 @@
     "binance_symbol": "DEGOUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/dego-finance",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501010+00:00"
+    "discovered_at": "2026-08-17T21:59:54.297314+00:00"
   },
   {
     "symbol": "DENT",
@@ -933,7 +933,7 @@
     "binance_symbol": "DENTUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/dent",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501017+00:00"
+    "discovered_at": "2026-08-17T21:59:54.297322+00:00"
   },
   {
     "symbol": "DEXE",
@@ -942,7 +942,7 @@
     "binance_symbol": "DEXEUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/dexe",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501024+00:00"
+    "discovered_at": "2026-08-17T21:59:54.297329+00:00"
   },
   {
     "symbol": "DGB",
@@ -951,7 +951,7 @@
     "binance_symbol": "DGBUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/digibyte",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501048+00:00"
+    "discovered_at": "2026-08-17T21:59:54.297356+00:00"
   },
   {
     "symbol": "DIA",
@@ -960,7 +960,7 @@
     "binance_symbol": "DIAUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/dia",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501041+00:00"
+    "discovered_at": "2026-08-17T21:59:54.297349+00:00"
   },
   {
     "symbol": "DODO",
@@ -969,7 +969,7 @@
     "binance_symbol": "DODOUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/dodo",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501056+00:00"
+    "discovered_at": "2026-08-17T21:59:54.297363+00:00"
   },
   {
     "symbol": "DOG",
@@ -978,7 +978,7 @@
     "binance_symbol": "DOGUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/dog",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501065+00:00"
+    "discovered_at": "2026-08-17T21:59:54.297372+00:00"
   },
   {
     "symbol": "DOGE",
@@ -987,7 +987,7 @@
     "binance_symbol": "DOGEUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/dogecoin",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501072+00:00"
+    "discovered_at": "2026-08-17T21:59:54.297379+00:00"
   },
   {
     "symbol": "DOGS",
@@ -996,7 +996,7 @@
     "binance_symbol": "DOGSUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/dogs",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501085+00:00"
+    "discovered_at": "2026-08-17T21:59:54.297388+00:00"
   },
   {
     "symbol": "DOT",
@@ -1005,7 +1005,7 @@
     "binance_symbol": "DOTUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/polkadot",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.502535+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298840+00:00"
   },
   {
     "symbol": "DRIFT",
@@ -1014,7 +1014,7 @@
     "binance_symbol": "DRIFTUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/drift-protocol",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501098+00:00"
+    "discovered_at": "2026-08-17T21:59:54.297402+00:00"
   },
   {
     "symbol": "DUSK",
@@ -1023,7 +1023,7 @@
     "binance_symbol": "DUSKUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/dusk-network",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501105+00:00"
+    "discovered_at": "2026-08-17T21:59:54.297409+00:00"
   },
   {
     "symbol": "DYM",
@@ -1032,7 +1032,7 @@
     "binance_symbol": "DYMUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/dymension",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501119+00:00"
+    "discovered_at": "2026-08-17T21:59:54.297422+00:00"
   },
   {
     "symbol": "EDGE",
@@ -1041,7 +1041,7 @@
     "binance_symbol": "EDGEUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/edgex",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501142+00:00"
+    "discovered_at": "2026-08-17T21:59:54.297445+00:00"
   },
   {
     "symbol": "EIGEN",
@@ -1050,7 +1050,7 @@
     "binance_symbol": "EIGENUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/eigenlayer",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501149+00:00"
+    "discovered_at": "2026-08-17T21:59:54.297452+00:00"
   },
   {
     "symbol": "ELIZAOS",
@@ -1059,7 +1059,7 @@
     "binance_symbol": "ELIZAOSUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/elizaos",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501155+00:00"
+    "discovered_at": "2026-08-17T21:59:54.297459+00:00"
   },
   {
     "symbol": "ENA",
@@ -1068,7 +1068,7 @@
     "binance_symbol": "ENAUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/ethena",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501202+00:00"
+    "discovered_at": "2026-08-17T21:59:54.297503+00:00"
   },
   {
     "symbol": "ENS",
@@ -1077,7 +1077,7 @@
     "binance_symbol": "ENSUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/ethereum-name-service",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501231+00:00"
+    "discovered_at": "2026-08-17T21:59:54.297535+00:00"
   },
   {
     "symbol": "EPIC",
@@ -1086,7 +1086,7 @@
     "binance_symbol": "EPICUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/epic-chain",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501186+00:00"
+    "discovered_at": "2026-08-17T21:59:54.297487+00:00"
   },
   {
     "symbol": "EQTY",
@@ -1095,7 +1095,7 @@
     "binance_symbol": "EQTYUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/lto-network",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501886+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298213+00:00"
   },
   {
     "symbol": "ETC",
@@ -1104,7 +1104,7 @@
     "binance_symbol": "ETCUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/ethereum-classic",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501222+00:00"
+    "discovered_at": "2026-08-17T21:59:54.297526+00:00"
   },
   {
     "symbol": "ETH",
@@ -1113,7 +1113,7 @@
     "binance_symbol": "ETHUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/ethereum",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501216+00:00"
+    "discovered_at": "2026-08-17T21:59:54.297516+00:00"
   },
   {
     "symbol": "ETHDYDX",
@@ -1122,7 +1122,7 @@
     "binance_symbol": "ETHDYDXUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/dydx",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501113+00:00"
+    "discovered_at": "2026-08-17T21:59:54.297415+00:00"
   },
   {
     "symbol": "ETHFI",
@@ -1131,7 +1131,7 @@
     "binance_symbol": "ETHFIUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/ether-fi",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501209+00:00"
+    "discovered_at": "2026-08-17T21:59:54.297510+00:00"
   },
   {
     "symbol": "FARM",
@@ -1140,7 +1140,7 @@
     "binance_symbol": "FARMUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/harvest-finance",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501487+00:00"
+    "discovered_at": "2026-08-17T21:59:54.297801+00:00"
   },
   {
     "symbol": "FARTCOIN",
@@ -1149,7 +1149,7 @@
     "binance_symbol": "FARTCOINUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/fartcoin",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501244+00:00"
+    "discovered_at": "2026-08-17T21:59:54.297550+00:00"
   },
   {
     "symbol": "FET",
@@ -1158,7 +1158,7 @@
     "binance_symbol": "FETUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/artificial-superintelligence-alliance",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.500329+00:00"
+    "discovered_at": "2026-08-17T21:59:54.296609+00:00"
   },
   {
     "symbol": "FIL",
@@ -1167,7 +1167,7 @@
     "binance_symbol": "FILUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/filecoin",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501264+00:00"
+    "discovered_at": "2026-08-17T21:59:54.297573+00:00"
   },
   {
     "symbol": "FIO",
@@ -1176,7 +1176,7 @@
     "binance_symbol": "FIOUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/fio-protocol",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501271+00:00"
+    "discovered_at": "2026-08-17T21:59:54.297579+00:00"
   },
   {
     "symbol": "FIS",
@@ -1185,7 +1185,7 @@
     "binance_symbol": "FISUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/stafi",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.503070+00:00"
+    "discovered_at": "2026-08-17T21:59:54.299349+00:00"
   },
   {
     "symbol": "FLAMINGO",
@@ -1194,7 +1194,7 @@
     "binance_symbol": "FLAMINGOUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/flamingo",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501278+00:00"
+    "discovered_at": "2026-08-17T21:59:54.297586+00:00"
   },
   {
     "symbol": "FLOKI",
@@ -1203,7 +1203,7 @@
     "binance_symbol": "FLOKIUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/floki",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501285+00:00"
+    "discovered_at": "2026-08-17T21:59:54.297593+00:00"
   },
   {
     "symbol": "FLOW",
@@ -1212,7 +1212,7 @@
     "binance_symbol": "FLOWUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/flow",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501294+00:00"
+    "discovered_at": "2026-08-17T21:59:54.297601+00:00"
   },
   {
     "symbol": "FLUX",
@@ -1221,7 +1221,7 @@
     "binance_symbol": "FLUXUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/flux",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501303+00:00"
+    "discovered_at": "2026-08-17T21:59:54.297608+00:00"
   },
   {
     "symbol": "FOR",
@@ -1230,7 +1230,7 @@
     "binance_symbol": "FORUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/fortube",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501319+00:00"
+    "discovered_at": "2026-08-17T21:59:54.297624+00:00"
   },
   {
     "symbol": "FORM",
@@ -1239,7 +1239,7 @@
     "binance_symbol": "FORMUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/four",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501327+00:00"
+    "discovered_at": "2026-08-17T21:59:54.297631+00:00"
   },
   {
     "symbol": "FORTH",
@@ -1248,7 +1248,7 @@
     "binance_symbol": "FORTHUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/ampleforth-governance-token",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.500249+00:00"
+    "discovered_at": "2026-08-17T21:59:54.296524+00:00"
   },
   {
     "symbol": "FRAX",
@@ -1257,7 +1257,7 @@
     "binance_symbol": "FRAXUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/frax-share",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501341+00:00"
+    "discovered_at": "2026-08-17T21:59:54.297644+00:00"
   },
   {
     "symbol": "FTT",
@@ -1266,7 +1266,7 @@
     "binance_symbol": "FTTUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/ftx-token",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501348+00:00"
+    "discovered_at": "2026-08-17T21:59:54.297651+00:00"
   },
   {
     "symbol": "FUN",
@@ -1275,7 +1275,7 @@
     "binance_symbol": "FUNUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/funtoken",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501356+00:00"
+    "discovered_at": "2026-08-17T21:59:54.297660+00:00"
   },
   {
     "symbol": "FWOG",
@@ -1284,7 +1284,7 @@
     "binance_symbol": "FWOGUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/fwog",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501371+00:00"
+    "discovered_at": "2026-08-17T21:59:54.297676+00:00"
   },
   {
     "symbol": "GALA",
@@ -1293,7 +1293,7 @@
     "binance_symbol": "GALAUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/gala",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501385+00:00"
+    "discovered_at": "2026-08-17T21:59:54.297689+00:00"
   },
   {
     "symbol": "GENI",
@@ -1302,7 +1302,7 @@
     "binance_symbol": "GENIUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/genius",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501399+00:00"
+    "discovered_at": "2026-08-17T21:59:54.297704+00:00"
   },
   {
     "symbol": "GFI",
@@ -1311,7 +1311,7 @@
     "binance_symbol": "GFIUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/goldfinch",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501428+00:00"
+    "discovered_at": "2026-08-17T21:59:54.297733+00:00"
   },
   {
     "symbol": "GHST",
@@ -1320,7 +1320,7 @@
     "binance_symbol": "GHSTUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/aavegotchi",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.500066+00:00"
+    "discovered_at": "2026-08-17T21:59:54.296339+00:00"
   },
   {
     "symbol": "GLM",
@@ -1329,7 +1329,7 @@
     "binance_symbol": "GLMUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/golem",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501434+00:00"
+    "discovered_at": "2026-08-17T21:59:54.297741+00:00"
   },
   {
     "symbol": "GLMR",
@@ -1338,7 +1338,7 @@
     "binance_symbol": "GLMRUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/moonbeam",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.502122+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298418+00:00"
   },
   {
     "symbol": "GMT",
@@ -1347,7 +1347,7 @@
     "binance_symbol": "GMTUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/stepn",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.503113+00:00"
+    "discovered_at": "2026-08-17T21:59:54.299392+00:00"
   },
   {
     "symbol": "GMX",
@@ -1356,7 +1356,7 @@
     "binance_symbol": "GMXUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/gmx",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501413+00:00"
+    "discovered_at": "2026-08-17T21:59:54.297718+00:00"
   },
   {
     "symbol": "GNO",
@@ -1365,7 +1365,7 @@
     "binance_symbol": "GNOUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/gnosis",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501420+00:00"
+    "discovered_at": "2026-08-17T21:59:54.297725+00:00"
   },
   {
     "symbol": "GNS",
@@ -1374,7 +1374,7 @@
     "binance_symbol": "GNSUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/gains-network",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501378+00:00"
+    "discovered_at": "2026-08-17T21:59:54.297683+00:00"
   },
   {
     "symbol": "GRASS",
@@ -1383,7 +1383,7 @@
     "binance_symbol": "GRASSUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/grass",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501453+00:00"
+    "discovered_at": "2026-08-17T21:59:54.297759+00:00"
   },
   {
     "symbol": "GTC",
@@ -1392,7 +1392,7 @@
     "binance_symbol": "GTCUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/gitcoin",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501406+00:00"
+    "discovered_at": "2026-08-17T21:59:54.297711+00:00"
   },
   {
     "symbol": "HBAR",
@@ -1401,7 +1401,7 @@
     "binance_symbol": "HBARUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/hedera-hashgraph",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501502+00:00"
+    "discovered_at": "2026-08-17T21:59:54.297814+00:00"
   },
   {
     "symbol": "HEI",
@@ -1410,7 +1410,7 @@
     "binance_symbol": "HEIUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/heima",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501511+00:00"
+    "discovered_at": "2026-08-17T21:59:54.297821+00:00"
   },
   {
     "symbol": "HFT",
@@ -1419,7 +1419,7 @@
     "binance_symbol": "HFTUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/hashflow",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501494+00:00"
+    "discovered_at": "2026-08-17T21:59:54.297808+00:00"
   },
   {
     "symbol": "HIFI",
@@ -1428,7 +1428,7 @@
     "binance_symbol": "HIFIUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/hifi-finance",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501525+00:00"
+    "discovered_at": "2026-08-17T21:59:54.297835+00:00"
   },
   {
     "symbol": "HIGH",
@@ -1437,7 +1437,7 @@
     "binance_symbol": "HIGHUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/highstreet",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501531+00:00"
+    "discovered_at": "2026-08-17T21:59:54.297842+00:00"
   },
   {
     "symbol": "HIVE",
@@ -1446,7 +1446,7 @@
     "binance_symbol": "HIVEUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/hive",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501538+00:00"
+    "discovered_at": "2026-08-17T21:59:54.297848+00:00"
   },
   {
     "symbol": "HMSTR",
@@ -1455,7 +1455,7 @@
     "binance_symbol": "HMSTRUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/hamster-kombat",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501465+00:00"
+    "discovered_at": "2026-08-17T21:59:54.297773+00:00"
   },
   {
     "symbol": "HNT",
@@ -1464,7 +1464,7 @@
     "binance_symbol": "HNTUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/helium",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501518+00:00"
+    "discovered_at": "2026-08-17T21:59:54.297828+00:00"
   },
   {
     "symbol": "HOOK",
@@ -1473,7 +1473,7 @@
     "binance_symbol": "HOOKUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/hooked-protocol",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501552+00:00"
+    "discovered_at": "2026-08-17T21:59:54.297861+00:00"
   },
   {
     "symbol": "HPP",
@@ -1482,7 +1482,7 @@
     "binance_symbol": "HPPUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/house-party-protocol",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501570+00:00"
+    "discovered_at": "2026-08-17T21:59:54.297880+00:00"
   },
   {
     "symbol": "HYPE",
@@ -1491,7 +1491,7 @@
     "binance_symbol": "HYPEUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/hyperliquid",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501577+00:00"
+    "discovered_at": "2026-08-17T21:59:54.297887+00:00"
   },
   {
     "symbol": "ICP",
@@ -1500,7 +1500,7 @@
     "binance_symbol": "ICPUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/internet-computer",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501631+00:00"
+    "discovered_at": "2026-08-17T21:59:54.297941+00:00"
   },
   {
     "symbol": "ICX",
@@ -1509,7 +1509,7 @@
     "binance_symbol": "ICXUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/icon",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501583+00:00"
+    "discovered_at": "2026-08-17T21:59:54.297894+00:00"
   },
   {
     "symbol": "ID",
@@ -1518,7 +1518,7 @@
     "binance_symbol": "IDUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/space-id",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.503027+00:00"
+    "discovered_at": "2026-08-17T21:59:54.299307+00:00"
   },
   {
     "symbol": "IDEX",
@@ -1527,7 +1527,7 @@
     "binance_symbol": "IDEXUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/idex",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501594+00:00"
+    "discovered_at": "2026-08-17T21:59:54.297903+00:00"
   },
   {
     "symbol": "ILV",
@@ -1536,7 +1536,7 @@
     "binance_symbol": "ILVUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/illuvium",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501607+00:00"
+    "discovered_at": "2026-08-17T21:59:54.297917+00:00"
   },
   {
     "symbol": "IMX",
@@ -1545,7 +1545,7 @@
     "binance_symbol": "IMXUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/immutable-x",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501614+00:00"
+    "discovered_at": "2026-08-17T21:59:54.297924+00:00"
   },
   {
     "symbol": "INJ",
@@ -1554,7 +1554,7 @@
     "binance_symbol": "INJUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/injective-protocol",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501620+00:00"
+    "discovered_at": "2026-08-17T21:59:54.297931+00:00"
   },
   {
     "symbol": "IO",
@@ -1563,7 +1563,7 @@
     "binance_symbol": "IOUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/io-net",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501641+00:00"
+    "discovered_at": "2026-08-17T21:59:54.297951+00:00"
   },
   {
     "symbol": "IOST",
@@ -1572,7 +1572,7 @@
     "binance_symbol": "IOSTUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/iost",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501653+00:00"
+    "discovered_at": "2026-08-17T21:59:54.297963+00:00"
   },
   {
     "symbol": "IOTA",
@@ -1581,7 +1581,7 @@
     "binance_symbol": "IOTAUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/iota",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501660+00:00"
+    "discovered_at": "2026-08-17T21:59:54.297969+00:00"
   },
   {
     "symbol": "IOTX",
@@ -1590,7 +1590,7 @@
     "binance_symbol": "IOTXUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/iotex",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501666+00:00"
+    "discovered_at": "2026-08-17T21:59:54.297976+00:00"
   },
   {
     "symbol": "IRIS",
@@ -1599,7 +1599,7 @@
     "binance_symbol": "IRISUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/irisnet",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501676+00:00"
+    "discovered_at": "2026-08-17T21:59:54.297983+00:00"
   },
   {
     "symbol": "JASMY",
@@ -1608,7 +1608,7 @@
     "binance_symbol": "JASMYUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/jasmycoin",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501682+00:00"
+    "discovered_at": "2026-08-17T21:59:54.297991+00:00"
   },
   {
     "symbol": "JOE",
@@ -1617,7 +1617,7 @@
     "binance_symbol": "JOEUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/joe",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501698+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298006+00:00"
   },
   {
     "symbol": "JST",
@@ -1626,7 +1626,7 @@
     "binance_symbol": "JSTUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/just",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501711+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298036+00:00"
   },
   {
     "symbol": "JTO",
@@ -1635,7 +1635,7 @@
     "binance_symbol": "JTOUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/jito",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501691+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298000+00:00"
   },
   {
     "symbol": "JUP",
@@ -1644,7 +1644,7 @@
     "binance_symbol": "JUPUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/jupiter",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501705+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298029+00:00"
   },
   {
     "symbol": "JUV",
@@ -1653,7 +1653,7 @@
     "binance_symbol": "JUVUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/juventus-fan-token",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501725+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298053+00:00"
   },
   {
     "symbol": "KAIA",
@@ -1662,7 +1662,7 @@
     "binance_symbol": "KAIAUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/kaia",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501732+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298060+00:00"
   },
   {
     "symbol": "KAS",
@@ -1671,7 +1671,7 @@
     "binance_symbol": "KASUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/kaspa",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501741+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298067+00:00"
   },
   {
     "symbol": "KAVA",
@@ -1680,7 +1680,7 @@
     "binance_symbol": "KAVAUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/kava",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501748+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298073+00:00"
   },
   {
     "symbol": "KITE",
@@ -1689,7 +1689,7 @@
     "binance_symbol": "KITEUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/kite",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501756+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298080+00:00"
   },
   {
     "symbol": "KLAY",
@@ -1698,7 +1698,7 @@
     "binance_symbol": "KLAYUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/klaytn",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501764+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298088+00:00"
   },
   {
     "symbol": "KMD",
@@ -1707,7 +1707,7 @@
     "binance_symbol": "KMDUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/komodo",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501771+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298096+00:00"
   },
   {
     "symbol": "KNCL",
@@ -1716,7 +1716,7 @@
     "binance_symbol": "KNCLUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/kyber-network",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501787+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298113+00:00"
   },
   {
     "symbol": "KSM",
@@ -1725,7 +1725,7 @@
     "binance_symbol": "KSMUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/kusama",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501778+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298104+00:00"
   },
   {
     "symbol": "L3",
@@ -1734,7 +1734,7 @@
     "binance_symbol": "L3USDT",
     "swyftx_url": "https://swyftx.com/au/buy/layer-3",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501795+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298122+00:00"
   },
   {
     "symbol": "LDO",
@@ -1743,7 +1743,7 @@
     "binance_symbol": "LDOUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/lido-dao",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501816+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298141+00:00"
   },
   {
     "symbol": "LINK",
@@ -1752,7 +1752,7 @@
     "binance_symbol": "LINKUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/chainlink",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.500798+00:00"
+    "discovered_at": "2026-08-17T21:59:54.297107+00:00"
   },
   {
     "symbol": "LISTA",
@@ -1761,7 +1761,7 @@
     "binance_symbol": "LISTAUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/lista-dao",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501844+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298170+00:00"
   },
   {
     "symbol": "LIT",
@@ -1770,7 +1770,7 @@
     "binance_symbol": "LITUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/litentry",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501857+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298184+00:00"
   },
   {
     "symbol": "LPT",
@@ -1779,7 +1779,7 @@
     "binance_symbol": "LPTUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/livepeer",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501864+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298191+00:00"
   },
   {
     "symbol": "LQTY",
@@ -1788,7 +1788,7 @@
     "binance_symbol": "LQTYUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/liquity",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501828+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298153+00:00"
   },
   {
     "symbol": "LRC",
@@ -1797,7 +1797,7 @@
     "binance_symbol": "LRCUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/loopring",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501879+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298206+00:00"
   },
   {
     "symbol": "LSK",
@@ -1806,7 +1806,7 @@
     "binance_symbol": "LSKUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/lisk",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501835+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298161+00:00"
   },
   {
     "symbol": "LTC",
@@ -1815,7 +1815,7 @@
     "binance_symbol": "LTCUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/litecoin",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501851+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298176+00:00"
   },
   {
     "symbol": "LUMIA",
@@ -1824,7 +1824,7 @@
     "binance_symbol": "LUMIAUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/lumia",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501894+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298221+00:00"
   },
   {
     "symbol": "LUNA",
@@ -1833,7 +1833,7 @@
     "binance_symbol": "LUNAUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/terra",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.503249+00:00"
+    "discovered_at": "2026-08-17T21:59:54.299527+00:00"
   },
   {
     "symbol": "MAGIC",
@@ -1842,7 +1842,7 @@
     "binance_symbol": "MAGICUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/magic",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501901+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298228+00:00"
   },
   {
     "symbol": "MANA",
@@ -1851,7 +1851,7 @@
     "binance_symbol": "MANAUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/decentraland",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.500979+00:00"
+    "discovered_at": "2026-08-17T21:59:54.297292+00:00"
   },
   {
     "symbol": "MANTRA",
@@ -1860,7 +1860,7 @@
     "binance_symbol": "MANTRAUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/mantra",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501922+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298248+00:00"
   },
   {
     "symbol": "MASK",
@@ -1869,7 +1869,7 @@
     "binance_symbol": "MASKUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/mask-network",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501954+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298282+00:00"
   },
   {
     "symbol": "MATIC",
@@ -1878,7 +1878,7 @@
     "binance_symbol": "MATICUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/polygon",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.502552+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298854+00:00"
   },
   {
     "symbol": "MBL",
@@ -1887,7 +1887,7 @@
     "binance_symbol": "MBLUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/moviebloc",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.502152+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298447+00:00"
   },
   {
     "symbol": "MBOX",
@@ -1896,7 +1896,7 @@
     "binance_symbol": "MBOXUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/mobox",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.502094+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298391+00:00"
   },
   {
     "symbol": "MDT",
@@ -1905,7 +1905,7 @@
     "binance_symbol": "MDTUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/measurable-data-token",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501974+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298301+00:00"
   },
   {
     "symbol": "MELANIA",
@@ -1914,7 +1914,7 @@
     "binance_symbol": "MELANIAUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/melania-meme",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501981+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298308+00:00"
   },
   {
     "symbol": "MERL",
@@ -1923,7 +1923,7 @@
     "binance_symbol": "MERLUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/merlin-chain",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.502021+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298321+00:00"
   },
   {
     "symbol": "MET",
@@ -1932,7 +1932,7 @@
     "binance_symbol": "METUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/meteora",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.502078+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298376+00:00"
   },
   {
     "symbol": "METIS",
@@ -1941,7 +1941,7 @@
     "binance_symbol": "METISUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/metis",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.502088+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298384+00:00"
   },
   {
     "symbol": "MEW",
@@ -1950,7 +1950,7 @@
     "binance_symbol": "MEWUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/cat-in-a-dogs-world",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.500753+00:00"
+    "discovered_at": "2026-08-17T21:59:54.297063+00:00"
   },
   {
     "symbol": "MKR",
@@ -1959,7 +1959,7 @@
     "binance_symbol": "MKRUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/maker",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501908+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298235+00:00"
   },
   {
     "symbol": "MLN",
@@ -1968,7 +1968,7 @@
     "binance_symbol": "MLNUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/enzyme",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501179+00:00"
+    "discovered_at": "2026-08-17T21:59:54.297480+00:00"
   },
   {
     "symbol": "MNT",
@@ -1977,7 +1977,7 @@
     "binance_symbol": "MNTUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/mantle",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501916+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298241+00:00"
   },
   {
     "symbol": "MOG",
@@ -1986,7 +1986,7 @@
     "binance_symbol": "MOGUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/mog-coin",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.502102+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298398+00:00"
   },
   {
     "symbol": "MON",
@@ -1995,7 +1995,7 @@
     "binance_symbol": "MONUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/monad",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.502108+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298405+00:00"
   },
   {
     "symbol": "MOODENG",
@@ -2004,7 +2004,7 @@
     "binance_symbol": "MOODENGUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/moo-deng",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.502116+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298412+00:00"
   },
   {
     "symbol": "MORPHO",
@@ -2013,7 +2013,7 @@
     "binance_symbol": "MORPHOUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/morpho",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.502138+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298432+00:00"
   },
   {
     "symbol": "MOVE",
@@ -2022,7 +2022,7 @@
     "binance_symbol": "MOVEUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/movement",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.502145+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298438+00:00"
   },
   {
     "symbol": "MOVR",
@@ -2031,7 +2031,7 @@
     "binance_symbol": "MOVRUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/moonriver",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.502129+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298425+00:00"
   },
   {
     "symbol": "MPLX",
@@ -2040,7 +2040,7 @@
     "binance_symbol": "MPLXUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/metaplex",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.502038+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298335+00:00"
   },
   {
     "symbol": "MTL",
@@ -2049,7 +2049,7 @@
     "binance_symbol": "MTLUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/metal",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.502031+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298328+00:00"
   },
   {
     "symbol": "NAKA",
@@ -2058,7 +2058,7 @@
     "binance_symbol": "NAKAUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/nakamoto-games",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.502166+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298462+00:00"
   },
   {
     "symbol": "NAVX",
@@ -2067,7 +2067,7 @@
     "binance_symbol": "NAVXUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/navi-protocol",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.502184+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298481+00:00"
   },
   {
     "symbol": "NEAR",
@@ -2076,7 +2076,7 @@
     "binance_symbol": "NEARUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/near-protocol",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.502192+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298489+00:00"
   },
   {
     "symbol": "NEO",
@@ -2085,7 +2085,7 @@
     "binance_symbol": "NEOUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/neo",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.502208+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298506+00:00"
   },
   {
     "symbol": "NEXO",
@@ -2094,7 +2094,7 @@
     "binance_symbol": "NEXOUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/nexo",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.502250+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298550+00:00"
   },
   {
     "symbol": "NFP",
@@ -2103,7 +2103,7 @@
     "binance_symbol": "NFPUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/nfprompt",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.502258+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298559+00:00"
   },
   {
     "symbol": "NKN",
@@ -2112,7 +2112,7 @@
     "binance_symbol": "NKNUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/nkn",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.502267+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298568+00:00"
   },
   {
     "symbol": "NMR",
@@ -2121,7 +2121,7 @@
     "binance_symbol": "NMRUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/numeraire",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.502293+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298595+00:00"
   },
   {
     "symbol": "NMT",
@@ -2130,7 +2130,7 @@
     "binance_symbol": "NMTUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/netmind-token",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.502228+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298527+00:00"
   },
   {
     "symbol": "NOM",
@@ -2139,7 +2139,7 @@
     "binance_symbol": "NOMUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/nomina",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.502274+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298575+00:00"
   },
   {
     "symbol": "NOT",
@@ -2148,7 +2148,7 @@
     "binance_symbol": "NOTUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/notcoin",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.502281+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298582+00:00"
   },
   {
     "symbol": "NTRN",
@@ -2157,7 +2157,7 @@
     "binance_symbol": "NTRNUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/neutron",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.502237+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298535+00:00"
   },
   {
     "symbol": "NYAN",
@@ -2166,7 +2166,7 @@
     "binance_symbol": "NYANUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/nyan-heroes",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.502302+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298605+00:00"
   },
   {
     "symbol": "OG",
@@ -2175,7 +2175,7 @@
     "binance_symbol": "OGUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/og-fan-token",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.502322+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298624+00:00"
   },
   {
     "symbol": "OGN",
@@ -2184,7 +2184,7 @@
     "binance_symbol": "OGNUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/origin-protocol",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.502412+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298715+00:00"
   },
   {
     "symbol": "OMG",
@@ -2193,7 +2193,7 @@
     "binance_symbol": "OMGUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/omg-network",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.502331+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298633+00:00"
   },
   {
     "symbol": "OMNI",
@@ -2202,7 +2202,7 @@
     "binance_symbol": "OMNIUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/omni-network",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.502338+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298640+00:00"
   },
   {
     "symbol": "ONDO",
@@ -2211,7 +2211,7 @@
     "binance_symbol": "ONDOUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/ondo",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.502347+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298648+00:00"
   },
   {
     "symbol": "ONE",
@@ -2220,7 +2220,7 @@
     "binance_symbol": "ONEUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/harmony",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501481+00:00"
+    "discovered_at": "2026-08-17T21:59:54.297794+00:00"
   },
   {
     "symbol": "ONG",
@@ -2229,7 +2229,7 @@
     "binance_symbol": "ONGUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/ontology-gas",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.502364+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298667+00:00"
   },
   {
     "symbol": "ONT",
@@ -2238,7 +2238,7 @@
     "binance_symbol": "ONTUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/ontology",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.502356+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298657+00:00"
   },
   {
     "symbol": "OP",
@@ -2247,7 +2247,7 @@
     "binance_symbol": "OPUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/optimism",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.502392+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298695+00:00"
   },
   {
     "symbol": "ORDI",
@@ -2256,7 +2256,7 @@
     "binance_symbol": "ORDIUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/ordinals",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.502405+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298708+00:00"
   },
   {
     "symbol": "OSMO",
@@ -2265,7 +2265,7 @@
     "binance_symbol": "OSMOUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/osmosis",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.502425+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298728+00:00"
   },
   {
     "symbol": "PAAL",
@@ -2274,7 +2274,7 @@
     "binance_symbol": "PAALUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/paal-ai",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.502432+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298736+00:00"
   },
   {
     "symbol": "PDA",
@@ -2283,7 +2283,7 @@
     "binance_symbol": "PDAUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/playdapp",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.502517+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298824+00:00"
   },
   {
     "symbol": "PEAQ",
@@ -2292,7 +2292,7 @@
     "binance_symbol": "PEAQUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/peaq",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.502470+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298775+00:00"
   },
   {
     "symbol": "PENDLE",
@@ -2301,7 +2301,7 @@
     "binance_symbol": "PENDLEUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/pendle",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.502477+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298782+00:00"
   },
   {
     "symbol": "PENGU",
@@ -2310,7 +2310,7 @@
     "binance_symbol": "PENGUUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/pudgy-penguins",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.502605+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298910+00:00"
   },
   {
     "symbol": "PEOPLE",
@@ -2319,7 +2319,7 @@
     "binance_symbol": "PEOPLEUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/constitution-dao",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.500891+00:00"
+    "discovered_at": "2026-08-17T21:59:54.297203+00:00"
   },
   {
     "symbol": "PEPE",
@@ -2328,7 +2328,7 @@
     "binance_symbol": "PEPEUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/pepe",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.502484+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298789+00:00"
   },
   {
     "symbol": "PERP",
@@ -2337,7 +2337,7 @@
     "binance_symbol": "PERPUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/perpetual-protocol",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.502491+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298797+00:00"
   },
   {
     "symbol": "PIXEL",
@@ -2346,7 +2346,7 @@
     "binance_symbol": "PIXELUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/pixels",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.502503+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298810+00:00"
   },
   {
     "symbol": "PLUME",
@@ -2355,7 +2355,7 @@
     "binance_symbol": "PLUMEUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/plume",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.502526+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298833+00:00"
   },
   {
     "symbol": "PNUT",
@@ -2364,7 +2364,7 @@
     "binance_symbol": "PNUTUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/peanut-the-squirrel",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.502461+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298765+00:00"
   },
   {
     "symbol": "POLS",
@@ -2373,7 +2373,7 @@
     "binance_symbol": "POLSUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/polkastarter",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.502545+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298847+00:00"
   },
   {
     "symbol": "POLYX",
@@ -2382,7 +2382,7 @@
     "binance_symbol": "POLYXUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/polymesh",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.502559+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298861+00:00"
   },
   {
     "symbol": "POND",
@@ -2391,7 +2391,7 @@
     "binance_symbol": "PONDUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/marlin",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501945+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298272+00:00"
   },
   {
     "symbol": "PONKE",
@@ -2400,7 +2400,7 @@
     "binance_symbol": "PONKEUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/ponke",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.502566+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298868+00:00"
   },
   {
     "symbol": "POPCAT",
@@ -2409,7 +2409,7 @@
     "binance_symbol": "POPCATUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/popcat",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.502573+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298875+00:00"
   },
   {
     "symbol": "PORTAL",
@@ -2418,7 +2418,7 @@
     "binance_symbol": "PORTALUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/portal",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.502584+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298884+00:00"
   },
   {
     "symbol": "POWR",
@@ -2427,7 +2427,7 @@
     "binance_symbol": "POWRUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/power-ledger",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.502591+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298893+00:00"
   },
   {
     "symbol": "PRCL",
@@ -2436,7 +2436,7 @@
     "binance_symbol": "PRCLUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/parcl",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.502448+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298751+00:00"
   },
   {
     "symbol": "PRIME",
@@ -2445,7 +2445,7 @@
     "binance_symbol": "PRIMEUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/echelon-prime",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501134+00:00"
+    "discovered_at": "2026-08-17T21:59:54.297437+00:00"
   },
   {
     "symbol": "PROM",
@@ -2454,7 +2454,7 @@
     "binance_symbol": "PROMUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/prometeus",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.502598+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298901+00:00"
   },
   {
     "symbol": "PSG",
@@ -2463,7 +2463,7 @@
     "binance_symbol": "PSGUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/paris-saint-germain-fan-token",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.502455+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298758+00:00"
   },
   {
     "symbol": "PUMP",
@@ -2472,7 +2472,7 @@
     "binance_symbol": "PUMPUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/pump-fun",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.502612+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298918+00:00"
   },
   {
     "symbol": "PUNDIX",
@@ -2481,7 +2481,7 @@
     "binance_symbol": "PUNDIXUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/pundi-x",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.502621+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298927+00:00"
   },
   {
     "symbol": "PYR",
@@ -2490,7 +2490,7 @@
     "binance_symbol": "PYRUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/vulcan-forged",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.503540+00:00"
+    "discovered_at": "2026-08-17T21:59:54.299820+00:00"
   },
   {
     "symbol": "PYTH",
@@ -2499,7 +2499,7 @@
     "binance_symbol": "PYTHUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/pyth-network",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.502628+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298934+00:00"
   },
   {
     "symbol": "QI",
@@ -2508,7 +2508,7 @@
     "binance_symbol": "QIUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/benqi",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.500541+00:00"
+    "discovered_at": "2026-08-17T21:59:54.296833+00:00"
   },
   {
     "symbol": "QKC",
@@ -2517,7 +2517,7 @@
     "binance_symbol": "QKCUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/quarkchain",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.502652+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298959+00:00"
   },
   {
     "symbol": "QNT",
@@ -2526,7 +2526,7 @@
     "binance_symbol": "QNTUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/quant",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.502644+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298950+00:00"
   },
   {
     "symbol": "QTUM",
@@ -2535,7 +2535,7 @@
     "binance_symbol": "QTUMUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/qtum",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.502635+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298942+00:00"
   },
   {
     "symbol": "QUICK",
@@ -2544,7 +2544,7 @@
     "binance_symbol": "QUICKUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/quickswap",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.502659+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298968+00:00"
   },
   {
     "symbol": "RAD",
@@ -2553,7 +2553,7 @@
     "binance_symbol": "RADUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/radicle",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.502675+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298983+00:00"
   },
   {
     "symbol": "RARE",
@@ -2562,7 +2562,7 @@
     "binance_symbol": "RAREUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/superrare",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.503177+00:00"
+    "discovered_at": "2026-08-17T21:59:54.299456+00:00"
   },
   {
     "symbol": "RATS",
@@ -2571,7 +2571,7 @@
     "binance_symbol": "RATSUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/rats",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.502689+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298997+00:00"
   },
   {
     "symbol": "RAY",
@@ -2580,7 +2580,7 @@
     "binance_symbol": "RAYUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/raydium",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.502703+00:00"
+    "discovered_at": "2026-08-17T21:59:54.299011+00:00"
   },
   {
     "symbol": "RBNT",
@@ -2589,7 +2589,7 @@
     "binance_symbol": "RBNTUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/redbelly-network",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.502720+00:00"
+    "discovered_at": "2026-08-17T21:59:54.299040+00:00"
   },
   {
     "symbol": "RDNT",
@@ -2598,7 +2598,7 @@
     "binance_symbol": "RDNTUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/radiant-capital",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.502666+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298975+00:00"
   },
   {
     "symbol": "RE",
@@ -2607,7 +2607,7 @@
     "binance_symbol": "REUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/re",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.502710+00:00"
+    "discovered_at": "2026-08-17T21:59:54.299030+00:00"
   },
   {
     "symbol": "REI",
@@ -2616,7 +2616,7 @@
     "binance_symbol": "REIUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/rei",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.502739+00:00"
+    "discovered_at": "2026-08-17T21:59:54.299056+00:00"
   },
   {
     "symbol": "REN",
@@ -2625,7 +2625,7 @@
     "binance_symbol": "RENUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/ren",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.502747+00:00"
+    "discovered_at": "2026-08-17T21:59:54.299064+00:00"
   },
   {
     "symbol": "RENDER",
@@ -2634,7 +2634,7 @@
     "binance_symbol": "RENDERUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/render",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.502755+00:00"
+    "discovered_at": "2026-08-17T21:59:54.299072+00:00"
   },
   {
     "symbol": "REP",
@@ -2643,7 +2643,7 @@
     "binance_symbol": "REPUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/augur",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.500391+00:00"
+    "discovered_at": "2026-08-17T21:59:54.296674+00:00"
   },
   {
     "symbol": "REQ",
@@ -2652,7 +2652,7 @@
     "binance_symbol": "REQUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/request-network",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.502769+00:00"
+    "discovered_at": "2026-08-17T21:59:54.299087+00:00"
   },
   {
     "symbol": "REZ",
@@ -2661,7 +2661,7 @@
     "binance_symbol": "REZUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/renzo",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.502763+00:00"
+    "discovered_at": "2026-08-17T21:59:54.299079+00:00"
   },
   {
     "symbol": "RLC",
@@ -2670,7 +2670,7 @@
     "binance_symbol": "RLCUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/iexec-rlc",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501600+00:00"
+    "discovered_at": "2026-08-17T21:59:54.297910+00:00"
   },
   {
     "symbol": "RON",
@@ -2679,7 +2679,7 @@
     "binance_symbol": "RONUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/ronin",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.502792+00:00"
+    "discovered_at": "2026-08-17T21:59:54.299111+00:00"
   },
   {
     "symbol": "ROSE",
@@ -2688,7 +2688,7 @@
     "binance_symbol": "ROSEUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/oasis-network",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.502309+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298611+00:00"
   },
   {
     "symbol": "RPL",
@@ -2697,7 +2697,7 @@
     "binance_symbol": "RPLUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/rocket-pool",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.502785+00:00"
+    "discovered_at": "2026-08-17T21:59:54.299105+00:00"
   },
   {
     "symbol": "RSR",
@@ -2706,7 +2706,7 @@
     "binance_symbol": "RSRUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/reserve-rights",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.502778+00:00"
+    "discovered_at": "2026-08-17T21:59:54.299098+00:00"
   },
   {
     "symbol": "RSS3",
@@ -2715,7 +2715,7 @@
     "binance_symbol": "RSS3USDT",
     "swyftx_url": "https://swyftx.com/au/buy/rss3",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.502806+00:00"
+    "discovered_at": "2026-08-17T21:59:54.299125+00:00"
   },
   {
     "symbol": "RUNE",
@@ -2724,7 +2724,7 @@
     "binance_symbol": "RUNEUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/thorchain",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.503313+00:00"
+    "discovered_at": "2026-08-17T21:59:54.299590+00:00"
   },
   {
     "symbol": "RVN",
@@ -2733,7 +2733,7 @@
     "binance_symbol": "RVNUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/ravencoin",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.502697+00:00"
+    "discovered_at": "2026-08-17T21:59:54.299004+00:00"
   },
   {
     "symbol": "S",
@@ -2742,7 +2742,7 @@
     "binance_symbol": "SUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/sonic",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.503020+00:00"
+    "discovered_at": "2026-08-17T21:59:54.299300+00:00"
   },
   {
     "symbol": "SAFE",
@@ -2751,7 +2751,7 @@
     "binance_symbol": "SAFEUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/safe",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.502819+00:00"
+    "discovered_at": "2026-08-17T21:59:54.299139+00:00"
   },
   {
     "symbol": "SAGA",
@@ -2760,7 +2760,7 @@
     "binance_symbol": "SAGAUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/saga",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.502835+00:00"
+    "discovered_at": "2026-08-17T21:59:54.299155+00:00"
   },
   {
     "symbol": "SAND",
@@ -2769,7 +2769,7 @@
     "binance_symbol": "SANDUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/the-sandbox",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.503293+00:00"
+    "discovered_at": "2026-08-17T21:59:54.299571+00:00"
   },
   {
     "symbol": "SC",
@@ -2778,7 +2778,7 @@
     "binance_symbol": "SCUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/siacoin",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.502933+00:00"
+    "discovered_at": "2026-08-17T21:59:54.299232+00:00"
   },
   {
     "symbol": "SCA",
@@ -2787,7 +2787,7 @@
     "binance_symbol": "SCAUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/scallop",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.502848+00:00"
+    "discovered_at": "2026-08-17T21:59:54.299168+00:00"
   },
   {
     "symbol": "SCR",
@@ -2796,7 +2796,7 @@
     "binance_symbol": "SCRUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/scroll",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.502857+00:00"
+    "discovered_at": "2026-08-17T21:59:54.299178+00:00"
   },
   {
     "symbol": "SCRT",
@@ -2805,7 +2805,7 @@
     "binance_symbol": "SCRTUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/secret",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.502864+00:00"
+    "discovered_at": "2026-08-17T21:59:54.299185+00:00"
   },
   {
     "symbol": "SEI",
@@ -2814,7 +2814,7 @@
     "binance_symbol": "SEIUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/sei",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.502873+00:00"
+    "discovered_at": "2026-08-17T21:59:54.299195+00:00"
   },
   {
     "symbol": "SENT",
@@ -2823,7 +2823,7 @@
     "binance_symbol": "SENTUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/sentient",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.502898+00:00"
+    "discovered_at": "2026-08-17T21:59:54.299210+00:00"
   },
   {
     "symbol": "SFP",
@@ -2832,7 +2832,7 @@
     "binance_symbol": "SFPUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/safepal",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.502826+00:00"
+    "discovered_at": "2026-08-17T21:59:54.299146+00:00"
   },
   {
     "symbol": "SHIB",
@@ -2841,7 +2841,7 @@
     "binance_symbol": "SHIBUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/shiba-inu",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.502921+00:00"
+    "discovered_at": "2026-08-17T21:59:54.299225+00:00"
   },
   {
     "symbol": "SKL",
@@ -2850,7 +2850,7 @@
     "binance_symbol": "SKLUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/skale",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.502951+00:00"
+    "discovered_at": "2026-08-17T21:59:54.299247+00:00"
   },
   {
     "symbol": "SKY",
@@ -2859,7 +2859,7 @@
     "binance_symbol": "SKYUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/sky",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.502958+00:00"
+    "discovered_at": "2026-08-17T21:59:54.299254+00:00"
   },
   {
     "symbol": "SLERF",
@@ -2868,7 +2868,7 @@
     "binance_symbol": "SLERFUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/slerf",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.502971+00:00"
+    "discovered_at": "2026-08-17T21:59:54.299270+00:00"
   },
   {
     "symbol": "SLF",
@@ -2877,7 +2877,7 @@
     "binance_symbol": "SLFUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/self-chain",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.502887+00:00"
+    "discovered_at": "2026-08-17T21:59:54.299203+00:00"
   },
   {
     "symbol": "SLP",
@@ -2886,7 +2886,7 @@
     "binance_symbol": "SLPUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/smooth-love-potion",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.502978+00:00"
+    "discovered_at": "2026-08-17T21:59:54.299277+00:00"
   },
   {
     "symbol": "SNEK",
@@ -2895,7 +2895,7 @@
     "binance_symbol": "SNEKUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/snek",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.503001+00:00"
+    "discovered_at": "2026-08-17T21:59:54.299284+00:00"
   },
   {
     "symbol": "SNT",
@@ -2904,7 +2904,7 @@
     "binance_symbol": "SNTUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/status",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.503093+00:00"
+    "discovered_at": "2026-08-17T21:59:54.299372+00:00"
   },
   {
     "symbol": "SOL",
@@ -2913,7 +2913,7 @@
     "binance_symbol": "SOLUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/solana",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.503010+00:00"
+    "discovered_at": "2026-08-17T21:59:54.299290+00:00"
   },
   {
     "symbol": "SPELL",
@@ -2922,7 +2922,7 @@
     "binance_symbol": "SPELLUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/spell-token",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.503034+00:00"
+    "discovered_at": "2026-08-17T21:59:54.299314+00:00"
   },
   {
     "symbol": "SPX",
@@ -2931,7 +2931,7 @@
     "binance_symbol": "SPXUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/spx6900",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.503043+00:00"
+    "discovered_at": "2026-08-17T21:59:54.299323+00:00"
   },
   {
     "symbol": "SSV",
@@ -2940,7 +2940,7 @@
     "binance_symbol": "SSVUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/ssv-network",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.503052+00:00"
+    "discovered_at": "2026-08-17T21:59:54.299330+00:00"
   },
   {
     "symbol": "STARGATE",
@@ -2949,7 +2949,7 @@
     "binance_symbol": "STARGATEUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/stargate",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.503078+00:00"
+    "discovered_at": "2026-08-17T21:59:54.299358+00:00"
   },
   {
     "symbol": "STEEM",
@@ -2958,7 +2958,7 @@
     "binance_symbol": "STEEMUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/steem",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.503099+00:00"
+    "discovered_at": "2026-08-17T21:59:54.299379+00:00"
   },
   {
     "symbol": "STMX",
@@ -2967,7 +2967,7 @@
     "binance_symbol": "STMXUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/stormx",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.503128+00:00"
+    "discovered_at": "2026-08-17T21:59:54.299407+00:00"
   },
   {
     "symbol": "STORJ",
@@ -2976,7 +2976,7 @@
     "binance_symbol": "STORJUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/storj",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.503120+00:00"
+    "discovered_at": "2026-08-17T21:59:54.299399+00:00"
   },
   {
     "symbol": "STRAX",
@@ -2985,7 +2985,7 @@
     "binance_symbol": "STRAXUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/stratis",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.503138+00:00"
+    "discovered_at": "2026-08-17T21:59:54.299416+00:00"
   },
   {
     "symbol": "STRK",
@@ -2994,7 +2994,7 @@
     "binance_symbol": "STRKUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/starknet",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.503085+00:00"
+    "discovered_at": "2026-08-17T21:59:54.299365+00:00"
   },
   {
     "symbol": "SUI",
@@ -3003,7 +3003,7 @@
     "binance_symbol": "SUIUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/sui",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.503151+00:00"
+    "discovered_at": "2026-08-17T21:59:54.299429+00:00"
   },
   {
     "symbol": "SUNDOG",
@@ -3012,7 +3012,7 @@
     "binance_symbol": "SUNDOGUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/sundog",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.503163+00:00"
+    "discovered_at": "2026-08-17T21:59:54.299441+00:00"
   },
   {
     "symbol": "SUPER",
@@ -3021,7 +3021,7 @@
     "binance_symbol": "SUPERUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/superfarm",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.503170+00:00"
+    "discovered_at": "2026-08-17T21:59:54.299449+00:00"
   },
   {
     "symbol": "SWELL",
@@ -3030,7 +3030,7 @@
     "binance_symbol": "SWELLUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/swell-network",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.503189+00:00"
+    "discovered_at": "2026-08-17T21:59:54.299469+00:00"
   },
   {
     "symbol": "SXP",
@@ -3039,7 +3039,7 @@
     "binance_symbol": "SXPUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/swipe",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.503196+00:00"
+    "discovered_at": "2026-08-17T21:59:54.299476+00:00"
   },
   {
     "symbol": "SYN",
@@ -3048,7 +3048,7 @@
     "binance_symbol": "SYNUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/synapse",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.503205+00:00"
+    "discovered_at": "2026-08-17T21:59:54.299484+00:00"
   },
   {
     "symbol": "SYRUP",
@@ -3057,7 +3057,7 @@
     "binance_symbol": "SYRUPUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/maple-finance",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501938+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298265+00:00"
   },
   {
     "symbol": "SYS",
@@ -3066,7 +3066,7 @@
     "binance_symbol": "SYSUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/syscoin",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.503218+00:00"
+    "discovered_at": "2026-08-17T21:59:54.299497+00:00"
   },
   {
     "symbol": "TAIKO",
@@ -3075,7 +3075,7 @@
     "binance_symbol": "TAIKOUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/taiko",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.503225+00:00"
+    "discovered_at": "2026-08-17T21:59:54.299503+00:00"
   },
   {
     "symbol": "TAO",
@@ -3084,7 +3084,7 @@
     "binance_symbol": "TAOUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/bittensor",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.500619+00:00"
+    "discovered_at": "2026-08-17T21:59:54.296913+00:00"
   },
   {
     "symbol": "TFUEL",
@@ -3093,7 +3093,7 @@
     "binance_symbol": "TFUELUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/theta-fuel",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.503306+00:00"
+    "discovered_at": "2026-08-17T21:59:54.299583+00:00"
   },
   {
     "symbol": "TIA",
@@ -3102,7 +3102,7 @@
     "binance_symbol": "TIAUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/celestia",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.500778+00:00"
+    "discovered_at": "2026-08-17T21:59:54.297087+00:00"
   },
   {
     "symbol": "TKO",
@@ -3111,7 +3111,7 @@
     "binance_symbol": "TKOUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/tokocrypto",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.503325+00:00"
+    "discovered_at": "2026-08-17T21:59:54.299603+00:00"
   },
   {
     "symbol": "TLM",
@@ -3120,7 +3120,7 @@
     "binance_symbol": "TLMUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/alien-worlds",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.500196+00:00"
+    "discovered_at": "2026-08-17T21:59:54.296468+00:00"
   },
   {
     "symbol": "TNSR",
@@ -3129,7 +3129,7 @@
     "binance_symbol": "TNSRUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/tensor",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.503241+00:00"
+    "discovered_at": "2026-08-17T21:59:54.299519+00:00"
   },
   {
     "symbol": "TOSHI",
@@ -3138,7 +3138,7 @@
     "binance_symbol": "TOSHIUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/toshi",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.503339+00:00"
+    "discovered_at": "2026-08-17T21:59:54.299618+00:00"
   },
   {
     "symbol": "TRAC",
@@ -3147,7 +3147,7 @@
     "binance_symbol": "TRACUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/origintrail",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.502418+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298721+00:00"
   },
   {
     "symbol": "TRB",
@@ -3156,7 +3156,7 @@
     "binance_symbol": "TRBUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/tellor",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.503234+00:00"
+    "discovered_at": "2026-08-17T21:59:54.299513+00:00"
   },
   {
     "symbol": "TROY",
@@ -3165,7 +3165,7 @@
     "binance_symbol": "TROYUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/troy",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.503366+00:00"
+    "discovered_at": "2026-08-17T21:59:54.299641+00:00"
   },
   {
     "symbol": "TRU",
@@ -3174,7 +3174,7 @@
     "binance_symbol": "TRUUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/truefi",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.503373+00:00"
+    "discovered_at": "2026-08-17T21:59:54.299649+00:00"
   },
   {
     "symbol": "TRX",
@@ -3183,7 +3183,7 @@
     "binance_symbol": "TRXUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/tron",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.503357+00:00"
+    "discovered_at": "2026-08-17T21:59:54.299632+00:00"
   },
   {
     "symbol": "TURBO",
@@ -3192,7 +3192,7 @@
     "binance_symbol": "TURBOUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/turbo",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.503394+00:00"
+    "discovered_at": "2026-08-17T21:59:54.299670+00:00"
   },
   {
     "symbol": "TWT",
@@ -3201,7 +3201,7 @@
     "binance_symbol": "TWTUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/trust-wallet-token",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.503387+00:00"
+    "discovered_at": "2026-08-17T21:59:54.299662+00:00"
   },
   {
     "symbol": "UMA",
@@ -3210,7 +3210,7 @@
     "binance_symbol": "UMAUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/uma",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.503401+00:00"
+    "discovered_at": "2026-08-17T21:59:54.299677+00:00"
   },
   {
     "symbol": "UNI",
@@ -3219,7 +3219,7 @@
     "binance_symbol": "UNIUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/uniswap",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.503408+00:00"
+    "discovered_at": "2026-08-17T21:59:54.299684+00:00"
   },
   {
     "symbol": "USELESS",
@@ -3228,7 +3228,7 @@
     "binance_symbol": "USELESSUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/useless-coin",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.503429+00:00"
+    "discovered_at": "2026-08-17T21:59:54.299705+00:00"
   },
   {
     "symbol": "USTC",
@@ -3237,7 +3237,7 @@
     "binance_symbol": "USTCUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/terra-classic-usd",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.503264+00:00"
+    "discovered_at": "2026-08-17T21:59:54.299544+00:00"
   },
   {
     "symbol": "UTK",
@@ -3246,7 +3246,7 @@
     "binance_symbol": "UTKUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/utrust",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.503436+00:00"
+    "discovered_at": "2026-08-17T21:59:54.299712+00:00"
   },
   {
     "symbol": "VANRY",
@@ -3255,7 +3255,7 @@
     "binance_symbol": "VANRYUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/vanar",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.503445+00:00"
+    "discovered_at": "2026-08-17T21:59:54.299721+00:00"
   },
   {
     "symbol": "VET",
@@ -3264,7 +3264,7 @@
     "binance_symbol": "VETUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/vechain",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.503458+00:00"
+    "discovered_at": "2026-08-17T21:59:54.299735+00:00"
   },
   {
     "symbol": "VIC",
@@ -3273,7 +3273,7 @@
     "binance_symbol": "VICUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/viction",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.503507+00:00"
+    "discovered_at": "2026-08-17T21:59:54.299785+00:00"
   },
   {
     "symbol": "VIRTUAL",
@@ -3282,7 +3282,7 @@
     "binance_symbol": "VIRTUALUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/virtuals-protocol",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.503522+00:00"
+    "discovered_at": "2026-08-17T21:59:54.299800+00:00"
   },
   {
     "symbol": "VRA",
@@ -3291,7 +3291,7 @@
     "binance_symbol": "VRAUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/verasity",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.503479+00:00"
+    "discovered_at": "2026-08-17T21:59:54.299756+00:00"
   },
   {
     "symbol": "VTHO",
@@ -3300,7 +3300,7 @@
     "binance_symbol": "VTHOUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/vethor-token",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.503492+00:00"
+    "discovered_at": "2026-08-17T21:59:54.299770+00:00"
   },
   {
     "symbol": "VVV",
@@ -3309,7 +3309,7 @@
     "binance_symbol": "VVVUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/venice-token",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.503465+00:00"
+    "discovered_at": "2026-08-17T21:59:54.299742+00:00"
   },
   {
     "symbol": "W",
@@ -3318,7 +3318,7 @@
     "binance_symbol": "WUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/wormhole",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.503628+00:00"
+    "discovered_at": "2026-08-17T21:59:54.299910+00:00"
   },
   {
     "symbol": "WAN",
@@ -3327,7 +3327,7 @@
     "binance_symbol": "WANUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/wanchain",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.503553+00:00"
+    "discovered_at": "2026-08-17T21:59:54.299833+00:00"
   },
   {
     "symbol": "WAVES",
@@ -3336,7 +3336,7 @@
     "binance_symbol": "WAVESUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/waves",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.503562+00:00"
+    "discovered_at": "2026-08-17T21:59:54.299842+00:00"
   },
   {
     "symbol": "WBTC",
@@ -3345,7 +3345,7 @@
     "binance_symbol": "WBTCUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/wrapped-bitcoin",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.503635+00:00"
+    "discovered_at": "2026-08-17T21:59:54.299917+00:00"
   },
   {
     "symbol": "WEMIX",
@@ -3354,7 +3354,7 @@
     "binance_symbol": "WEMIXUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/wemix",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.503578+00:00"
+    "discovered_at": "2026-08-17T21:59:54.299859+00:00"
   },
   {
     "symbol": "WIN",
@@ -3363,7 +3363,7 @@
     "binance_symbol": "WINUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/wink",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.503597+00:00"
+    "discovered_at": "2026-08-17T21:59:54.299878+00:00"
   },
   {
     "symbol": "WING",
@@ -3372,7 +3372,7 @@
     "binance_symbol": "WINGUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/wing-finance",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.503590+00:00"
+    "discovered_at": "2026-08-17T21:59:54.299871+00:00"
   },
   {
     "symbol": "WLD",
@@ -3381,7 +3381,7 @@
     "binance_symbol": "WLDUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/worldcoin",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.503621+00:00"
+    "discovered_at": "2026-08-17T21:59:54.299903+00:00"
   },
   {
     "symbol": "WLFI",
@@ -3390,7 +3390,7 @@
     "binance_symbol": "WLFIUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/world-liberty-financial",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.503612+00:00"
+    "discovered_at": "2026-08-17T21:59:54.299894+00:00"
   },
   {
     "symbol": "WNXM",
@@ -3399,7 +3399,7 @@
     "binance_symbol": "WNXMUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/wrapped-nxm",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.503644+00:00"
+    "discovered_at": "2026-08-17T21:59:54.299924+00:00"
   },
   {
     "symbol": "WOO",
@@ -3408,7 +3408,7 @@
     "binance_symbol": "WOOUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/woo-network",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.503603+00:00"
+    "discovered_at": "2026-08-17T21:59:54.299885+00:00"
   },
   {
     "symbol": "WRX",
@@ -3417,7 +3417,7 @@
     "binance_symbol": "WRXUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/wazirx",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.503569+00:00"
+    "discovered_at": "2026-08-17T21:59:54.299849+00:00"
   },
   {
     "symbol": "XAI",
@@ -3426,7 +3426,7 @@
     "binance_symbol": "XAIUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/xai",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.503654+00:00"
+    "discovered_at": "2026-08-17T21:59:54.299933+00:00"
   },
   {
     "symbol": "XAUT",
@@ -3435,7 +3435,7 @@
     "binance_symbol": "XAUTUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/tether-gold",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.503271+00:00"
+    "discovered_at": "2026-08-17T21:59:54.299551+00:00"
   },
   {
     "symbol": "XCH",
@@ -3444,7 +3444,7 @@
     "binance_symbol": "XCHUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/chia",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.500818+00:00"
+    "discovered_at": "2026-08-17T21:59:54.297127+00:00"
   },
   {
     "symbol": "XCN",
@@ -3453,7 +3453,7 @@
     "binance_symbol": "XCNUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/onyxcoin",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.502373+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298675+00:00"
   },
   {
     "symbol": "XDC",
@@ -3462,7 +3462,7 @@
     "binance_symbol": "XDCUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/xdc-network",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.503663+00:00"
+    "discovered_at": "2026-08-17T21:59:54.299941+00:00"
   },
   {
     "symbol": "XEC",
@@ -3471,7 +3471,7 @@
     "binance_symbol": "XECUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/ecash",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501128+00:00"
+    "discovered_at": "2026-08-17T21:59:54.297431+00:00"
   },
   {
     "symbol": "XEM",
@@ -3480,7 +3480,7 @@
     "binance_symbol": "XEMUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/nem",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.502199+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298498+00:00"
   },
   {
     "symbol": "XNO",
@@ -3489,7 +3489,7 @@
     "binance_symbol": "XNOUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/nano",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.502173+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298469+00:00"
   },
   {
     "symbol": "XPL",
@@ -3498,7 +3498,7 @@
     "binance_symbol": "XPLUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/plasma",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.502510+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298817+00:00"
   },
   {
     "symbol": "XRD",
@@ -3507,7 +3507,7 @@
     "binance_symbol": "XRDUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/radix",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.502682+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298990+00:00"
   },
   {
     "symbol": "XRP",
@@ -3516,7 +3516,7 @@
     "binance_symbol": "XRPUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/xrp",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.503669+00:00"
+    "discovered_at": "2026-08-17T21:59:54.299949+00:00"
   },
   {
     "symbol": "XTZ",
@@ -3525,7 +3525,7 @@
     "binance_symbol": "XTZUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/tezos",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.503286+00:00"
+    "discovered_at": "2026-08-17T21:59:54.299564+00:00"
   },
   {
     "symbol": "XVG",
@@ -3534,7 +3534,7 @@
     "binance_symbol": "XVGUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/verge",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.503485+00:00"
+    "discovered_at": "2026-08-17T21:59:54.299763+00:00"
   },
   {
     "symbol": "XVS",
@@ -3543,7 +3543,7 @@
     "binance_symbol": "XVSUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/venus",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.503472+00:00"
+    "discovered_at": "2026-08-17T21:59:54.299749+00:00"
   },
   {
     "symbol": "YFI",
@@ -3552,7 +3552,7 @@
     "binance_symbol": "YFIUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/yearn-finance",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.503676+00:00"
+    "discovered_at": "2026-08-17T21:59:54.299956+00:00"
   },
   {
     "symbol": "YFII",
@@ -3561,7 +3561,7 @@
     "binance_symbol": "YFIIUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/dfi-money",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501033+00:00"
+    "discovered_at": "2026-08-17T21:59:54.297340+00:00"
   },
   {
     "symbol": "YGG",
@@ -3570,7 +3570,7 @@
     "binance_symbol": "YGGUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/yield-guild-games",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.503683+00:00"
+    "discovered_at": "2026-08-17T21:59:54.299963+00:00"
   },
   {
     "symbol": "ZBCN",
@@ -3579,7 +3579,7 @@
     "binance_symbol": "ZBCNUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/zebec-network",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.503697+00:00"
+    "discovered_at": "2026-08-17T21:59:54.299977+00:00"
   },
   {
     "symbol": "ZBU",
@@ -3588,7 +3588,7 @@
     "binance_symbol": "ZBUUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/zeebu",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.503704+00:00"
+    "discovered_at": "2026-08-17T21:59:54.299984+00:00"
   },
   {
     "symbol": "ZCX",
@@ -3597,7 +3597,7 @@
     "binance_symbol": "ZCXUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/unizen",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.503415+00:00"
+    "discovered_at": "2026-08-17T21:59:54.299691+00:00"
   },
   {
     "symbol": "ZEC",
@@ -3606,7 +3606,7 @@
     "binance_symbol": "ZECUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/zcash",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.503690+00:00"
+    "discovered_at": "2026-08-17T21:59:54.299970+00:00"
   },
   {
     "symbol": "ZEN",
@@ -3615,7 +3615,7 @@
     "binance_symbol": "ZENUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/horizen",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501560+00:00"
+    "discovered_at": "2026-08-17T21:59:54.297871+00:00"
   },
   {
     "symbol": "ZETA",
@@ -3624,7 +3624,7 @@
     "binance_symbol": "ZETAUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/zetachain",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.503711+00:00"
+    "discovered_at": "2026-08-17T21:59:54.299991+00:00"
   },
   {
     "symbol": "ZEUS",
@@ -3633,7 +3633,7 @@
     "binance_symbol": "ZEUSUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/zeus-network",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.503718+00:00"
+    "discovered_at": "2026-08-17T21:59:54.299999+00:00"
   },
   {
     "symbol": "ZIL",
@@ -3642,7 +3642,7 @@
     "binance_symbol": "ZILUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/zilliqa",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.503725+00:00"
+    "discovered_at": "2026-08-17T21:59:54.300005+00:00"
   },
   {
     "symbol": "ZK",
@@ -3651,7 +3651,7 @@
     "binance_symbol": "ZKUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/zksync",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.503732+00:00"
+    "discovered_at": "2026-08-17T21:59:54.300012+00:00"
   },
   {
     "symbol": "ZORA",
@@ -3660,7 +3660,7 @@
     "binance_symbol": "ZORAUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/zora",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.503741+00:00"
+    "discovered_at": "2026-08-17T21:59:54.300027+00:00"
   },
   {
     "symbol": "ZRO",
@@ -3669,7 +3669,7 @@
     "binance_symbol": "ZROUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/layerzero",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.501802+00:00"
+    "discovered_at": "2026-08-17T21:59:54.298129+00:00"
   },
   {
     "symbol": "ZRX",
@@ -3678,6 +3678,6 @@
     "binance_symbol": "ZRXUSDT",
     "swyftx_url": "https://swyftx.com/au/buy/0x",
     "source": "Swyftx listing + CoinGecko map",
-    "discovered_at": "2026-08-17T19:45:17.499995+00:00"
+    "discovered_at": "2026-08-17T21:59:54.296247+00:00"
   }
 ]
