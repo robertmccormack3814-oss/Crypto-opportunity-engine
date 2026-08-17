@@ -34,17 +34,17 @@
       "data_quality": "FULL_OHLCV",
       "signal_date": "2026-08-14",
       "timestamp": "2026-08-14T05:52:12.756346+00:00",
-      "entry_price_aud": 3.9651910034027082,
-      "stop_loss_aud": 3.7106724421663118,
-      "profit_target_aud": 4.397872557504582,
-      "atr14_aud": 0.1696790408242643,
-      "risk_per_unit_aud": 0.25451856123639643,
-      "usd_to_aud": 1.4111000299453735,
+      "entry_price_aud": 3.95900898262596,
+      "stop_loss_aud": 3.704887234312896,
+      "profit_target_aud": 4.391015954758169,
+      "atr14_aud": 0.16941449887537605,
+      "risk_per_unit_aud": 0.25412174831306406,
+      "usd_to_aud": 1.4089000225067139,
       "entry_date": "2026-08-14",
       "peak_price": 2.809999942779541,
       "trailing_stop": 2.629631042038855
     }
   },
   "closed_trades": [],
-  "updated_at": "2026-08-16T21:53:14.687253+00:00"
+  "updated_at": "2026-08-17T03:31:47.216261+00:00"
 }
