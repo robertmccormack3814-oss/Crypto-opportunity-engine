@@ -34,17 +34,60 @@
       "data_quality": "FULL_OHLCV",
       "signal_date": "2026-08-14",
       "timestamp": "2026-08-14T05:52:12.756346+00:00",
-      "entry_price_aud": 3.9553560464801762,
-      "stop_loss_aud": 3.7014687736441614,
-      "profit_target_aud": 4.386964410301402,
-      "atr14_aud": 0.1692581818906767,
-      "risk_per_unit_aud": 0.25388727283601503,
-      "usd_to_aud": 1.4076000452041626,
+      "entry_price_aud": 3.9525459152259828,
+      "stop_loss_aud": 3.6988390197193546,
+      "profit_target_aud": 4.38384763758725,
+      "atr14_aud": 0.1691379303377521,
+      "risk_per_unit_aud": 0.25370689550662817,
+      "usd_to_aud": 1.406599998474121,
       "entry_date": "2026-08-14",
       "peak_price": 2.809999942779541,
       "trailing_stop": 2.629631042038855
+    },
+    "ENS": {
+      "symbol": "ENS",
+      "name": "Ethereum Name Service",
+      "strategy": "MEAN_REVERSION",
+      "direction": "LONG",
+      "regime": "RANGE",
+      "signal_score": 77.4,
+      "flow_score": 37.2,
+      "reasons": [
+        "z-score -2.38",
+        "RSI5 8.5",
+        "range ADX"
+      ],
+      "regime_details": {
+        "adx": 16.566392519583907
+      },
+      "execution_risk": {
+        "pass": true,
+        "reasons": [],
+        "average_dollar_volume_20d": 34760380.90435634,
+        "atr_pct": 3.390197901492854,
+        "gap_pct": 0.006686363681729368
+      },
+      "entry_price": 3.809999942779541,
+      "atr14": 0.1291665381069909,
+      "stop_loss": 3.6162501356190546,
+      "profit_target": 4.139374614952368,
+      "risk_per_unit": 0.19374980716048637,
+      "target_r": 1.7,
+      "data_source": "Yahoo",
+      "data_quality": "FULL_OHLCV",
+      "signal_date": "2026-08-18",
+      "timestamp": "2026-08-18T10:53:02.213597+00:00",
+      "entry_price_aud": 5.359145913700104,
+      "stop_loss_aud": 5.086617435243802,
+      "profit_target_aud": 5.822444327075817,
+      "atr14_aud": 0.18168565230420092,
+      "risk_per_unit_aud": 0.2725284784563014,
+      "usd_to_aud": 1.406599998474121,
+      "entry_date": "2026-08-18",
+      "peak_price": 3.809999942779541,
+      "trailing_stop": 3.6162501356190546
     }
   },
   "closed_trades": [],
-  "updated_at": "2026-08-18T08:05:19.003786+00:00"
+  "updated_at": "2026-08-18T10:53:04.557312+00:00"
 }
