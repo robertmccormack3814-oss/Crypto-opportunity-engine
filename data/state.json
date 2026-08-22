@@ -219,49 +219,6 @@
       "peak_price": 1.9269064664840698,
       "trailing_stop": 1.80058500340231
     },
-    "TRB": {
-      "symbol": "TRB",
-      "name": "Tellor Tributes",
-      "strategy": "SQUEEZE_EXPANSION",
-      "direction": "LONG",
-      "regime": "SQUEEZE",
-      "signal_score": 76.2,
-      "flow_score": 55.9,
-      "reasons": [
-        "BB width pct 11",
-        "compression breakout",
-        "strong close"
-      ],
-      "regime_details": {
-        "bb_width_percentile": 10.833333333333334
-      },
-      "execution_risk": {
-        "pass": true,
-        "reasons": [],
-        "average_dollar_volume_20d": 368402161.41505015,
-        "atr_pct": 3.677375219833323,
-        "gap_pct": 0.0014508275355207267
-      },
-      "entry_price": 14.850000381469727,
-      "atr14": 0.5460902341733217,
-      "stop_loss": 13.867037959957747,
-      "profit_target": 17.798887646005664,
-      "risk_per_unit": 0.9829624215119791,
-      "target_r": 3.0,
-      "data_source": "Yahoo",
-      "data_quality": "FULL_OHLCV",
-      "signal_date": "2026-08-20",
-      "timestamp": "2026-08-20T22:04:38.093718+00:00",
-      "entry_price_aud": 20.69793083192826,
-      "stop_loss_aud": 19.327877788951433,
-      "profit_target_aud": 24.808089960858744,
-      "atr14_aud": 0.7611405794315711,
-      "risk_per_unit_aud": 1.370053042976828,
-      "usd_to_aud": 1.3938000202178955,
-      "entry_date": "2026-08-20",
-      "peak_price": 14.850000381469727,
-      "trailing_stop": 13.867037959957747
-    },
     "AAVE": {
       "symbol": "AAVE",
       "name": "Aave",
@@ -305,6 +262,50 @@
       "entry_date": "2026-08-21",
       "peak_price": 101.33000183105469,
       "trailing_stop": 94.12920355422298
+    },
+    "TRX": {
+      "symbol": "TRX",
+      "name": "TRON",
+      "strategy": "TREND_BREAKOUT",
+      "direction": "LONG",
+      "regime": "TREND",
+      "signal_score": 96.0,
+      "flow_score": 79.8,
+      "reasons": [
+        "20-day breakout",
+        "EMA alignment",
+        "ADX 24.1",
+        "relative volume 2.10x"
+      ],
+      "regime_details": {
+        "adx": 24.147437877085935
+      },
+      "execution_risk": {
+        "pass": true,
+        "reasons": [],
+        "average_dollar_volume_20d": 164988713.8968975,
+        "atr_pct": 1.1678424051963299,
+        "gap_pct": 0.0013887787028044052
+      },
+      "entry_price": 0.3453127145767212,
+      "atr14": 0.0040327083113615185,
+      "stop_loss": 0.33724729795399816,
+      "profit_target": 0.3654762561335288,
+      "risk_per_unit": 0.008065416622723037,
+      "target_r": 2.5,
+      "data_source": "Yahoo",
+      "data_quality": "FULL_OHLCV",
+      "signal_date": "2026-08-22",
+      "timestamp": "2026-08-22T07:50:20.491595+00:00",
+      "entry_price_aud": 0.4812968685585304,
+      "stop_loss_aud": 0.47005529070671326,
+      "profit_target_aud": 0.5094008131880732,
+      "atr14_aud": 0.00562078892590856,
+      "risk_per_unit_aud": 0.01124157785181712,
+      "usd_to_aud": 1.3938000202178955,
+      "entry_date": "2026-08-22",
+      "peak_price": 0.3453127145767212,
+      "trailing_stop": 0.33724729795399816
     }
   },
   "closed_trades": [
@@ -404,7 +405,55 @@
       "exit_reason": "PROFIT_TARGET",
       "pnl_pct": 10.911997775909676,
       "exit_price_aud": 4.380107807554988
+    },
+    {
+      "symbol": "TRB",
+      "name": "Tellor Tributes",
+      "strategy": "SQUEEZE_EXPANSION",
+      "direction": "LONG",
+      "regime": "SQUEEZE",
+      "signal_score": 76.2,
+      "flow_score": 55.9,
+      "reasons": [
+        "BB width pct 11",
+        "compression breakout",
+        "strong close"
+      ],
+      "regime_details": {
+        "bb_width_percentile": 10.833333333333334
+      },
+      "execution_risk": {
+        "pass": true,
+        "reasons": [],
+        "average_dollar_volume_20d": 368402161.41505015,
+        "atr_pct": 3.677375219833323,
+        "gap_pct": 0.0014508275355207267
+      },
+      "entry_price": 14.850000381469727,
+      "atr14": 0.5460902341733217,
+      "stop_loss": 13.867037959957747,
+      "profit_target": 17.798887646005664,
+      "risk_per_unit": 0.9829624215119791,
+      "target_r": 3.0,
+      "data_source": "Yahoo",
+      "data_quality": "FULL_OHLCV",
+      "signal_date": "2026-08-20",
+      "timestamp": "2026-08-20T22:04:38.093718+00:00",
+      "entry_price_aud": 20.69793083192826,
+      "stop_loss_aud": 19.327877788951433,
+      "profit_target_aud": 24.808089960858744,
+      "atr14_aud": 0.7611405794315711,
+      "risk_per_unit_aud": 1.370053042976828,
+      "usd_to_aud": 1.3938000202178955,
+      "entry_date": "2026-08-20",
+      "peak_price": 14.850000381469727,
+      "trailing_stop": 13.867037959957747,
+      "exit_date": "2026-08-22",
+      "exit_price": 17.798887646005664,
+      "exit_reason": "PROFIT_TARGET",
+      "pnl_pct": 19.857826187099946,
+      "exit_price_aud": 24.808089960858744
     }
   ],
-  "updated_at": "2026-08-22T05:00:19.131598+00:00"
+  "updated_at": "2026-08-22T07:50:24.080712+00:00"
 }
