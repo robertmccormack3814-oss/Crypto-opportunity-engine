@@ -1,49 +1,5 @@
 {
   "active_trades": {
-    "ZEC": {
-      "symbol": "ZEC",
-      "name": "Zcash",
-      "strategy": "SQUEEZE_EXPANSION",
-      "direction": "LONG",
-      "regime": "SQUEEZE",
-      "signal_score": 100,
-      "flow_score": 78.1,
-      "reasons": [
-        "BB width pct 9",
-        "relative volume 1.70x",
-        "compression breakout",
-        "strong close"
-      ],
-      "regime_details": {
-        "bb_width_percentile": 9.166666666666666
-      },
-      "execution_risk": {
-        "pass": true,
-        "reasons": [],
-        "average_dollar_volume_20d": 144127375228.7259,
-        "atr_pct": 4.42293905264492,
-        "gap_pct": 0.0060527741921667655
-      },
-      "entry_price": 560.7899780273438,
-      "atr14": 24.80339894149025,
-      "stop_loss": 516.1438599326613,
-      "profit_target": 694.7283323113911,
-      "risk_per_unit": 44.64611809468245,
-      "target_r": 3.0,
-      "data_source": "Yahoo",
-      "data_quality": "FULL_OHLCV",
-      "signal_date": "2026-08-19",
-      "timestamp": "2026-08-19T16:52:34.307425+00:00",
-      "entry_price_aud": 781.6290827125049,
-      "stop_loss_aud": 719.4013224094859,
-      "profit_target_aud": 968.3123636215618,
-      "atr14_aud": 34.57097794612164,
-      "risk_per_unit_aud": 62.22776030301895,
-      "usd_to_aud": 1.3938000202178955,
-      "entry_date": "2026-08-19",
-      "peak_price": 560.7899780273438,
-      "trailing_stop": 516.1438599326613
-    },
     "PENDLE": {
       "symbol": "PENDLE",
       "name": "Pendle",
@@ -86,94 +42,6 @@
       "entry_date": "2026-08-20",
       "peak_price": 1.4889999628067017,
       "trailing_stop": 1.3582087455741532
-    },
-    "VIRTUAL": {
-      "symbol": "VIRTUAL",
-      "name": "Virtuals Protocol",
-      "strategy": "SQUEEZE_EXPANSION",
-      "direction": "LONG",
-      "regime": "SQUEEZE",
-      "signal_score": 100,
-      "flow_score": 73.2,
-      "reasons": [
-        "BB width pct 12",
-        "relative volume 1.58x",
-        "compression breakout",
-        "strong close"
-      ],
-      "regime_details": {
-        "bb_width_percentile": 11.666666666666666
-      },
-      "execution_risk": {
-        "pass": true,
-        "reasons": [],
-        "average_dollar_volume_20d": 20924932.608424775,
-        "atr_pct": 4.558901880966767,
-        "gap_pct": 0.004336339011445922
-      },
-      "entry_price": 0.6139690279960632,
-      "atr14": 0.027990245565865903,
-      "stop_loss": 0.5635865859775047,
-      "profit_target": 0.7651163540517392,
-      "risk_per_unit": 0.050382442018558626,
-      "target_r": 3.0,
-      "data_source": "Yahoo",
-      "data_quality": "FULL_OHLCV",
-      "signal_date": "2026-08-20",
-      "timestamp": "2026-08-20T08:09:54.346162+00:00",
-      "entry_price_aud": 0.8557500436340746,
-      "stop_loss_aud": 0.7855269949299807,
-      "profit_target_aud": 1.0664191897463566,
-      "atr14_aud": 0.039012804835607755,
-      "risk_per_unit_aud": 0.07022304870409396,
-      "usd_to_aud": 1.3938000202178955,
-      "entry_date": "2026-08-20",
-      "peak_price": 0.6139690279960632,
-      "trailing_stop": 0.5635865859775047
-    },
-    "XPL": {
-      "symbol": "XPL",
-      "name": "Plasma",
-      "strategy": "SQUEEZE_EXPANSION",
-      "direction": "LONG",
-      "regime": "SQUEEZE",
-      "signal_score": 100,
-      "flow_score": 53.7,
-      "reasons": [
-        "BB width pct 3",
-        "relative volume 1.57x",
-        "compression breakout",
-        "strong close"
-      ],
-      "regime_details": {
-        "bb_width_percentile": 3.3333333333333335
-      },
-      "execution_risk": {
-        "pass": true,
-        "reasons": [],
-        "average_dollar_volume_20d": 7954757.673303828,
-        "atr_pct": 5.370676738855554,
-        "gap_pct": 0.005941658466812605
-      },
-      "entry_price": 0.08278000354766846,
-      "atr14": 0.004445846394958432,
-      "stop_loss": 0.07477748003674328,
-      "profit_target": 0.106787574080444,
-      "risk_per_unit": 0.008002523510925178,
-      "target_r": 3.0,
-      "data_source": "Yahoo",
-      "data_quality": "FULL_OHLCV",
-      "signal_date": "2026-08-20",
-      "timestamp": "2026-08-20T10:52:55.114632+00:00",
-      "entry_price_aud": 0.11537877061837776,
-      "stop_loss_aud": 0.10422485318705607,
-      "profit_target_aud": 0.14884052291234284,
-      "atr14_aud": 0.0061966207951787205,
-      "risk_per_unit_aud": 0.011153917431321698,
-      "usd_to_aud": 1.3938000202178955,
-      "entry_date": "2026-08-20",
-      "peak_price": 0.08278000354766846,
-      "trailing_stop": 0.07477748003674328
     },
     "AR": {
       "symbol": "AR",
@@ -218,50 +86,6 @@
       "entry_date": "2026-08-20",
       "peak_price": 1.9269064664840698,
       "trailing_stop": 1.80058500340231
-    },
-    "AAVE": {
-      "symbol": "AAVE",
-      "name": "Aave",
-      "strategy": "SQUEEZE_EXPANSION",
-      "direction": "LONG",
-      "regime": "SQUEEZE",
-      "signal_score": 100,
-      "flow_score": 67.3,
-      "reasons": [
-        "BB width pct 16",
-        "relative volume 1.59x",
-        "compression breakout",
-        "strong close"
-      ],
-      "regime_details": {
-        "bb_width_percentile": 15.833333333333332
-      },
-      "execution_risk": {
-        "pass": true,
-        "reasons": [],
-        "average_dollar_volume_20d": 14956278344.075214,
-        "atr_pct": 3.947935867798146,
-        "gap_pct": 4.1032053704157745
-      },
-      "entry_price": 101.33000183105469,
-      "atr14": 4.000443487128726,
-      "stop_loss": 94.12920355422298,
-      "profit_target": 122.9323966615498,
-      "risk_per_unit": 7.200798276831708,
-      "target_r": 3.0,
-      "data_source": "Yahoo",
-      "data_quality": "FULL_OHLCV",
-      "signal_date": "2026-08-21",
-      "timestamp": "2026-08-21T03:34:03.308398+00:00",
-      "entry_price_aud": 141.2337586008034,
-      "stop_loss_aud": 131.1972858169704,
-      "profit_target_aud": 171.34317695230246,
-      "atr14_aud": 5.575818213240567,
-      "risk_per_unit_aud": 10.036472783833021,
-      "usd_to_aud": 1.3938000202178955,
-      "entry_date": "2026-08-21",
-      "peak_price": 101.33000183105469,
-      "trailing_stop": 94.12920355422298
     },
     "TRX": {
       "symbol": "TRX",
@@ -453,7 +277,203 @@
       "exit_reason": "PROFIT_TARGET",
       "pnl_pct": 19.857826187099946,
       "exit_price_aud": 24.808089960858744
+    },
+    {
+      "symbol": "VIRTUAL",
+      "name": "Virtuals Protocol",
+      "strategy": "SQUEEZE_EXPANSION",
+      "direction": "LONG",
+      "regime": "SQUEEZE",
+      "signal_score": 100,
+      "flow_score": 73.2,
+      "reasons": [
+        "BB width pct 12",
+        "relative volume 1.58x",
+        "compression breakout",
+        "strong close"
+      ],
+      "regime_details": {
+        "bb_width_percentile": 11.666666666666666
+      },
+      "execution_risk": {
+        "pass": true,
+        "reasons": [],
+        "average_dollar_volume_20d": 20924932.608424775,
+        "atr_pct": 4.558901880966767,
+        "gap_pct": 0.004336339011445922
+      },
+      "entry_price": 0.6139690279960632,
+      "atr14": 0.027990245565865903,
+      "stop_loss": 0.5635865859775047,
+      "profit_target": 0.7651163540517392,
+      "risk_per_unit": 0.050382442018558626,
+      "target_r": 3.0,
+      "data_source": "Yahoo",
+      "data_quality": "FULL_OHLCV",
+      "signal_date": "2026-08-20",
+      "timestamp": "2026-08-20T08:09:54.346162+00:00",
+      "entry_price_aud": 0.8557500436340746,
+      "stop_loss_aud": 0.7855269949299807,
+      "profit_target_aud": 1.0664191897463566,
+      "atr14_aud": 0.039012804835607755,
+      "risk_per_unit_aud": 0.07022304870409396,
+      "usd_to_aud": 1.3938000202178955,
+      "entry_date": "2026-08-20",
+      "peak_price": 0.6139690279960632,
+      "trailing_stop": 0.5635865859775047,
+      "exit_date": "2026-08-22",
+      "exit_price": 0.7651163540517392,
+      "exit_reason": "PROFIT_TARGET",
+      "pnl_pct": 24.61807015722055,
+      "exit_price_aud": 1.0664191897463566
+    },
+    {
+      "symbol": "XPL",
+      "name": "Plasma",
+      "strategy": "SQUEEZE_EXPANSION",
+      "direction": "LONG",
+      "regime": "SQUEEZE",
+      "signal_score": 100,
+      "flow_score": 53.7,
+      "reasons": [
+        "BB width pct 3",
+        "relative volume 1.57x",
+        "compression breakout",
+        "strong close"
+      ],
+      "regime_details": {
+        "bb_width_percentile": 3.3333333333333335
+      },
+      "execution_risk": {
+        "pass": true,
+        "reasons": [],
+        "average_dollar_volume_20d": 7954757.673303828,
+        "atr_pct": 5.370676738855554,
+        "gap_pct": 0.005941658466812605
+      },
+      "entry_price": 0.08278000354766846,
+      "atr14": 0.004445846394958432,
+      "stop_loss": 0.07477748003674328,
+      "profit_target": 0.106787574080444,
+      "risk_per_unit": 0.008002523510925178,
+      "target_r": 3.0,
+      "data_source": "Yahoo",
+      "data_quality": "FULL_OHLCV",
+      "signal_date": "2026-08-20",
+      "timestamp": "2026-08-20T10:52:55.114632+00:00",
+      "entry_price_aud": 0.11537877061837776,
+      "stop_loss_aud": 0.10422485318705607,
+      "profit_target_aud": 0.14884052291234284,
+      "atr14_aud": 0.0061966207951787205,
+      "risk_per_unit_aud": 0.011153917431321698,
+      "usd_to_aud": 1.3938000202178955,
+      "entry_date": "2026-08-20",
+      "peak_price": 0.08278000354766846,
+      "trailing_stop": 0.07477748003674328,
+      "exit_date": "2026-08-22",
+      "exit_price": 0.106787574080444,
+      "exit_reason": "PROFIT_TARGET",
+      "pnl_pct": 29.001654389819986,
+      "exit_price_aud": 0.14884052291234284
+    },
+    {
+      "symbol": "ZEC",
+      "name": "Zcash",
+      "strategy": "SQUEEZE_EXPANSION",
+      "direction": "LONG",
+      "regime": "SQUEEZE",
+      "signal_score": 100,
+      "flow_score": 78.1,
+      "reasons": [
+        "BB width pct 9",
+        "relative volume 1.70x",
+        "compression breakout",
+        "strong close"
+      ],
+      "regime_details": {
+        "bb_width_percentile": 9.166666666666666
+      },
+      "execution_risk": {
+        "pass": true,
+        "reasons": [],
+        "average_dollar_volume_20d": 144127375228.7259,
+        "atr_pct": 4.42293905264492,
+        "gap_pct": 0.0060527741921667655
+      },
+      "entry_price": 560.7899780273438,
+      "atr14": 24.80339894149025,
+      "stop_loss": 516.1438599326613,
+      "profit_target": 694.7283323113911,
+      "risk_per_unit": 44.64611809468245,
+      "target_r": 3.0,
+      "data_source": "Yahoo",
+      "data_quality": "FULL_OHLCV",
+      "signal_date": "2026-08-19",
+      "timestamp": "2026-08-19T16:52:34.307425+00:00",
+      "entry_price_aud": 781.6290827125049,
+      "stop_loss_aud": 719.4013224094859,
+      "profit_target_aud": 968.3123636215618,
+      "atr14_aud": 34.57097794612164,
+      "risk_per_unit_aud": 62.22776030301895,
+      "usd_to_aud": 1.3938000202178955,
+      "entry_date": "2026-08-19",
+      "peak_price": 560.7899780273438,
+      "trailing_stop": 516.1438599326613,
+      "exit_date": "2026-08-22",
+      "exit_price": 694.7283323113911,
+      "exit_reason": "PROFIT_TARGET",
+      "pnl_pct": 23.883870884282565,
+      "exit_price_aud": 968.3123636215618
+    },
+    {
+      "symbol": "AAVE",
+      "name": "Aave",
+      "strategy": "SQUEEZE_EXPANSION",
+      "direction": "LONG",
+      "regime": "SQUEEZE",
+      "signal_score": 100,
+      "flow_score": 67.3,
+      "reasons": [
+        "BB width pct 16",
+        "relative volume 1.59x",
+        "compression breakout",
+        "strong close"
+      ],
+      "regime_details": {
+        "bb_width_percentile": 15.833333333333332
+      },
+      "execution_risk": {
+        "pass": true,
+        "reasons": [],
+        "average_dollar_volume_20d": 14956278344.075214,
+        "atr_pct": 3.947935867798146,
+        "gap_pct": 4.1032053704157745
+      },
+      "entry_price": 101.33000183105469,
+      "atr14": 4.000443487128726,
+      "stop_loss": 94.12920355422298,
+      "profit_target": 122.9323966615498,
+      "risk_per_unit": 7.200798276831708,
+      "target_r": 3.0,
+      "data_source": "Yahoo",
+      "data_quality": "FULL_OHLCV",
+      "signal_date": "2026-08-21",
+      "timestamp": "2026-08-21T03:34:03.308398+00:00",
+      "entry_price_aud": 141.2337586008034,
+      "stop_loss_aud": 131.1972858169704,
+      "profit_target_aud": 171.34317695230246,
+      "atr14_aud": 5.575818213240567,
+      "risk_per_unit_aud": 10.036472783833021,
+      "usd_to_aud": 1.3938000202178955,
+      "entry_date": "2026-08-21",
+      "peak_price": 101.33000183105469,
+      "trailing_stop": 94.12920355422298,
+      "exit_date": "2026-08-22",
+      "exit_price": 122.9323966615498,
+      "exit_reason": "PROFIT_TARGET",
+      "pnl_pct": 21.318853686109975,
+      "exit_price_aud": 171.34317695230246
     }
   ],
-  "updated_at": "2026-08-22T07:50:24.080712+00:00"
+  "updated_at": "2026-08-22T10:01:05.213329+00:00"
 }
